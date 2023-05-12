@@ -1,0 +1,2019 @@
+index,Winery,Year,Wine ID,Wine,Rating,num_review,price,Country,Region,Selected_region
+0,Viña Oria,2019,1812139,Garnacha 2019,3.5,327,2.5,España,Cariñena,Catalunya Sul
+1,Ayuso,2017,2084964,Abadia del Roble Tinto 2017,2.9,52,2.54,España,La Mancha,other
+2,Castillo de Liria,2020,1643745,Bobal - Shiraz 2020,3.4,85,2.56,España,Valencia,other
+3,Castillo de Liria,2019,1643745,Bobal - Shiraz 2019,3.6,305,2.56,España,Valencia,other
+4,Finca Venta de Don Quijote,2020,7166356,Tempranillo - Syrah 2020,3.6,129,2.72,España,Castilla,other
+5,Schenk Spanish Wineries,2019,1884409,Vega Libre Tinto 2019,3.2,304,2.9,España,Valencia,other
+6,Antaño,2020,1401663,Rioja Tempranillo 2020,3.3,141,2.95,España,Rioja,Rioja
+7,Marqués de la Concordia,2015,2805851,MM Tinto Crianza 2015,3.1,99,3.0,España,Cataluña,Catalunya Sul
+8,Palacio del Conde,2018,1209992,Crianza 2018,3.2,42,3.01,España,Valencia,other
+9,Ayuso,2015,2381489,Castillo de Benízar Tempranillo 2015,3.3,151,3.13,España,La Mancha,other
+10,Monasterio de Las Vinas,2013,1437023,Crianza 2013,3.5,2097,3.225,España,Cariñena,Catalunya Sul
+11,Corona de Aragón,2011,2185794,Special Selection 2011,3.5,285,3.225,España,Cariñena,Catalunya Sul
+12,Señorío de Nava,2019,1136539,Ribera del Duero Tinto 2019,3.2,46,3.3,España,Ribera del Duero,Ribera del Duero
+13,Bodegas Príncipe de Viana,2019,1570095,Colección Monovarietales Syrah Roble 2019,3.3,33,3.3,España,Navarra,other
+14,Ramón Roqueta,2020,1489241,Synera Tinto 2020,2.9,39,3.45,España,Cataluña,Catalunya Sul
+15,Ramón Roqueta,2018,1489241,Synera Tinto 2018,3.0,225,3.45,España,Cataluña,Catalunya Sul
+16,Félix Solís,2019,3349567,Casa Albali Tempranillo - Shiraz 2019,3.6,147,3.45,España,Valdepeñas,other
+17,Ramón Roqueta,2019,1489241,Synera Tinto 2019,3.2,103,3.45,España,Cataluña,Catalunya Sul
+18,Bodegas Virgen de la Sierra,2019,1208738,Cruz de Piedra Garnacha Tinto 2019,3.6,94,3.5,España,Calatayud,other
+19,El Circo,2018,3198808,Equilibrista Cariñena 2018,3.5,43,3.5,España,Cariñena,Catalunya Sul
+20,El Circo,2020,1594712,Arlequín Syrah 2020,3.5,26,3.5,España,Cariñena,Catalunya Sul
+21,Luzon,2018,6065522,Colección Monastrell 2018,3.4,114,3.5,España,Jumilla,other
+22,Canforrales,2018,1252277,Clásico Tempranillo 2018,3.5,105,3.5,España,La Mancha,other
+23,Don Diego Escolano,2016,1194905,Reserva 2016,3.0,27,3.51,España,Cariñena,Catalunya Sul
+24,Osborne,2020,81714,Solaz Tempranillo - Cabernet Sauvignon 2020,3.4,158,3.57,España,Castilla,other
+25,Laudum,2018,3944352,Roble Monastrell - Syrah 2018,3.5,84,3.6,España,Valencia,other
+26,Las Campanas,2018,3407133,Tempranillo 2018,3.4,28,3.61,España,Navarra,other
+27,Bach,2020,1255221,Viña Extrísima Tinto 2020,3.1,46,3.65,España,Cataluña,Catalunya Sul
+28,Dominio de Eguren,2018,1207654,Protocolo Tinto 2018,3.6,701,3.65,España,Castilla,other
+29,Dominio de Eguren,2019,1207654,Protocolo Tinto 2019,3.5,222,3.69,España,Castilla,other
+30,Garriguella,2020,1196777,Dinarells Tinto 2020,3.2,40,3.7,España,Empordà,other
+31,Vinoletto,2015,4585737,Garnacha Seco 2015,3.1,33,3.75,España,La Mancha,other
+32,Bodega Sommos,2019,4171137,Glárima Merlot - Tempranillo 2019,3.5,594,3.75,España,Somontano,other
+33,Bodegas Faustino,2019,1129392,VII Tempranillo 2019,3.8,4773,3.75,España,Rioja,Rioja
+34,Vinoletto,2018,4585737,Garnacha Seco 2018,3.4,28,3.75,España,La Mancha,other
+35,El Circo,2020,2137289,Volatinero Tempranillo 2020,3.6,154,3.75,España,Cariñena,Catalunya Sul
+36,El Circo,2019,2182395,Bailarina Merlot 2019,3.3,35,3.75,España,Cariñena,Catalunya Sul
+37,Félix Solís,2012,2667778,Casa Albali Crianza 2012,2.9,41,3.81,España,Valdepeñas,other
+38,Aldeya,2019,1595728,Tinto 2019,3.2,32,3.85,España,Cariñena,Catalunya Sul
+39,Ayuso,2017,2198505,Estola Crianza 2017,3.4,239,3.85,España,La Mancha,other
+40,J. Flores,2018,6038870,Roble 2018,3.5,48,3.875,España,Ribera del Duero,Ribera del Duero
+41,Condesa de Leganza,2017,1173157,Tempranillo 2017,3.4,828,3.88,España,Castilla,other
+42,Bodegas Aragonesas,2019,1577616,Coto de Hayas Tempranillo - Cabernet Sauvignon Roble 2019,3.6,212,3.9,España,Campo de Borja,other
+43,Marques de Vitoria,2017,1488465,Rioja Crianza 2017,3.6,365,3.9,España,Rioja,Rioja
+44,Baluarte,2019,4298499,Roble 2019,3.8,736,3.9,España,Navarra,other
+45,Baluarte,2017,4298499,Roble 2017,3.7,451,3.9,España,Navarra,other
+46,Monasterio de Las Vinas,2018,1437023,Crianza 2018,3.8,460,3.9,España,Cariñena,Catalunya Sul
+47,René Barbier,2019,1283889,Roble 2019,3.0,61,3.9,España,Cataluña,Catalunya Sul
+48,Terrai,2020,2321919,OVG Old Vine Garnacha 2020,3.5,27,3.95,España,Cariñena,Catalunya Sul
+49,Bodegas Aragonesas,2020,1144372,Coto de Hayas Garnacha - Syrah 2020,3.5,79,3.95,España,Aragón,other
+50,Dominio de Eguren,2017,9399,Códice 2017,3.5,244,3.98,España,Castilla y León,other
+51,El Aviador,2020,1223778,Tempranillo 2020,3.3,56,3.98,España,Castilla y León,other
+52,Reserva de la Tierra,2017,6485347,Pago de Pelde Syrah - Tempranillo 2017,3.6,72,3.99,España,Terra Alta,Catalunya Sul
+53,Nuviana,2020,5250039,Tinto 2020,3.3,27,3.99,España,Valle del Cinca,other
+54,Cata Regia,2017,1260784,Reserva Syrah 2017,3.7,562,3.99,España,Terra Alta,Catalunya Sul
+55,Valcarlos,2018,1546447,Fortius Roble 2018,3.5,554,3.99,España,Navarra,other
+56,Hoya de Cadenas,2017,1437851,Reserva Tempranillo 2017,3.4,244,3.99,España,Utiel-Requena,other
+57,Oristan,2015,78569,Bronze Crianza 2015,3.4,308,4.0,España,La Mancha,other
+58,Ca N'Estella,2019,1446183,Clot Dels Oms Petit Tinto 2019,3.4,33,4.0,España,Panadés,other
+59,Baluarte,2018,4298499,Roble 2018,3.6,565,4.0,España,Navarra,other
+60,Borsao Bodegas,2020,1136710,Tinto (Selección / Garnacha) 2020,3.6,290,4.04,España,Campo de Borja,other
+61,Pagos de Aráiz,2019,86346,Navarra Tinto Roble 2019,3.8,29,4.07,España,Navarra,other
+62,The Freaky Wines,2019,5537773,Tempranillo 2019,3.6,569,4.1,España,Castilla,other
+63,Marqués de Tosos,2017,4539988,Crianza 2017,3.3,25,4.1,España,Cariñena,Catalunya Sul
+64,Corona de Aragón,2019,1580664,Garnacha 2019,3.3,38,4.15,España,Cariñena,Catalunya Sul
+65,Viña Alcanta,2020,4764038,Tinto 2020,3.5,116,4.16,España,Alicante,other
+66,Finca del Mar,2018,76609,Tempranillo Crianza 2018,3.4,174,4.166666666666667,España,Utiel-Requena,other
+67,Familia Torres,2020,1385210,Sangre de Toro 2020,3.1,140,4.185,España,Cataluña,Catalunya Sul
+68,Bodega Pirineos,2020,2696722,Montesierra Red Blend 2020,3.4,88,4.2,España,Somontano,other
+69,Berceo,2016,1141591,Crianza 2016,3.6,176,4.21,España,Rioja,Rioja
+70,Federico Paternina,2019,13190,Banda Azul Crianza 2019,3.5,96,4.21,España,Rioja,Rioja
+71,Falset Marçà,2020,1373160,Imus Selection 2020,3.2,47,4.22,España,Montsant,Catalunya Sul
+72,Raimat,2020,2057155,Clamor Tinto 2020,3.1,165,4.23,España,Costers del Segre,other
+73,Finca La Estacada,2018,5197184,Ocho y Medio Tinto Velasco 2018,3.5,32,4.25,España,Castilla,other
+74,Séptimo Sentido,2020,3780395,Tempranillo 2020,3.8,177,4.25,España,Castelló,other
+75,Corona de Aragón,2020,1580664,Garnacha 2020,3.1,26,4.25,España,Cariñena,Catalunya Sul
+76,Bodega Sommos,2020,4171137,Glárima Merlot - Tempranillo 2020,3.5,212,4.25,España,Somontano,other
+77,Carlos Serres,2020,1477639,Rioja Tempranillo 2020,3.7,108,4.25,España,Rioja,Rioja
+78,Bodegas Vallobera,2014,1205627,Crianza Rioja 2014,3.6,634,4.26,España,Rioja,Rioja
+79,Berceo,2018,5389307,Tempranillo 2018,3.5,167,4.28,España,Rioja,Rioja
+80,Félix Solís,2014,3993003,Casa Albali Gran Selección 2014,3.4,138,4.34,España,Valdepeñas,other
+81,Cellers Tarroné,2020,2403659,Sisquera Tinto 2020,3.4,29,4.35,España,Tarragona,Catalunya Sul
+82,Particular,2020,4311709,Garnacha 2020,3.9,88,4.35,España,Cariñena,Catalunya Sul
+83,Bodega Pirineos,2020,5380342,3404 (Tresmilcuatrocientoscuatro) 2020,3.6,226,4.4,España,Somontano,other
+84,Borsao Bodegas,2019,1136710,Tinto (Selección / Garnacha) 2019,3.6,1089,4.4,España,Campo de Borja,other
+85,Borsao Bodegas,2019,1216711,Barrica (Selección) 2019,3.4,82,4.4,España,Campo de Borja,other
+86,Laus,2020,5465255,Tinto Joven 2020,3.2,35,4.4,España,Somontano,other
+87,Viñas del Vero,2020,23477,Roble Cabernet Sauvignon - Merlot Somontano 2020,3.4,331,4.4,España,Somontano,other
+88,Gran Feudo,2013,12305,Crianza 2013,3.4,622,4.42,España,Navarra,other
+89,Venta La Vega - Bodegas Almanseñas,2017,6435494,Adaras Calizo Garnacha Tintorera 2017,3.2,56,4.44,España,Almansa,other
+90,Azabache,2020,7151382,Tunante de Azabache Tempranillo 2020,3.6,213,4.45,España,Rioja,Rioja
+91,San Valero,2018,5314823,Origium Roble 2018,3.5,77,4.45,España,Cariñena,Catalunya Sul
+92,Murviedro,2018,1250722,Colección Tempranillo 2018,3.6,312,4.49,España,Valencia,other
+93,Beso de Vino,2016,3316211,Syrah - Garnacha 2016,3.5,252,4.5,España,Cariñena,Catalunya Sul
+94,Félix Solís,2019,3993003,Casa Albali Gran Selección 2019,3.6,100,4.5,España,Valdepeñas,other
+95,Yllera,2015,1149907,12 Meses en Barrica Tempranillo 2015,3.7,490,4.5,España,Ribera del Duero,Ribera del Duero
+96,Yllera,2018,5965659,9 Meses en Barrica Roble Tempranillo 2018,3.6,65,4.5,España,Ribera del Duero,Ribera del Duero
+97,Dominio de Eguren,2019,9399,Códice 2019,3.5,40,4.5,España,Castilla y León,other
+98,El Circo,2016,5386947,Forzudo Crianza 2016,3.7,26,4.5,España,Cariñena,Catalunya Sul
+99,Freixenet,2020,1252649,Mia Tinto 2020,3.4,65,4.5,España,Castilla y León,other
+100,Beso de Vino,2017,1142511,Old Vine Garnacha 2017,3.7,47,4.5,España,Cariñena,Catalunya Sul
+101,Bodegas Faustino,2020,1129392,VII Tempranillo 2020,3.6,493,4.51,España,Rioja,Rioja
+102,Oliveda,2020,3296854,Marrec Tinto 2020,3.5,41,4.51,España,Empordà,other
+103,Viña Cumbrero,2017,4320358,Rioja Crianza 2017,3.4,85,4.6,España,Rioja,Rioja
+104,Finca La Estacada,2016,3123972,Hello World Petit Verdot 2016,3.4,390,4.62,España,Castilla,other
+105,Finca La Estacada,2019,3495681,Hello World Cabernet Franc 2019,3.6,109,4.62,España,Castilla,other
+106,Ayuso,2016,1138136,Estola Reserva 2016,3.6,530,4.66,España,La Mancha,other
+107,Pagos de Aráiz,2017,1552352,Crianza 2017,3.8,260,4.67,España,Navarra,other
+108,Valcarlos,2014,1169714,Fortius Crianza 2014,3.6,219,4.67,España,Navarra,other
+109,Bodegas Valdelana,2017,1583264,Barón Ladrón de Guevara Crianza 2017,3.9,54,4.7,España,Rioja,Rioja
+110,Laudum,2019,3944352,Roble Monastrell - Syrah 2019,3.7,113,4.7,España,Valencia,other
+111,Nuntius,2018,1498351,Cosecha 2018,2.9,27,4.71,España,Rioja,Rioja
+112,Don Diego Escolano,2011,1927816,Gran Reserva 2011,3.4,88,4.73,España,Cariñena,Catalunya Sul
+113,Señorío de Sarria,2016,1125826,Crianza 2016,3.5,313,4.74,España,Navarra,other
+114,Bodegas Príncipe de Viana,2019,4611595,Colección Monovarietales Tempranillo Roble 2019,3.5,29,4.75,España,Navarra,other
+115,Busca Raons,2020,6834921,Tinto 2020,3.6,49,4.75,España,Costers del Segre,other
+116,Arnegui,2018,1710204,Tempranillo Rioja 2018,3.6,212,4.75,España,Rioja,Rioja
+117,Bodegas Piqueras,2020,6230146,El Picoteo Tinto 2020,3.5,219,4.76,España,Almansa,other
+118,Bodegas Cosme Palacio,2016,1135925,Milflores Rioja Tinto 2016,3.1,938,4.78,España,Rioja,Rioja
+119,Volver,2020,4486087,Madame Bobalu Bobal 2020,3.7,32,4.79,España,Valencia,other
+120,Enate,2019,1158423,Tapas Tempranillo 2019,3.5,97,4.8,España,Somontano,other
+121,Marqués de la Concordia,2018,1150826,Rioja Tempranillo 2018,3.7,684,4.8,España,Rioja,Rioja
+122,Enate,2018,1158423,Tapas Tempranillo 2018,3.3,201,4.8,España,Somontano,other
+123,Bodegas Príncipe de Viana,2016,1561396,Crianza 2016,3.4,28,4.83,España,Navarra,other
+124,Bodegas Aragonesas,2018,1825919,Coto De Hayas Crianza 2018,3.8,75,4.85,España,Campo de Borja,other
+125,Bodegas Aragonesas,2017,1825919,Coto De Hayas Crianza 2017,3.7,146,4.85,España,Campo de Borja,other
+126,Dominio de Eguren,2016,9399,Códice 2016,3.2,259,4.85,España,Castilla y León,other
+127,Borsao Bodegas,2019,1657138,Joven (Selección) 2019,3.2,89,4.85,España,Campo de Borja,other
+128,Arnegui,2020,1710204,Tempranillo Rioja 2020,3.4,58,4.85,España,Rioja,Rioja
+129,Bodegas Olarra,2020,1554308,Reciente Tempranillo Rioja 2020,3.5,50,4.9,España,Rioja,Rioja
+130,Bodegas Piqueras,2018,1184425,Valcanto Syrah 2018,3.7,114,4.9,España,Almansa,other
+131,Hacienda Zorita Natural Reserve,2018,1590758,Crianza 2018,3.3,80,4.9,España,Castilla y León,other
+132,Bodegas Piqueras,2016,1190247,Valcanto  Monastrell 2016,3.8,92,4.9,España,Almansa,other
+133,Bienbebido,2012,1959008,Come Jamon y Bebe Vino 2012,2.8,59,4.9,España,Rioja,Rioja
+134,Sonsierra,2018,2650090,Selección Tempranillo 2018,3.2,112,4.9,España,Rioja Alta,other
+135,Freixenet,2018,1252649,Mia Tinto 2018,3.4,691,4.9,España,Castilla y León,other
+136,La Purisima,2018,4313884,Old Hands Roble 2018,3.5,26,4.9,España,Yecla,other
+137,El Miracle,2019,1420439,El Miracle By Mariscal Old Vine Garnacha Tintorera 2019,3.6,33,4.9,España,Valencia,other
+138,Bodegas Care,2021,3934584,Nouveau 2021,3.9,41,4.9,España,Cariñena,Catalunya Sul
+139,Campos de Luz,2018,5370753,Garnacha 2018,3.0,112,4.9,España,Cariñena,Catalunya Sul
+140,Calabuig,2020,3957265,Tinto 2020,3.5,36,4.9,España,Valencia,other
+141,Hoya de Cadenas,2017,76606,Reserva Privada 2017,3.8,26,4.9,España,Utiel-Requena,other
+142,Bodegas Príncipe de Viana,2017,1561396,Crianza 2017,3.4,34,4.9,España,Navarra,other
+143,Solaguen,2015,736244,Crianza 2015,3.6,195,4.925,España,Rioja,Rioja
+144,Murviedro,2018,7090350,Galeam Monastrell 2018,3.7,141,4.94,España,Alicante,other
+145,Bienbebido,2011,1870840,Come Pollo y Bebe Vino 2011,2.8,83,4.94,España,Rioja,Rioja
+146,Sierra Salinas,2018,9245045,El Caire Monastrell 2018,4.0,79,4.94,España,Vino de España,other
+147,Carlos Serres,2018,2264260,Eneldo Crianza 2018,3.8,59,4.95,España,Rioja,Rioja
+148,La Cova Dels Vins,2020,1230850,Deler Tinto 2020,3.4,43,4.95,España,Montsant,Catalunya Sul
+149,Bodegas Lagunilla,2018,1129460,Crianza 2018,3.5,329,4.95,España,Rioja,Rioja
+150,Castillo Perelada,2020,2352415,Empordà Jardins Negre 2020,3.4,38,4.95,España,Empordà,other
+151,Celler Cooperatiu d'Espolla,2019,1189721,Vinya Orlina Tinto 2019,3.1,27,4.95,España,Empordà,other
+152,Bodega Pirineos,2017,73344,Montesierra Crianza 2017,3.6,49,4.95,España,Somontano,other
+153,Bodegas Care,2020,7472718,Tinto Sobre Lías Garnacha - Syrah 2020,3.7,137,4.95,España,Cariñena,Catalunya Sul
+154,Baltasar Gracián,2019,4175593,El Politico Garnacha 2019,3.8,146,4.95,España,Calatayud,other
+155,Campo Viejo,2017,76784,Crianza 2017,3.5,1345,4.95,España,Rioja,Rioja
+156,El Circo,2016,4296175,Director Special Selection Garnacha 2016,3.8,28,4.95,España,Cariñena,Catalunya Sul
+157,El Gordo,2019,3981796,Garnacha 2019,3.6,31,4.95,España,Cariñena,Catalunya Sul
+158,Hacienda López de Haro,2019,1921901,Tempranillo 2019,3.6,64,4.95,España,Rioja,Rioja
+159,Segura Viudas,2019,4300311,Garnatxa 2019,3.2,64,4.95,España,Cataluña,Catalunya Sul
+160,Bodega Rochal,2019,4190807,Calixto Rufete 2019,3.2,25,4.98,España,Sierra de Salamanca,other
+161,Félix Solís,N.V.,6266660,Mucho Más Tinto N.V.,4.2,29389,4.99,España,Vino de España,other
+162,Finca Manzanos,2019,4188323,Garnacha 2019,3.6,43,4.99,España,Rioja,Rioja
+163,Cooperatiu Gandesa,2018,2637876,Gandesola Red 2018,3.3,34,4.99,España,Terra Alta,Catalunya Sul
+164,Los Hermanos Manzanos,2018,2216555,Crianza 2018,3.8,56,4.99,España,Rioja,Rioja
+165,Marqués de Griñon,2018,1245440,Crianza (Colección Privada) 2018,3.2,62,5.0,España,Rioja,Rioja
+166,Laus,2018,5288724,Tinto Barrica 2018,3.5,49,5.0,España,Somontano,other
+167,Viña Pomal,2009,1126218,Centenario Crianza 2009,3.6,176,5.01,España,Rioja,Rioja
+168,De Muller,2018,1403986,Solimar Tinto 2018,3.6,48,5.1,España,Tarragona,Catalunya Sul
+169,Honoro Vera,2020,1196853,Garnacha 2020,3.7,221,5.1,España,Calatayud,other
+170,Guelbenzu,2017,1901038,Vierlas 2017,3.3,66,5.1,España,Ribera del Queiles,other
+171,Familia Torres,2019,1152206,Coronas Crianza 2019,3.4,41,5.13,España,Cataluña,Catalunya Sul
+172,Bodegas Lagunilla,2016,1129460,Crianza 2016,3.3,422,5.14,España,Rioja,Rioja
+173,Bodegas Aragonesas,2016,1825919,Coto De Hayas Crianza 2016,3.6,206,5.14,España,Campo de Borja,other
+174,Murviedro,2020,6525780,Audentia Petit Verdot 2020,3.6,44,5.15,España,Valencia,other
+175,Garriguella,2020,1878834,Puntils Rouge 2020,3.5,25,5.17,España,Empordà,other
+176,Bodegas Valdemar,2020,15481,Conde de Valdemar Tempranillo 2020,3.4,46,5.18,España,Rioja,Rioja
+177,Emendis,2020,3585530,Cabró! Negre Selecció 2020,3.2,68,5.19,España,Panadés,other
+178,Atalaya,2020,1193347,Laya 2020,3.7,1024,5.19,España,Almansa,other
+179,Gran Feudo,2015,12305,Crianza 2015,3.4,159,5.2,España,Navarra,other
+180,Gran Feudo,2017,12305,Crianza 2017,3.7,192,5.2,España,Navarra,other
+181,Gran Feudo,2016,12305,Crianza 2016,3.6,147,5.2,España,Navarra,other
+182,Hacienda López de Haro,2018,1921901,Tempranillo 2018,3.5,134,5.2,España,Rioja,Rioja
+183,Honoro Vera,2018,2200226,Monastrell 2018,3.8,362,5.2,España,Jumilla,other
+184,Reforjat,2019,8719996,Garnatxa Negra 2019,3.4,44,5.2,España,Terra Alta,Catalunya Sul
+185,Campo Viejo,2018,76784,Crianza 2018,3.7,873,5.2,España,Rioja,Rioja
+186,Honoro Vera,2019,2200226,Monastrell 2019,3.9,244,5.2,España,Jumilla,other
+187,Oriol Rossell,2019,2292261,Xino-Xano Tinto 2019,3.4,185,5.22,España,Panadés,other
+188,Señorío de Sarria,2017,1125826,Crianza 2017,3.5,78,5.24,España,Navarra,other
+189,Bodegas del Muni,2018,1556204,Corpus del Muni Roble 2018,3.5,39,5.25,España,Castilla,other
+190,Valderiz,2020,1155142,Valdehermoso Joven 2020,3.2,34,5.25,España,Ribera del Duero,Ribera del Duero
+191,Honoro Vera,2019,5722731,Rioja 2019,3.7,222,5.25,España,Rioja,Rioja
+192,Zuazo Gaston,2018,1211162,Vendimia Seleccionada 2018,3.7,52,5.25,España,Rioja,Rioja
+193,Arnegui,2019,1710204,Tempranillo Rioja 2019,3.4,217,5.25,España,Rioja,Rioja
+194,Volver,2020,84148,Wrongo Dongo Monastrell 2020,3.6,27,5.25,España,Jumilla,other
+195,Honoro Vera,2020,2200226,Monastrell 2020,3.7,29,5.25,España,Jumilla,other
+196,Honoro Vera,2020,2141257,Organic Monastrell 2020,3.7,158,5.25,España,Jumilla,other
+197,Celler de Sanui,2019,8594071,El Petit de Sanui Negre 2019,3.3,62,5.3,España,Costers del Segre,other
+198,Ederra,2018,1653817,Rioja Crianza 2018,3.6,181,5.3,España,Rioja,Rioja
+199,Viña Ijalba,2019,1829828,Tempranillo 2019,3.5,29,5.3,España,Rioja,Rioja
+200,Pinord,2018,13071,Clos de Torribas Crianza Tempranillo 2018,3.4,34,5.3,España,Panadés,other
+201,Baltasar Gracián,2020,4175593,El Politico Garnacha 2020,3.5,26,5.3,España,Calatayud,other
+202,El Casetero,2018,5564763,Garnacha 2018,3.7,565,5.3,España,Campo de Borja,other
+203,Campo Viejo,2018,6023690,Ecológico 2018,3.6,101,5.31,España,Rioja,Rioja
+204,Celler Masroig,2019,98958,Solà Fred 2019,3.6,434,5.31,España,Montsant,Catalunya Sul
+205,El Escocés Volante,2018,1744295,La Multa Old Vine Garnacha 2018,3.5,55,5.31,España,Calatayud,other
+206,Viña Paceta,2017,1633874,Crianza 2017,3.2,48,5.35,España,Rioja,Rioja
+207,Bodegas Faustino,2018,1129392,VII Tempranillo 2018,3.7,7332,5.35,España,Rioja,Rioja
+208,Barahonda,2019,1172227,Carro 2019,3.7,275,5.35,España,Yecla,other
+209,Campos de Dulcinea,2019,5453192,Selección de Familia 2019,3.3,35,5.375,España,La Mancha,other
+210,Honoro Vera,2018,2141257,Organic Monastrell 2018,3.7,942,5.4,España,Jumilla,other
+211,Finca La Estacada,2018,3123972,Hello World Petit Verdot 2018,3.4,108,5.4,España,Castilla,other
+212,Juan Gil,2020,6312410,Etiqueta Amarilla 2020,3.9,335,5.4,España,Jumilla,other
+213,El Miracle,2019,76607,120 Anniversary Tinto 2019,3.3,46,5.4,España,Valencia,other
+214,El Coto,2017,8619,Crianza 2017,3.7,4273,5.42,España,Rioja Alavesa,other
+215,Castillo de Monjardin,2018,1902249,Clásico Tempranillo 2018,2.8,195,5.43,España,Navarra,other
+216,Viña Paceta,2016,1633874,Crianza 2016,3.3,306,5.43,España,Rioja,Rioja
+217,Tridente,2018,6399011,Gota de Arena 2018,3.7,727,5.45,España,Castilla y León,other
+218,Félix Solís,N.V.,5445838,The Guv’nor N.V.,4.0,12965,5.45,España,Valdepeñas,other
+219,Familia Torres,2018,1385210,Sangre de Toro 2018,3.3,853,5.45,España,Cataluña,Catalunya Sul
+220,Ederra,2016,1653817,Rioja Crianza 2016,3.5,839,5.48,España,Rioja,Rioja
+221,Viña Paceta,2018,1633874,Crianza 2018,3.6,66,5.49,España,Rioja,Rioja
+222,Laudum,2017,7317279,XII Plus Monastrell 2017,3.6,26,5.49,España,Valencia,other
+223,Campo Viejo,2019,6023690,Ecológico 2019,3.4,48,5.5,España,Rioja,Rioja
+224,Bodegas Fontana,2019,5961872,Dominio de Fontana Garnacha - Syrah 2019,3.5,27,5.5,España,Uclés,other
+225,Bodegas Aragonesas,2019,1239615,Solo Syrah Tirio 2019,3.6,236,5.5,España,Campo de Borja,other
+226,Bodega Picos,2018,1879392,Loteta 2018,3.4,75,5.5,España,Campo de Borja,other
+227,Sant Pere Moixent,2019,6594913,Tinto 2019,3.4,50,5.5,España,Valencia,other
+228,Eguía,2018,1640526,Crianza Rioja 2018,3.5,97,5.5,España,Rioja,Rioja
+229,Aldeya,2019,1286987,Garnacha 2019,3.5,103,5.5,España,Cariñena,Catalunya Sul
+230,Finca de la Rica,2016,1948407,El Guía Tinto 2016,3.2,71,5.5,España,Rioja,Rioja
+231,Pago Aylés,2017,5793376,Immortalis Monastrell Old Vines 2017,3.6,61,5.5,España,Aragón,other
+232,Borsao Bodegas,2017,1401444,Bole 2017,3.8,241,5.5,España,Campo de Borja,other
+233,Cercavins,2019,1631420,Lo Virol Tinto 2019,2.8,25,5.51,España,Costers del Segre,other
+234,Tridente,2019,6399011,Gota de Arena 2019,3.6,32,5.51,España,Castilla y León,other
+235,Canopy,2019,6783470,Ganadero 2019,3.7,145,5.51,España,Méntrida,other
+236,Honoro Vera,2018,5722731,Rioja 2018,3.5,739,5.52,España,Rioja,Rioja
+237,Marqués de Altillo,2015,22815,Crianza 2015,3.4,71,5.54,España,Rioja,Rioja
+238,Marqués de Altillo,2016,22815,Crianza 2016,3.4,95,5.55,España,Rioja,Rioja
+239,Viore,2018,4170932,5 Meses en Barrica  Tinto 2018,3.4,82,5.55,España,Toro,other
+240,Honoro Vera,2019,1196853,Garnacha 2019,3.8,2071,5.55,España,Calatayud,other
+241,Rioja Vega,2018,1190404,Semi Crianza 2018,3.4,383,5.6,España,Rioja,Rioja
+242,Orowines,2018,2034003,Comoloco Monastrell 2018,3.6,507,5.6,España,Jumilla,other
+243,Adernats,2020,9543097,Parabòlic 2020,3.2,55,5.6,España,Cataluña,Catalunya Sul
+244,Orowines,2019,2034003,Comoloco Monastrell 2019,3.6,229,5.6,España,Jumilla,other
+245,Oliver Conti,2020,6623844,Indispensable Negre 2020,3.5,109,5.6,España,Empordà,other
+246,Finca Antigua,2016,1513516,Garnacha 2016,3.6,70,5.6,España,La Mancha,other
+247,Bodega Pirineos,2017,2291254,Señorío de Lazán Crianza 2017,3.9,246,5.6,España,Somontano,other
+248,Gran Feudo,2017,5608644,626 Barricas Edición Limitada Crianza 2017,3.1,36,5.6,España,Navarra,other
+249,Bodega Iniesta,2019,2500972,Corazón Loco Tinto 2019,3.4,143,5.6,España,Manchuela,other
+250,Bodega Iniesta,2020,2500972,Corazón Loco Tinto 2020,3.6,107,5.6,España,Manchuela,other
+251,Bodegas Javier San Pedro Ortega,2020,3973869,Cueva de Lobos Joven 2020,3.7,46,5.65,España,Rioja,Rioja
+252,Familia Torres,2019,1385210,Sangre de Toro 2019,3.1,371,5.69,España,Cataluña,Catalunya Sul
+253,R. Raventós,2020,5795233,L'Ànec Mut Negre 2020,3.7,84,5.69,España,Panadés,other
+254,Solar Viejo,2018,2338896,Tempranillo Rioja 2018,3.3,458,5.7,España,Rioja,Rioja
+255,Bodegas Piqueras,2018,5328798,Old Vines Garnacha 2018,3.7,233,5.75,España,Almansa,other
+256,Pagos del Rey,2018,5050415,Sentero Roble Tinta de Toro 2018,3.8,84,5.75,España,Toro,other
+257,Particular,2017,2538450,Cariñena 2017,3.6,73,5.75,España,Cariñena,Catalunya Sul
+258,Particular,2018,2335907,Garnacha Old Vine 2018,3.8,100,5.75,España,Cariñena,Catalunya Sul
+259,Monólogo,2017,1302028,Crianza 2017,3.4,742,5.75,España,Rioja,Rioja
+260,Honoro Vera,2019,2141257,Organic Monastrell 2019,3.8,831,5.75,España,Jumilla,other
+261,Celler Masroig,2020,98958,Solà Fred 2020,3.7,72,5.75,España,Montsant,Catalunya Sul
+262,Luna Beberide,2020,1169128,M Mencía Bierzo LB 2020,3.5,25,5.75,España,Bierzo,other
+263,Sierra Salinas,2018,79954,MO Monastrell 2018,3.5,419,5.75,España,Alicante,other
+264,Bodegas Mano a Mano,2017,1192990,Mano a Mano 2017,3.4,174,5.77,España,Castilla,other
+265,Bodegas Vallobera,2019,7390364,Malarina 2019,3.8,57,5.8,España,Rioja,Rioja
+266,Sant Josep,2018,6137925,Plana d’En Fonoll Syrah 2018,3.5,45,5.8,España,Terra Alta,Catalunya Sul
+267,Sierra Salinas,2017,79954,MO Monastrell 2017,3.8,71,5.8,España,Alicante,other
+268,Celler de Capçanes,2020,1177475,Mas Donis Negre 2020,3.4,89,5.8,España,Montsant,Catalunya Sul
+269,Tarón,2016,1233061,Crianza 2016,3.7,568,5.8,España,Rioja Alta,other
+270,Aroa,2014,1567694,Jauna Crianza 2014,3.8,498,5.82,España,Navarra,other
+271,Castillo de Monjardin,2017,1392332,Old Vines (La Cantera) Garnacha 2017,3.5,79,5.83,España,Navarra,other
+272,Volver,2017,1170617,Paso a Paso Tempranillo 2017,3.6,707,5.84,España,Castilla,other
+273,Enate,2017,1158423,Tapas Tempranillo 2017,3.4,236,5.85,España,Somontano,other
+274,Bodegas Faustino,2018,1142455,Crianza 2018,3.5,464,5.85,España,Rioja,Rioja
+275,Monólogo,2016,8327168,Crianza Vendimia Seleccionada 2016,3.3,82,5.85,España,Rioja,Rioja
+276,Telmo Rodriguez,2018,2568897,Al-Muvedre Tinto Monastrell 2018,3.6,549,5.85,España,Alicante,other
+277,Familia Torres,2017,3385833,Mas Rabell 2017,3.7,1175,5.85,España,Cataluña,Catalunya Sul
+278,Marqués de Tosos,2014,1139332,Reserva 2014,3.5,32,5.85,España,Cariñena,Catalunya Sul
+279,Campillo,2020,1910299,El Niño de Campillo Rioja 2020,3.6,52,5.85,España,Rioja,Rioja
+280,Celler Batea,2018,1311196,Primicia Criança 2018,3.6,90,5.87,España,Terra Alta,Catalunya Sul
+281,Campillo,2019,1910299,El Niño de Campillo Rioja 2019,3.6,122,5.9,España,Rioja,Rioja
+282,Bienbebido,2012,1870832,Come Cerdo y Bebe Vino 2012,3.4,30,5.9,España,Rioja,Rioja
+283,Tercia de Ulea,2017,5805304,Travesura Shiraz 2017,3.1,51,5.9,España,Bullas,other
+284,Barahonda,2020,5461188,Organic Monastrell - Merlot 2020,4.0,30,5.9,España,Yecla,other
+285,Azabache,2018,2841429,Crianza Vendimia Seleccionada 2018,3.6,207,5.9,España,Rioja,Rioja
+286,Arnegui,2016,1131347,Crianza Rioja 2016,3.6,599,5.9,España,Rioja,Rioja
+287,Bienbebido,2014,1870840,Come Pollo y Bebe Vino 2014,2.8,82,5.9,España,Rioja,Rioja
+288,Bodegas Fontana,2019,1181172,Dominio de Fontana Roble Tempranillo - Syrah 2019,3.7,75,5.9,España,Castilla,other
+289,Raúl Pérez,2020,1151531,Castro Ventosa El Castro de Valtuille Mencía Joven 2020,3.7,111,5.9,España,Bierzo,other
+290,Barahonda,2019,5461188,Organic Monastrell - Merlot 2019,3.8,301,5.9,España,Yecla,other
+291,Puerta Vieja,2018,10331,Crianza 2018,3.4,234,5.9,España,Rioja,Rioja
+292,Aldonia,2019,1620419,Vendimia 2019,3.6,34,5.9,España,Rioja,Rioja
+293,Oliver Conti,2018,6623844,Indispensable Negre 2018,3.4,260,5.9,España,Empordà,other
+294,Ramón Roqueta,2019,1667265,Garnacha 2019,3.5,89,5.9,España,Cataluña,Catalunya Sul
+295,Bodegas Faustino,2020,1178638,Tinto 2020,3.4,46,5.9,España,Rioja,Rioja
+296,Alcorta,2019,6447370,Roble 2019,3.5,39,5.9,España,Ribera del Duero,Ribera del Duero
+297,Laus,2017,1130857,Crianza 2017,3.3,70,5.9,España,Somontano,other
+298,Bodegas Valdelana,2020,9172118,Familia Valdelana Cosecha 2020,3.4,80,5.9,España,Rioja,Rioja
+299,Bodegas Antonio Candela,2019,7957865,Parcelica Chica Monastrell - Syrah 2019,3.8,72,5.9,España,Yecla,other
+300,Monasterio de Las Vinas,2016,7957055,Reserva Grandes Vinos L'Héritage Cariñena 2016,3.8,175,5.9,España,Cariñena,Catalunya Sul
+301,Finca La Solana,2020,4381882,Organic Verdecillo 2020,3.6,74,5.9,España,Murcia,other
+302,Peñamonte,2018,1381112,5 Meses en Barrica 2018,3.4,47,5.9,España,Castilla y León,other
+303,Bodega Otto Bestué,2020,6798141,Garnacha 2020,3.5,47,5.9,España,Somontano,other
+304,Bienbebido,2016,1870834,Come Vaca y Bebe Vino 2016,3.4,25,5.9,España,Rioja,Rioja
+305,Marqués de la Concordia,2019,6936101,Rioja Santiago Segundo Año 2019,3.6,282,5.9,España,Rioja,Rioja
+306,Castaño,2017,2686164,GSM (Garnacha - Syrah - Monastrell) 2017,3.4,304,5.9,España,Yecla,other
+307,Fuentespina,2019,5954096,3 Meses 2019,3.5,26,5.9,España,Ribera del Duero,Ribera del Duero
+308,Cuatro Pasos,2020,1258529,Pizarras de Otero Mencia 2020,3.7,119,5.9,España,Bierzo,other
+309,Alcorta,2017,7032905,Audaz Crianza 2017,3.3,324,5.9,España,Rioja,Rioja
+310,Bodegas Ponce,2020,1643710,Depaula Monastrell 2020,3.6,43,5.9,España,Jumilla,other
+311,Hoya de Cadenas,2016,4662725,Shiraz Crianza 2016,3.2,69,5.9,España,Utiel-Requena,other
+312,Bo,2019,1206516,Bobal Único 2019,3.6,40,5.9,España,Utiel-Requena,other
+313,Hoya de Cadenas,2018,6117701,Cabernet Sauvignon Crianza 2018,3.6,52,5.9,España,Utiel-Requena,other
+314,Hoya de Cadenas,2018,6260591,Merlot Crianza 2018,3.7,48,5.9,España,Utiel-Requena,other
+315,Federico Paternina,2016,1182290,Rioja Reserva 2016,3.6,364,5.93,España,Rioja,Rioja
+316,Juan Gil,2020,1134571,Jumilla Yellow Label 2020,3.9,313,5.93,España,Jumilla,other
+317,Nuntius,2016,3081702,Crianza 2016,3.4,45,5.94,España,Rioja,Rioja
+318,Castillo de Maetierra,2014,3869645,Atlantis Mencia 2014,3.1,48,5.94,España,Bierzo,other
+319,Francisco Gomez,2014,1223613,Fruto Noble Crianza 2014,3.5,44,5.94,España,Alicante,other
+320,Raimat,2019,2057155,Clamor Tinto 2019,3.3,380,5.95,España,Costers del Segre,other
+321,Emendis,2020,6394928,Ull de Llebre - Sumoll 2020,3.3,72,5.95,España,Panadés,other
+322,Urbion,2017,1903520,Cuvée Tinto 2017,3.4,91,5.95,España,Rioja,Rioja
+323,Empordàlia,2019,2026400,Sinols Criança 2019,3.8,72,5.95,España,Empordà,other
+324,Pagos de Aráiz,2018,1552352,Crianza 2018,3.9,38,5.95,España,Navarra,other
+325,Marqués de Riscal,2019,1282180,Riscal Tempranillo 2019,3.7,632,5.95,España,Castilla y León,other
+326,Finca Antigua,2017,13940,Petit Verdot 2017,3.6,47,5.95,España,La Mancha,other
+327,Merayo,2019,1875485,Mencia Bierzo 2019,3.5,163,5.95,España,Bierzo,other
+328,Luzon,2020,1378087,Jumilla Monastrell Orgánico San Sulfitos 2020,3.4,47,5.95,España,Jumilla,other
+329,Juan Gil,2018,1134571,Jumilla Yellow Label 2018,3.7,1103,5.95,España,Jumilla,other
+330,Particular,2018,4311709,Garnacha 2018,3.5,163,5.95,España,Cariñena,Catalunya Sul
+331,Mas Foraster,2018,4001657,Josep Foraster els Nanos Collita 2018,3.4,286,5.95,España,Conca de Barberà,other
+332,Bodegas Arraez,2019,1165903,Mala Vida 2019,3.7,192,5.95,España,Valencia,other
+333,Arnegui,2017,1131347,Crianza Rioja 2017,3.5,172,5.95,España,Rioja,Rioja
+334,Familia Bastida,2018,5210302,Biftu Bobal 2018,3.9,38,5.95,España,Utiel-Requena,other
+335,Peique,2019,2413128,Mencía 2019,3.4,46,5.95,España,Bierzo,other
+336,Bodegas Olarra,2019,1470685,Añares Crianza Rioja 2019,3.7,30,5.95,España,Rioja,Rioja
+337,Viñedos y Bodegas Pablo,2019,94602,Menguante Garnacha 2019,3.8,41,5.95,España,Cariñena,Catalunya Sul
+338,Viñedos y Bodegas Pablo,2019,2421446,Menguante Tempranillo 2019,3.8,354,5.95,España,Cariñena,Catalunya Sul
+339,Varias,2020,1610127,Pere Punyetes Negre 2020,3.6,30,5.95,España,Panadés,other
+340,Coelus,2016,1436976,Crianza Tempranillo 2016,3.8,62,5.95,España,Rioja,Rioja
+341,Sierra Cantabria,2019,1149692,Selección 2019,3.9,77,5.95,España,Rioja,Rioja
+342,Domènech.Vidal,2019,1540507,Masia Freyé Syrah - Tempranillo 2019,3.7,28,5.95,España,Panadés,other
+343,Raimat,2019,1145711,Abadia Cabernet Sauvignon - Tempranillo 2019,3.5,227,5.95,España,Costers del Segre,other
+344,Telmo Rodriguez,2019,2568897,Al-Muvedre Tinto Monastrell 2019,3.5,121,5.95,España,Alicante,other
+345,Campillo,2018,1910299,El Niño de Campillo Rioja 2018,3.6,428,5.97,España,Rioja,Rioja
+346,Castillo Perelada,2017,3343395,3 Finques (Fincas) Crianza 2017,3.6,517,5.97,España,Empordà,other
+347,Pío del Ramo,2016,1913616,Pio Ecológico Tinto 2016,3.5,36,5.98,España,Murcia,other
+348,Alceño,2017,2581921,4 Meses Roble Monastrell 2017,3.6,146,5.98,España,Jumilla,other
+349,Yllera,2018,1149907,12 Meses en Barrica Tempranillo 2018,3.7,86,5.99,España,Ribera del Duero,Ribera del Duero
+350,Celler Ronadelles - Cap de Ruc,2016,1543238,Flor del Montsant Criança 2016,3.6,152,5.99,España,Montsant,Catalunya Sul
+351,Bodegas Castelo de Medina,2019,8453267,Castelo Roble 2019,3.6,64,5.99,España,Castilla y León,other
+352,La Maldita,2020,2723412,Garnacha 2020,3.6,247,5.99,España,Rioja,Rioja
+353,Ontañón,2018,1271833,Rioja Crianza 2018,3.7,46,5.99,España,Rioja,Rioja
+354,Altanza,2017,1247469,Edulis de Altanza Rioja Crianza 2017,3.7,464,5.99,España,Rioja,Rioja
+355,Altavins,2020,1241735,Almodí Petit Tinto 2020,3.7,25,6.0,España,Terra Alta,Catalunya Sul
+356,Luzon,2019,6065522,Colección Monastrell 2019,3.5,87,6.0,España,Jumilla,other
+357,Medievo,2018,1132840,Crianza 2018,3.7,73,6.0,España,Rioja,Rioja
+358,Bodegas Piqueras,2015,1184425,Valcanto Syrah 2015,3.8,63,6.0,España,Almansa,other
+359,Bodega Tandem,2018,1158660,Ars In Vitro 2018,3.6,28,6.0,España,Navarra,other
+360,Puerta Vieja,2017,10331,Crianza 2017,3.5,320,6.03,España,Rioja,Rioja
+361,Clos Pons,2018,3288432,Jan Petit 2018,3.4,37,6.1,España,Costers del Segre,other
+362,Rioja Santiago,2016,1228592,Crianza 2016,3.8,452,6.1,España,Rioja,Rioja
+363,Campo Viejo,2017,4387046,Crianza Vendimia Seleccionada 2017,3.6,163,6.1,España,Rioja,Rioja
+364,Rioja Santiago,2017,1228592,Crianza 2017,3.5,154,6.1,España,Rioja,Rioja
+365,Viña Bujanda,2018,1219458,Rioja Crianza 2018,3.8,139,6.1,España,Rioja,Rioja
+366,Juan Gil,2019,1134571,Jumilla Yellow Label 2019,3.8,1055,6.1,España,Jumilla,other
+367,Artuke,2020,2152418,Rioja 2020,3.8,389,6.1,España,Rioja,Rioja
+368,Fariña,2021,2045160,Primero 2021,3.7,82,6.1,España,Toro,other
+369,El Coto,2015,8619,Crianza 2015,3.6,8949,6.1,España,Rioja Alavesa,other
+370,Beronia,2018,20796,Rioja Crianza 2018,3.6,792,6.11,España,Rioja,Rioja
+371,Estancia Piedra,2019,7052007,Cantadal Joven 2019,3.1,108,6.15,España,Toro,other
+372,Alsina & Sarda,2019,3392138,Finca Cal Janes Merlot 2019,3.9,49,6.15,España,Panadés,other
+373,Gran Recosind,2016,1248739,Criança 2016,3.5,88,6.18,España,Empordà,other
+374,Castillo Perelada,2019,2352415,Empordà Jardins Negre 2019,3.3,144,6.2,España,Empordà,other
+375,Marqués de Cáceres,2020,1623960,Rioja Ecológico Bio 2020,3.6,60,6.2,España,Rioja,Rioja
+376,Estancia Piedra,2020,7052007,Cantadal Joven 2020,3.5,78,6.2,España,Toro,other
+377,Bodegas Cosme Palacio,2018,2260236,Glorioso  Rioja Crianza 2018,3.8,37,6.2,España,Rioja,Rioja
+378,La Maldita,2018,2723412,Garnacha 2018,3.6,1105,6.2,España,Rioja,Rioja
+379,Celler Masroig,2020,1737208,Les Sorts Jove 2020,3.3,64,6.2,España,Montsant,Catalunya Sul
+380,Bernavi,2019,6574923,Xalera Tinto 2019,3.3,61,6.2,España,Terra Alta,Catalunya Sul
+381,Hacienda López de Haro,2018,1224522,Crianza 2018,3.7,1690,6.2,España,Rioja,Rioja
+382,Covitoro,2016,1164451,Gran Cermeño Crianza 2016,3.6,101,6.21,España,Toro,other
+383,Pittacum,2020,2758426,Petit Pittacum 2020,3.7,113,6.25,España,Bierzo,other
+384,Toresanas,2017,3797044,Orot Roble 2017,3.8,50,6.25,España,Toro,other
+385,Cune (CVNE),2018,1135311,Crianza 2018,3.6,2211,6.25,España,Rioja,Rioja
+386,Bodegas Care,2019,1246882,Tinto Roble Garnacha - Syrah 2019,3.9,131,6.25,España,Cariñena,Catalunya Sul
+387,Carlos Serres,2018,1525045,Rioja Crianza 2018,3.9,717,6.25,España,Rioja,Rioja
+388,Monasterio de Las Vinas,2016,2210645,Reserva 2016,3.8,461,6.25,España,Cariñena,Catalunya Sul
+389,Señorío de Benidorm,2019,3679621,Roble Monastrell - Syrah 2019,3.5,43,6.25,España,Alicante,other
+390,Mas Foraster,2020,4001657,Josep Foraster els Nanos Collita 2020,2.8,125,6.25,España,Conca de Barberà,other
+391,Portia,2019,4406501,Roble 2019,3.6,100,6.25,España,Ribera del Duero,Ribera del Duero
+392,Castaño,2019,85758,Hécula Monastrell 2019,3.5,521,6.26,España,Yecla,other
+393,Bodegas Cosme Palacio,2017,2260236,Glorioso  Rioja Crianza 2017,3.6,122,6.27,España,Rioja,Rioja
+394,Bodega Iniesta,2018,6776318,Corazón Loco Bobal 2018,3.5,87,6.28,España,Manchuela,other
+395,Castaño,2017,5610531,Monastrell 2017,3.3,318,6.28,España,Yecla,other
+396,Familia Torres,2017,1152206,Coronas Crianza 2017,3.8,580,6.28,España,Cataluña,Catalunya Sul
+397,Bodegas Franco-Españolas,2017,1100348,Rioja Bordón Crianza 2017,3.8,810,6.28,España,Rioja,Rioja
+398,Guelbenzu,2017,51664,Azul 2017,3.8,140,6.29,España,Ribera del Queiles,other
+399,Lagravera,2020,1945130,Laltre 2020,4.0,49,6.3,España,Costers del Segre,other
+400,Castillo Perelada,2018,3343395,3 Finques (Fincas) Crianza 2018,3.7,102,6.3,España,Empordà,other
+401,Gran Feudo,2016,1603756,Reserva 2016,3.6,428,6.33,España,Navarra,other
+402,Vina Herminia,2016,1668285,Rioja Crianza 2016,3.7,268,6.33,España,Rioja,Rioja
+403,Breca,2018,5748100,Garnacha de Fuego 2018,3.6,731,6.35,España,Calatayud,other
+404,Fuentenarro,2019,2249224,4 Meses en Barrica 2019,3.6,64,6.35,España,Ribera del Duero,Ribera del Duero
+405,Monteabellon,2020,2035736,A Cappela Roble 2020,3.3,29,6.35,España,Ribera del Duero,Ribera del Duero
+406,Bodegas Lagunilla,2017,1129460,Crianza 2017,3.3,396,6.35,España,Rioja,Rioja
+407,Berceo,2017,1141591,Crianza 2017,3.8,99,6.35,España,Rioja,Rioja
+408,Viladellops,2020,1585724,Garnatxa 2020,3.8,49,6.35,España,Panadés,other
+409,Bruno Murciano,2019,9213328,Parajes del Cabriel 2019,3.6,117,6.39,España,Utiel-Requena,other
+410,Albet i Noya,2019,79861,Petit Albet Penedès Rouge 2019,3.3,134,6.39,España,Panadés,other
+411,Contreras Ruiz,2019,5513724,Édalo Tinto 2019,3.7,32,6.4,España,Andalucía,other
+412,Zuazo Gaston,2018,1162868,Crianza 2018,3.6,191,6.4,España,Rioja,Rioja
+413,Solar Viejo,2015,1181896,Crianza 2015,3.6,864,6.4,España,Rioja,Rioja
+414,Terra d'Uro,2020,5460810,La Enfermera 2020,3.9,63,6.4,España,Toro,other
+415,Viña Zorzal,2020,1205173,Garnacha 2020,3.5,78,6.4,España,Navarra,other
+416,Castaño,2020,85757,Monastrell Ecológico 2020,3.5,376,6.4,España,Yecla,other
+417,Viña Salceda,2018,1111659,Rioja Crianza 2018,3.6,341,6.4,España,Rioja,Rioja
+418,Bodegas Mano a Mano,2016,1192990,Mano a Mano 2016,3.7,990,6.41,España,Castilla,other
+419,Bodegas Ochoa,2017,6202302,8A Crianza 2017,3.6,58,6.41,España,Navarra,other
+420,Falset Marçà,2013,1296785,Ètim Negre 2013,3.3,147,6.41,España,Montsant,Catalunya Sul
+421,Vega Real,2019,1139212,Ribera del Duero Roble 2019,3.7,32,6.44,España,Ribera del Duero,Ribera del Duero
+422,Castillo de Monjardin,2019,1392332,Old Vines (La Cantera) Garnacha 2019,3.5,60,6.45,España,Navarra,other
+423,Risky Grapes,2019,1810779,La Traca Bobal 2019,3.5,125,6.45,España,Valencia,other
+424,Altos de Tamarón,2020,1131274,Roble Ribera del Duero 2020,3.4,299,6.45,España,Ribera del Duero,Ribera del Duero
+425,Proyecto Garnachas de España,2018,1393134,La Garnacha Salvaje del Moncayo 2018,3.7,669,6.45,España,Aragón,other
+426,Enate,2019,1154856,Cabernet Sauvignon - Merlot 2019,3.9,39,6.45,España,Somontano,other
+427,Viña Zorzal,2019,1205173,Garnacha 2019,3.6,1030,6.45,España,Navarra,other
+428,Bruma del Estrecho,2018,4309569,Paraje Marín 2018,3.6,62,6.45,España,Jumilla,other
+429,Martúe,2018,1172697,Campo de la Guardia 2018,3.8,81,6.45,España,Campo de la Guardia,other
+430,Bodegas La Soterraña,2018,7287564,Etcétera Tempranillo 2018,3.2,106,6.45,España,Ribera del Duero,Ribera del Duero
+431,Celler Piñol,2018,77807,Raig de Raïm Negre 2018,3.5,96,6.46,España,Terra Alta,Catalunya Sul
+432,Viñas del Vero,2012,1599976,Tempranillo - Cabernet Sauvignon Crianza 2012,3.3,461,6.47,España,Somontano,other
+433,Marqués de la Concordia,2015,1153105,Crianza Rioja 2015,3.7,763,6.47,España,Rioja,Rioja
+434,Crapula,2013,1661018,NdQ Nacido del Quórum Selección 2013,3.4,32,6.48,España,Jumilla,other
+435,Rejadorada,2019,1175204,Tinto Roble 2019,3.7,136,6.49,España,Toro,other
+436,Evodia,2019,1230965,Old Vines Garnacha 2019,3.5,285,6.49,España,Calatayud,other
+437,Bodega Sommos,2020,9902730,Merlot - Cabernet Roble 2020,3.7,196,6.5,España,Somontano,other
+438,Domeco de Jarauta,2018,1197384,Lar de Sotomayor Rioja 2018,3.8,30,6.5,España,Rioja,Rioja
+439,Volver,2019,1542510,Paso a Paso Organic Red 2019,3.5,42,6.5,España,La Mancha,other
+440,Luna Beberide,2019,1169128,M Mencía Bierzo LB 2019,3.5,576,6.5,España,Bierzo,other
+441,EGO,2019,1726782,Talento Ecológico 2019,3.8,155,6.5,España,Jumilla,other
+442,Volver,2018,1170617,Paso a Paso Tempranillo 2018,3.5,258,6.5,España,Castilla,other
+443,Félix Solís,2014,1967189,Viña Albali Gran Reserva Selección Privada 2014,3.6,127,6.5,España,Valdepeñas,other
+444,Bodegas Virgen de la Sierra,2018,3975385,Albada Viñas Viejas Garnacha 2018,3.7,267,6.5,España,Calatayud,other
+445,Finca Constancia,2016,2033280,Parcela 12 Graciano 2016,3.8,205,6.5,España,Castilla,other
+446,Condado de Oriza,2020,1609207,Roble Ribera del Duero 2020,3.6,159,6.5,España,Ribera del Duero,Ribera del Duero
+447,Castaño,2018,2686164,GSM (Garnacha - Syrah - Monastrell) 2018,3.4,98,6.5,España,Yecla,other
+448,Muriel,2018,1135538,Fincas de la Villa Rioja Crianza 2018,3.7,159,6.5,España,Rioja,Rioja
+449,Volver,2020,1170617,Paso a Paso Tempranillo 2020,3.6,37,6.5,España,Castilla,other
+450,Bodegas Care,2019,7472718,Tinto Sobre Lías Garnacha - Syrah 2019,3.9,1460,6.5,España,Cariñena,Catalunya Sul
+451,Dominio de Calles,2016,1565839,Crianza 2016,3.8,317,6.5,España,Valencia,other
+452,Bodegas Care,2017,1369510,Crianza Tempranillo - Merlot 2017,3.9,465,6.5,España,Cariñena,Catalunya Sul
+453,Finca Los Aljibes,2018,3015320,Viña Aljibes Red Blend 2018,3.6,46,6.5,España,Castilla,other
+454,De Moya,2018,2766217,Justina 2018,3.9,372,6.5,España,Valencia,other
+455,Arché Pagès,2018,1314194,Sàtirs Negre 2018,3.8,108,6.5,España,Empordà,other
+456,Pago de la Jaraba,2016,2490463,Azagador Reserva Tinto 2016,3.6,30,6.5,España,La Mancha,other
+457,Marques de Vitoria,2018,1488465,Rioja Crianza 2018,3.6,153,6.5,España,Rioja,Rioja
+458,Enate,2018,1154856,Cabernet Sauvignon - Merlot 2018,3.7,812,6.5,España,Somontano,other
+459,Habla,2020,1978855,de La Tierra 2020,3.6,119,6.5,España,Extremadura,other
+460,Sierra Cantabria,2020,1986382,Murmurón 2020,3.5,40,6.55,España,Rioja,Rioja
+461,Bodegas Príncipe de Viana,2016,1210158,Reserva Navarra 2016,3.8,59,6.55,España,Navarra,other
+462,Dominio de Tares,2017,1896149,Baltos Mencía 2017,3.7,437,6.55,España,Bierzo,other
+463,Barahonda,2019,15713,Barrica Tinto (Monastrell - Syrah) 2019,3.9,33,6.57,España,Yecla,other
+464,Portal del Montsant,2019,1437498,Santes Negre Sustainable Vineyards 2019,3.6,252,6.59,España,Montsant,Catalunya Sul
+465,Estefanía,2018,5110258,Tilenus Vendimia Bierzo 2018,3.5,97,6.59,España,Bierzo,other
+466,Portia,2018,4406501,Roble 2018,3.5,909,6.6,España,Ribera del Duero,Ribera del Duero
+467,Cune (CVNE),2017,1135311,Crianza 2017,3.6,5892,6.6,España,Rioja,Rioja
+468,Bodega Pirineos,2018,6375484,Roble 2018,4.0,122,6.6,España,Somontano,other
+469,Familia Torres,2018,1152206,Coronas Crianza 2018,3.6,141,6.6,España,Cataluña,Catalunya Sul
+470,Señorío de Nava,2020,1139423,Roble Ribera del Duero 2020,3.9,28,6.63,España,Ribera del Duero,Ribera del Duero
+471,Bodegas Javier San Pedro Ortega,2018,1595750,Cueva de Lobos Crianza 2018,3.6,113,6.65,España,Rioja,Rioja
+472,Espelt,2020,1731540,Sauló 2020,3.4,30,6.65,España,Empordà,other
+473,Altos Ibéricos,2017,1759011,Crianza 2017,3.9,2487,6.651666666666666,España,Rioja,Rioja
+474,Familia Torres,2017,7569397,22 Pies Rioja Crianza 2017,3.9,30,6.651666666666666,España,Rioja,Rioja
+475,Martinez Corta,2018,7738981,Finca Iriarte Tempranillo 2018,3.8,130,6.69,España,Rioja,Rioja
+476,Pagos del Rey,2020,7127854,Canta Mañanas Tempranillo 2020,3.4,184,6.69,España,Ribera del Duero,Ribera del Duero
+477,Coelus,2017,1436976,Crianza Tempranillo 2017,3.7,32,6.7,España,Rioja,Rioja
+478,Beronia,2017,20796,Rioja Crianza 2017,3.7,1616,6.7,España,Rioja,Rioja
+479,Vinos Divertidos,2020,1205983,Cojón de Gato Tinto 2020,3.4,28,6.7,España,Somontano,other
+480,Bodegas Arraez,2019,5067549,Vividor Bobal 2019,3.6,238,6.7,España,Utiel-Requena,other
+481,Bodegas Lleiroso,2018,2016016,Luz Millar Roble 2018,3.6,563,6.7,España,Ribera del Duero,Ribera del Duero
+482,Bodega Pirineos,2013,2291254,Señorío de Lazán Crianza 2013,3.2,344,6.74,España,Somontano,other
+483,Rioja Santiago,2018,1228592,Crianza 2018,3.7,50,6.75,España,Rioja,Rioja
+484,Navajas,2018,7893993,Garnacha 2018,3.4,50,6.75,España,Rioja,Rioja
+485,Gran Feudo,2016,1441674,Viñas Viejas Reserva 2016,3.6,149,6.75,España,Navarra,other
+486,Finca Bacara,2019,4664825,Crazy Grapes Monastrell 2019,3.8,246,6.75,España,Jumilla,other
+487,Luis Cañas,2019,1233309,Tinto 2019,3.6,56,6.75,España,Rioja,Rioja
+488,Museum,2017,1714209,Vinea Tempranillo Crianza 2017,3.6,159,6.75,España,Cigales,other
+489,Navajas,2017,78766,Rioja Crianza Tinto 2017,3.8,52,6.75,España,Rioja,Rioja
+490,Bodegas Valdemar,2017,1774637,Finca del Marquesado Crianza 2017,3.8,158,6.75,España,Rioja,Rioja
+491,Familia Torres,2019,1147949,Coronas Tempranillo 2019,3.5,330,6.75,España,Cataluña,Catalunya Sul
+492,Península Vinicultores,2018,6348969,Viñedos Viejos Vino de Montana 2018,3.5,430,6.75,España,Madrid,other
+493,Casa del Valle,2018,1323279,Syrah 2018,3.6,31,6.75,España,Castilla,other
+494,Bodega Sommos,2019,1480760,Nietro Tinto 2019,3.8,51,6.75,España,Calatayud,other
+495,Costers del Sió,2020,1368709,Petit Siós Tinto 2020,3.7,45,6.75,España,Costers del Segre,other
+496,Bobal de San Juan,2019,1743364,Bobal Old Vines (Viñas Viejas) 2019,3.6,72,6.78,España,Utiel-Requena,other
+497,Borsao Bodegas,2015,1289492,Crianza (Selección Crianza) 2015,3.9,1069,6.78,España,Campo de Borja,other
+498,Luzon,2020,6065522,Colección Monastrell 2020,3.6,87,6.8,España,Jumilla,other
+499,Legaris,2020,1134266,Ribera del Duero Roble 2020,3.6,77,6.8,España,Ribera del Duero,Ribera del Duero
+500,Finca Constancia,2018,6519,Parcela 23 Tempranillo 2018,3.9,152,6.8,España,Castilla,other
+501,Heredad Torresano,2015,1217061,Roble 2015,3.2,131,6.8,España,Madrid,other
+502,Aroa,2020,2333336,Le Naturel Red 2020,3.8,607,6.8,España,Navarra,other
+503,Altos Ibéricos,2016,1759011,Crianza 2016,3.8,7792,6.82,España,Rioja,Rioja
+504,El Casetero,2017,5564763,Garnacha 2017,3.5,633,6.85,España,Campo de Borja,other
+505,Bodegas Virgen de Galir,2019,7419457,Maruxa Mencia 2019,3.7,235,6.85,España,Valdeorras,other
+506,Finca Constancia,2017,2033280,Parcela 12 Graciano 2017,3.8,276,6.85,España,Castilla,other
+507,Jaro,2019,1164120,Sembro Vendimia Seleccionada Tempranillo 2019,3.8,259,6.85,España,Ribera del Duero,Ribera del Duero
+508,Bodega de Bardos,2018,6276504,Roble 2018,3.7,223,6.85,España,Ribera del Duero,Ribera del Duero
+509,Marques de Vitoria,2016,1488465,Rioja Crianza 2016,3.6,745,6.86,España,Rioja,Rioja
+510,Celler Mas Pòlit,2019,6477060,Terra Indika 2019,3.7,25,6.88,España,Empordà,other
+511,Señorío de Nava,2018,1139423,Roble Ribera del Duero 2018,3.7,71,6.9,España,Ribera del Duero,Ribera del Duero
+512,Vega Real,2018,1139212,Ribera del Duero Roble 2018,3.6,379,6.9,España,Ribera del Duero,Ribera del Duero
+513,EGO,2020,1787864,Gorú 2020,3.7,113,6.9,España,Jumilla,other
+514,EGO,2019,1787864,Gorú 2019,3.8,680,6.9,España,Jumilla,other
+515,Pinord,2015,1549673,Penedés Crianza Tempranillo Taanug 2015,2.7,35,6.9,España,Panadés,other
+516,Solar Viejo,2017,1181896,Crianza 2017,3.8,138,6.9,España,Rioja,Rioja
+517,Bodega Tandem,2019,5965390,Inmune 2019,3.7,37,6.9,España,Navarra,other
+518,De Moya,2019,2766217,Justina 2019,3.9,148,6.9,España,Valencia,other
+519,Habla,2018,1978855,de La Tierra 2018,3.7,1733,6.9,España,Extremadura,other
+520,Dominio de Longaz,2016,3607283,Longaz Garnacha 2016,3.4,27,6.9,España,Cariñena,Catalunya Sul
+521,Abad,2019,6353424,Dom Bueno Mencia Laderas del Norte 2019,3.9,70,6.9,España,Bierzo,other
+522,Pago Aylés,2018,2650018,a de Aylés 2018,3.8,200,6.9,España,Aragón,other
+523,Martin Berdugo,2018,1158446,Barrica 2018,3.5,184,6.9,España,Ribera del Duero,Ribera del Duero
+524,Finca Albret,2017,7672876,El Balcón Crianza 2017,3.5,42,6.9,España,Navarra,other
+525,De Moya,2019,5220637,Gloria 2019,3.9,94,6.9,España,Valencia,other
+526,Finca Bacara,2019,4583398,3015 Monastrell Ecológico 2019,3.7,243,6.9,España,Jumilla,other
+527,Celler Cooperatiu d'Espolla,2018,2445126,Panissars  Negre 2018,3.6,27,6.9,España,Cataluña,Catalunya Sul
+528,Bodegas Olarra,2017,1470685,Añares Crianza Rioja 2017,3.6,533,6.9,España,Rioja,Rioja
+529,Terra d'Uro,2018,5460810,La Enfermera 2018,3.7,1637,6.9,España,Toro,other
+530,Abel Mendoza Monge,2020,1221602,Jarrarte 2020,3.4,36,6.9,España,Rioja,Rioja
+531,Finca Bacara,2020,7087103,Time Waits For No One (Double Skull) 2020,4.0,123,6.9,España,Jumilla,other
+532,Finca Constancia,2018,2180052,Selección 2018,3.7,42,6.9,España,Castilla,other
+533,Paco & Lola,2017,1301320,Paco Garnacha - Tempranillo 2017,3.6,53,6.9,España,Navarra,other
+534,Bodegas Vilano,2020,3973671,Black Edition 2020,4.0,39,6.9,España,Ribera del Duero,Ribera del Duero
+535,Covitoro,2018,4445319,Barbián 2018,3.6,164,6.9,España,Toro,other
+536,Hacienda Albae,2017,5463135,Malbec 2017,3.3,73,6.9,España,La Mancha,other
+537,Hacienda Albae,2017,2801731,Cabernet Sauvignon 2017,3.7,29,6.9,España,La Mancha,other
+538,Finca Bacara,2020,4583398,3015 Monastrell Ecológico 2020,3.6,243,6.9,España,Jumilla,other
+539,El Miracle,2018,8559285,No. 01 2018,3.5,777,6.9,España,Valencia,other
+540,Paco & Lola,2019,1301320,Paco Garnacha - Tempranillo 2019,3.5,50,6.9,España,Navarra,other
+541,Hacienda Albae,2018,1459107,Syrah 2018,3.6,27,6.9,España,La Mancha,other
+542,Pinord,2020,2438013,Càtar Montsant 2020,3.5,114,6.9,España,Montsant,Catalunya Sul
+543,Bodegas Olarra,2018,1470685,Añares Crianza Rioja 2018,3.6,461,6.9,España,Rioja,Rioja
+544,Tierra De Cubas,2018,9861362,Manadero Collecion de Parcellas Garnacha 2018,4.1,55,6.9,España,Cariñena,Catalunya Sul
+545,Bodegas Franco-Españolas,2018,1100348,Rioja Bordón Crianza 2018,3.6,157,6.9,España,Rioja,Rioja
+546,Pago Aylés,2019,2650018,a de Aylés 2019,3.8,104,6.9,España,Aragón,other
+547,Vinos Valtuille,2020,1225223,Pago de Valdoneje 2020,3.8,68,6.9,España,Bierzo,other
+548,Viore,2014,5630493,Ribera del Duero Crianza 2014,3.4,77,6.95,España,Ribera del Duero,Ribera del Duero
+549,Vinos Divertidos,2019,1368438,Teta de Vaca 2019,3.4,47,6.95,España,Calatayud,other
+550,Cuatro Rayas,2020,6351008,Organic Tempranillo 2020,3.5,30,6.95,España,Rueda,other
+551,Tagonius,2018,1148206,Tinto Roble 2018,3.4,34,6.95,España,Madrid,other
+552,La Vinyeta,2020,1220836,Heus Negre 2020,3.4,27,6.95,España,Empordà,other
+553,Vina Herminia,2017,1668285,Rioja Crianza 2017,3.4,35,6.95,España,Rioja,Rioja
+554,Marqués de Cáceres,2018,10247,Rioja Crianza 2018,3.7,655,6.95,España,Rioja,Rioja
+555,Torre de Oña,2018,1403094,Finca San Martin Rioja Crianza 2018,3.8,277,6.95,España,Rioja,Rioja
+556,Lan,2017,88830,Crianza Rioja 2017,3.8,1978,6.95,España,Rioja,Rioja
+557,Guelbenzu,2016,1901038,Vierlas 2016,3.6,46,6.95,España,Ribera del Queiles,other
+558,Altún,2020,1288740,Albiker 2020,3.7,40,6.95,España,Rioja,Rioja
+559,Castillo de Monesma,2013,1779371,Crianza Cabernet Sauvignon - Merlot 2013,3.4,87,6.95,España,Somontano,other
+560,Dominio de Atauta,2019,1693444,Viridiana Ribera del Duero Roble 2019,3.7,42,6.95,España,Ribera del Duero,Ribera del Duero
+561,Bodegas Javier San Pedro Ortega,2017,1595750,Cueva de Lobos Crianza 2017,3.6,97,6.95,España,Rioja,Rioja
+562,Sonsierra,2017,1193066,Crianza 2017,3.4,125,6.95,España,Rioja Alta,other
+563,Bodegas Valdelana,2020,7203772,Vi-Ve La Llave de Los Sueños Rioja 2020,3.7,72,6.95,España,Rioja Alavesa,other
+564,AltoLandon,2019,1928870,Irrepetible 2019,3.4,93,6.95,España,Manchuela,other
+565,Dairo,2016,1431143,Crianza 2016,3.4,199,6.95,España,Montsant,Catalunya Sul
+566,Martinez Corta,2017,1158582,Crianza 2017,3.6,75,6.95,España,Rioja,Rioja
+567,Matarromera,2018,1446214,Melior Ribera del Duero 2018,3.5,143,6.95,España,Ribera del Duero,Ribera del Duero
+568,Castillo de Embid,2016,5074365,Crianza 2016,3.7,135,6.95,España,Cariñena,Catalunya Sul
+569,Celler de Capçanes,2020,1403428,Mas Picosa Flor En Flor Montsant 2020,3.6,118,6.95,España,Montsant,Catalunya Sul
+570,Viña Pomal,2018,1126218,Centenario Crianza 2018,3.7,218,6.95,España,Rioja,Rioja
+571,Breca,2019,5748100,Garnacha de Fuego 2019,3.6,265,6.95,España,Calatayud,other
+572,Ca N'Estella,2017,3168953,Clot Dels Oms Tinto 2017,3.7,25,6.95,España,Panadés,other
+573,Pagos del Moncayo,2020,4677325,Prados Fusión Garnacha - Syrah 2020,3.8,79,6.95,España,Campo de Borja,other
+574,Bodegas Fontana,2019,3449882,Oveja Tinta Malbec 2019,3.8,102,6.95,España,Uclés,other
+575,Luzon,2020,2356292,Finca Luzon 2020,3.5,25,6.95,España,Jumilla,other
+576,Finca La Solana,2016,1720646,Las Hermanas Joven 2016,3.4,200,6.95,España,Jumilla,other
+577,Pittacum,2019,2758426,Petit Pittacum 2019,3.6,363,6.97,España,Bierzo,other
+578,Andrés Díaz,2018,2069537,dÓrio Garnacha Cepas Viejas 2018,3.6,56,6.98,España,Madrid,other
+579,Amézola de la Mora,2016,49874,Viña Amézola Crianza 2016,3.6,279,6.98,España,Rioja,Rioja
+580,Viñedos Hermanos Hernáiz,2019,5373253,El Pedal Tempranillo 2019,3.2,84,6.99,España,Rioja Alta,other
+581,Montecillo,2017,1100227,Rioja Crianza 2017,3.7,878,6.99,España,Rioja,Rioja
+582,Win,N.V.,4410652,Tempranillo De-alcoholised N.V.,2.4,155,6.99,España,Ribera del Duero,Ribera del Duero
+583,Medrano Irazu,2018,1219007,Crianza 2018,3.7,34,6.99,España,Rioja,Rioja
+584,Nebla,2019,3246999,Garnacha 2019,3.6,245,6.99,España,Valencia,other
+585,Familia Bastida,2019,4195603,Genio Español Monastrell 12 Meses en Barrica 2019,3.9,55,6.99,España,Jumilla,other
+586,Dios Ares,2017,1204852,Crianza 2017,3.8,49,6.99,España,Rioja,Rioja
+587,Bodegas Olarra,2018,1367561,Cerro Añon Crianza Rioja 2018,4.0,302,6.99,España,Rioja,Rioja
+588,Can Blau,2019,1478833,Blau 2019,3.7,195,7.0,España,Montsant,Catalunya Sul
+589,Raimat,2019,2683897,Anima de Raimat Tinto 2019,3.8,58,7.0,España,Costers del Segre,other
+590,Ramon Ramos,2016,5140822,Parlaor 2016,3.5,166,7.01,España,Toro,other
+591,Dehesa El Carrascal,2017,6367148,Tudon's Petit Verdot 2017,4.0,49,7.01,España,Castilla,other
+592,Mas Ramoneda,2016,2191984,Finca de la Perdiu Negre 2016,3.7,32,7.01,España,Costers del Segre,other
+593,Montecillo,2018,1100227,Rioja Crianza 2018,3.5,281,7.01,España,Rioja,Rioja
+594,Familia Torres,2020,9241287,Natureo De-Alcoholised Red 2020,3.0,34,7.02,España,Panadés,other
+595,La Vinyeta,2019,1220836,Heus Negre 2019,3.6,181,7.05,España,Empordà,other
+596,Tridente,2017,1403702,Entresuelos Tempranillo 2017,3.8,401,7.05,España,Castilla y León,other
+597,Señorio de Villarrica,2017,1653281,Crianza 2017,3.8,147,7.07,España,Rioja,Rioja
+598,Dominio Dostares,2015,1853501,Estay Prieto Picudo 2015,3.5,251,7.08,España,Bierzo,other
+599,Dominio de Bornos,2019,3478145,Roble 2019,3.7,54,7.09,España,Ribera del Duero,Ribera del Duero
+600,Ontañón,2019,1500238,Rioja Viticultura Ecológica 2019,3.7,106,7.1,España,Rioja,Rioja
+601,Matsu,2020,1169235,El Picaro 2020,3.8,2407,7.1,España,Toro,other
+602,Altanza,2018,1247469,Edulis de Altanza Rioja Crianza 2018,3.8,43,7.1,España,Rioja,Rioja
+603,Martin Berdugo,2019,1158446,Barrica 2019,3.8,80,7.1,España,Ribera del Duero,Ribera del Duero
+604,Viñas del Vero,2017,1599976,Tempranillo - Cabernet Sauvignon Crianza 2017,3.5,152,7.1,España,Somontano,other
+605,Valcarlos,2016,77044,Fortius Reserva 2016,3.8,30,7.13,España,Navarra,other
+606,Pradorey,2020,1136269,Origen 2020,3.4,126,7.15,España,Ribera del Duero,Ribera del Duero
+607,Rodríguez de Vera,2018,6065115,Pituco MST 2018,3.5,107,7.15,España,Castilla,other
+608,Familia Torres,2018,1147949,Coronas Tempranillo 2018,3.4,1406,7.15,España,Cataluña,Catalunya Sul
+609,Bodega Otto Bestué,2018,1201169,Finca Rableros 2018,3.8,69,7.15,España,Somontano,other
+610,Rodríguez de Vera,2019,2200683,Jumenta 2019,3.7,32,7.15,España,Castilla,other
+611,Pascona,2020,2121989,Lo Petitó de Pascona 2020,3.4,32,7.15,España,Montsant,Catalunya Sul
+612,Lomopardo,2012,2211573,Mencía 2012,3.5,158,7.17,España,Bierzo,other
+613,Legaris,2019,1134266,Ribera del Duero Roble 2019,3.6,1011,7.18,España,Ribera del Duero,Ribera del Duero
+614,Basagoiti,2018,1437100,Nabari 2018,3.5,45,7.19,España,Rioja,Rioja
+615,Azabache,2017,1432368,Reserva Tempranillo - Graciano 2017,3.6,54,7.2,España,Rioja,Rioja
+616,Atance,2019,3110608,Bobal 2019,3.7,231,7.2,España,Valencia,other
+617,Morca,2020,5792926,Flor de Morca 2020,3.9,53,7.2,España,Campo de Borja,other
+618,Tábula,2019,1135605,Damana 5 Ribera del Duero 2019,3.7,245,7.2,España,Ribera del Duero,Ribera del Duero
+619,Jaro,2020,1164120,Sembro Vendimia Seleccionada Tempranillo 2020,3.6,114,7.2,España,Ribera del Duero,Ribera del Duero
+620,Finca Antigua,2014,13943,Crianza 2014,3.8,97,7.2,España,La Mancha,other
+621,Bodegas Carramimbre,2020,1137288,Carramimbre Roble 2020,3.7,386,7.21,España,Ribera del Duero,Ribera del Duero
+622,Abadia de Poblet,2018,1416376,Monestir de Poblet Intramurs Tinto 2018,3.6,263,7.22,España,Conca de Barberà,other
+623,Familia Torres,2013,3129085,Gran Coronas Reserva Cabernet Sauvignon 2013,3.7,4612,7.22,España,Panadés,other
+624,Pinna Fidelis,2019,1198159,Ribera del Duero Roble 2019,3.8,484,7.24,España,Ribera del Duero,Ribera del Duero
+626,Volver,2020,8516607,La Quinta de Rafa 2020,3.8,81,7.25,España,Almansa,other
+627,Pradorey,2019,1136269,Origen 2019,3.6,677,7.25,España,Ribera del Duero,Ribera del Duero
+628,Baronia,2017,1397246,Cims del Montsant 2017,3.6,98,7.25,España,Montsant,Catalunya Sul
+629,Familia Torres,2016,7569397,22 Pies Rioja Crianza 2016,3.6,654,7.25,España,Rioja,Rioja
+630,Vins de Pedra,2020,5093674,Negre de Folls 2020,3.7,33,7.25,España,Conca de Barberà,other
+631,Viña Pomal,2018,1126216,Crianza 2018,3.7,240,7.25,España,Rioja,Rioja
+632,Paramo Arroyo,2019,4600959,Ser Vivo Y Natural 2019,3.8,34,7.28,España,Ribera del Duero,Ribera del Duero
+633,Solar Viejo,2017,1518048,Orube Crianza 2017,3.9,674,7.3,España,Rioja,Rioja
+634,Tobia,N.V.,8447360,Tobía Cuvée Tinto N.V.,3.7,35,7.3,España,Rioja,Rioja
+635,Martí Fabra,2019,1173849,L'Oratori Empordà 2019,3.5,186,7.3,España,Empordà,other
+636,Arroyo,2018,1450109,Roble Tinto 2018,3.4,63,7.3,España,Ribera del Duero,Ribera del Duero
+637,Eguren Ugarte,2018,1128845,Crianza 2018,3.6,234,7.3,España,Rioja,Rioja
+638,Matsu,2019,1169235,El Picaro 2019,3.8,3730,7.35,España,Toro,other
+639,Viña Real,2018,1261821,Rioja Crianza 2018,3.5,384,7.38,España,Rioja,Rioja
+640,Volver,2019,8516607,La Quinta de Rafa 2019,3.7,128,7.38,España,Almansa,other
+641,Bodegas Faustino,2016,7533604,Art Collection Crianza 2016,3.7,551,7.38,España,Rioja,Rioja
+642,Marqués de Cáceres,2017,10247,Rioja Crianza 2017,3.7,5767,7.38,España,Rioja,Rioja
+643,Garbó,2019,1360693,Negre 2019,3.7,200,7.39,España,Montsant,Catalunya Sul
+644,Viña Mayor,2019,1129480,Ribera del Duero Tinto Roble 2019,3.5,457,7.4,España,Ribera del Duero,Ribera del Duero
+645,Espelt,2019,1731540,Sauló 2019,3.5,106,7.4,España,Empordà,other
+646,Palacios Remondo,2019,1138914,Rioja La Vendimia 2019,3.8,633,7.4,España,Rioja,Rioja
+647,Castillo Perelada,2020,5682532,Només Garnatxa Negra 2020,3.5,33,7.41,España,Empordà,other
+648,El Coto,2013,1181471,Coto Mayor Crianza 2013,3.7,390,7.41,España,Rioja Alavesa,other
+649,Marqués del Puerto,2015,74902,Crianza 2015,3.4,317,7.42,España,Rioja,Rioja
+650,Viña Pomal,2016,1126218,Centenario Crianza 2016,3.7,242,7.43,España,Rioja,Rioja
+651,Dominio de Tares,2018,1896149,Baltos Mencía 2018,3.7,77,7.44,España,Bierzo,other
+652,Marques de Burgos,2019,1196336,Roble Vendimia Seleccionada 2019,3.7,84,7.45,España,Ribera del Duero,Ribera del Duero
+653,Albet i Noya,2019,4537662,Curiós Tempranillo Ull de Llebre Penedès 2019,3.6,123,7.45,España,Panadés,other
+654,Loxarel,2019,2600072,Amaltea Tinto 2019,3.8,42,7.45,España,Panadés,other
+655,Finca Torremilanos,2020,1620973,Montecastrillo Tinto 2020,3.7,46,7.45,España,Ribera del Duero,Ribera del Duero
+656,Cellers Sant Rafel,2019,1519297,Solpost Negre 2019,3.5,35,7.45,España,Montsant,Catalunya Sul
+657,Equilibrio,2019,2505024,9 Monastrell 2019,3.9,38,7.45,España,Murcia,other
+658,Castillo de Monjardin,2017,1776643,Coupage Selección Crianza 2017,3.5,269,7.45,España,Navarra,other
+659,Boada,2018,2026947,Pepe Yllera 2018,3.7,597,7.45,España,Ribera del Duero,Ribera del Duero
+660,Jordi Miró,2018,4716629,Garnatxa Negra - Syrah 2018,3.5,56,7.45,España,Terra Alta,Catalunya Sul
+661,Pago del Vicario,2016,1175760,Men de Mencía 2016,3.8,55,7.45,España,Bierzo,other
+662,Tridente,2016,1403702,Entresuelos Tempranillo 2016,3.8,431,7.45,España,Castilla y León,other
+663,Analec,2018,1857260,La Creu VI Negre 2018,3.6,26,7.45,España,Costers del Segre,other
+664,Proyecto Garnachas de España,2019,1393134,La Garnacha Salvaje del Moncayo 2019,3.8,200,7.45,España,Aragón,other
+665,Barahonda,2017,15714,Crianza 2017,4.0,177,7.45,España,Yecla,other
+666,Viña Zaco,2014,1637698,Tempranillo (Crianza) 2014,3.6,841,7.48,España,Rioja,Rioja
+667,Pío del Ramo,2017,1410992,Tinto Roble 2017,3.8,39,7.48,España,Jumilla,other
+668,Azpilicueta,2017,1822301,Crianza 2017,3.7,252,7.49,España,Rioja,Rioja
+669,Pere Guardiola,2016,2622923,Floresta 3B8 2016,3.4,31,7.5,España,Empordà,other
+670,Bodegas Ponce,2019,1256349,Clos Lojen Manchuela 2019,3.6,525,7.5,España,Manchuela,other
+671,Rioja Vega,2018,74770,Crianza 2018,3.7,167,7.5,España,Rioja,Rioja
+672,Viña Zorzal,2018,1151276,Graciano 2018,3.6,391,7.5,España,Navarra,other
+673,Dehesa El Carrascal,2018,5859722,Mar García 2018,4.2,33,7.5,España,Almansa,other
+674,Carchelo,2019,77868,Carchelo (C) 2019,3.9,53,7.5,España,Jumilla,other
+675,Altiplà Wines,2018,5161349,El Destraler Negre Criança 2018,3.4,55,7.5,España,Terra Alta,Catalunya Sul
+677,De Moya,2017,2766217,Justina 2017,3.8,200,7.5,España,Valencia,other
+678,Celler Frisach,2020,1909590,L'Abrunet Negre 2020,3.6,30,7.5,España,Terra Alta,Catalunya Sul
+679,D Luis R,2019,8451242,Pipiolo Tinto 2019,3.3,137,7.5,España,Rioja,Rioja
+680,Espelt,2017,1731540,Sauló 2017,3.3,74,7.5,España,Empordà,other
+681,Heraclio Alfaro,2017,6869630,Crianza 2017,3.7,218,7.5,España,Rioja,Rioja
+682,Viñedos Ruiz Jiménez,2020,2062480,Osoti Joven Organic 2020,3.6,46,7.5,España,Rioja,Rioja
+683,Bodegas Valdemar,2016,15487,Conde de Valdemar Crianza 2016,3.7,336,7.5,España,Rioja,Rioja
+684,Silvano Garcia,2019,4195510,4 Meses 2019,3.9,28,7.5,España,Jumilla,other
+685,Bodegas Ponce,2019,1643710,Depaula Monastrell 2019,3.5,181,7.5,España,Jumilla,other
+686,Solar Viejo,2016,1181896,Crianza 2016,3.6,776,7.5,España,Rioja,Rioja
+687,Parés Baltà,2018,13479,Mas Petit 2018,3.5,33,7.5,España,Panadés,other
+688,Bodegas Vilano,2019,1378916,Roble 2019,3.6,217,7.5,España,Ribera del Duero,Ribera del Duero
+689,Bodegas Care,2018,1369510,Crianza Tempranillo - Merlot 2018,3.9,291,7.5,España,Cariñena,Catalunya Sul
+690,Bodegas Monte La Reina,2017,1172538,Castillo de Monte la Reina Roble 2017,3.5,38,7.5,España,Toro,other
+691,Regina Viarum,2019,7412766,Via Appia 2019,3.7,30,7.5,España,Ribeira Sacra,other
+692,Masetplana,2018,1963317,El Nen de Can Maset 2018,3.6,65,7.5,España,Empordà,other
+693,Viña Zorzal,2019,1151276,Graciano 2019,3.5,126,7.5,España,Navarra,other
+694,Bodegas Lagunilla,2016,1129459,Reserva 2016,3.7,228,7.5,España,Rioja,Rioja
+695,Celler Piñol,2017,77807,Raig de Raïm Negre 2017,3.5,328,7.55,España,Terra Alta,Catalunya Sul
+696,Telmo Rodriguez,2019,63104,Dehesa Gago G 2019,3.8,240,7.55,España,Toro,other
+697,Conde de Siruela,2019,1229780,Roble 2019,3.7,45,7.55,España,Ribera del Duero,Ribera del Duero
+698,Finca Torremilanos,2019,1620973,Montecastrillo Tinto 2019,3.7,238,7.55,España,Ribera del Duero,Ribera del Duero
+699,Cop de Vent,2020,2739699,Negre Jove 2020,3.4,44,7.55,España,Empordà,other
+700,Cercavins,2018,1142420,Bru de Verdú 2018,3.8,66,7.58,España,Costers del Segre,other
+701,Vinos Divertidos,2019,1205983,Cojón de Gato Tinto 2019,3.5,88,7.59,España,Somontano,other
+702,Bicicletas y Peces,2018,2287880,Tempranillo 2018,3.9,61,7.59,España,Somontano,other
+703,Torre de Barreda,2017,93336,Tempranillo 2017,3.9,38,7.6,España,Castilla,other
+704,Lomopardo,2016,2211573,Mencía 2016,3.7,25,7.6,España,Bierzo,other
+705,Viñas del Vero,2016,1599976,Tempranillo - Cabernet Sauvignon Crianza 2016,3.5,440,7.6,España,Somontano,other
+706,Dominio de Atauta,2018,5406361,Torre de Golbán Roble 2018,3.7,40,7.6,España,Ribera del Duero,Ribera del Duero
+707,Casa Ravella,2020,2763792,L'Isard 2020,3.9,25,7.6,España,Panadés,other
+708,Bodega Sommos,2017,4442568,Crianza 2017,3.6,202,7.6,España,Somontano,other
+709,Marqués de Riscal,2017,1852661,Arienzo Rioja Crianza 2017,3.7,269,7.6,España,Rioja,Rioja
+710,Pago del Cielo,2020,1181892,Celeste Roble 2020,3.7,959,7.65,España,Ribera del Duero,Ribera del Duero
+711,Vinessens - Casa Balaguer,2019,3267201,La Casica del Abuelo 2019,3.3,52,7.68,España,Alicante,other
+712,Vetus,2017,1211850,Flor de Vetus 2017,3.7,1291,7.69,España,Toro,other
+713,Hacienda del Carmen,2015,4148857,Tinto 2015,3.6,50,7.7,España,Arlanza,other
+714,Altos de Rioja,2018,1175298,Altos R Crianza 2018,3.6,72,7.7,España,Rioja,Rioja
+715,Herència Altés,2019,1205748,Garnatxa Negra 2019,3.8,107,7.7,España,Terra Alta,Catalunya Sul
+716,Aibar,2019,1480974,Xyz Tridimensional 2019,3.5,35,7.7,España,Montsant,Catalunya Sul
+717,De Muller,2019,1212314,Syrah 2019,3.8,268,7.73,España,Tarragona,Catalunya Sul
+718,Finca La Estacada,2017,1674830,12 Meses en Barrica Crianza 2017,3.6,56,7.75,España,Uclés,other
+719,I Tant,2020,1481883,Garnatxa Negra 2020,3.5,169,7.75,España,Montsant,Catalunya Sul
+720,Bodegas Ponce,2020,1256349,Clos Lojen Manchuela 2020,3.7,172,7.75,España,Manchuela,other
+721,Lan,2018,88830,Crianza Rioja 2018,3.7,413,7.75,España,Rioja,Rioja
+722,Bodega Jesus Romero,2019,1538477,Rubus 2019,3.8,45,7.75,España,Aragón,other
+723,Beso de Rechenna,2017,1375301,Bobal Crianza 2017,3.9,195,7.75,España,Utiel-Requena,other
+724,Orto Vins,2019,1846376,Les Argiles d'Orto Negre 2019,3.6,52,7.75,España,Montsant,Catalunya Sul
+725,Equilibrio,2017,2505024,9 Monastrell 2017,3.9,344,7.75,España,Murcia,other
+726,Raul Calvo Beltran,2018,1597096,Caliel Roble 2018,3.6,208,7.75,España,Ribera del Duero,Ribera del Duero
+727,Obalo,2019,1252789,Joven Rioja 2019,3.6,51,7.75,España,Rioja,Rioja
+728,Bodegas Lleiroso,2019,2016016,Luz Millar Roble 2019,3.8,43,7.75,España,Ribera del Duero,Ribera del Duero
+729,Bracamonte,2018,1225168,Roble 2018,3.6,35,7.75,España,Ribera del Duero,Ribera del Duero
+730,Jeromin,2018,1139252,Grego Garnacha Centenaria 2018,3.3,30,7.75,España,Madrid,other
+731,Condesa de Leganza,2013,1173157,Tempranillo 2013,3.1,198,7.78,España,Castilla,other
+732,Vinos del Paseante,2014,2062578,La Pelea Tempranillo 2014,3.6,55,7.79,España,Rioja,Rioja
+733,Sospechoso,2018,1371436,Tinto 2018,3.5,62,7.79,España,Castilla,other
+734,Luzon,2019,6981077,Colección Roble 2019,3.6,44,7.8,España,Jumilla,other
+735,Cune (CVNE),2019,2492401,Roble 2019,3.7,375,7.8,España,Ribera del Duero,Ribera del Duero
+736,Bodegas Fin de Siglo,2016,2361363,XIII Lunas (Crianza) Rioja 2016,3.6,135,7.8,España,Rioja,Rioja
+737,Estefanía,2019,5110258,Tilenus Vendimia Bierzo 2019,3.6,42,7.8,España,Bierzo,other
+738,Bodegas Vallobera,2018,1205627,Crianza Rioja 2018,3.7,265,7.8,España,Rioja,Rioja
+739,Winery Arts,2009,1219913,Reverse Six 2009,3.6,247,7.8,España,Ribera del Queiles,other
+740,Bodega Sommos,2019,5980061,Varietales Tinto 2019,3.9,170,7.8,España,Somontano,other
+741,Bodegas Cosme Palacio,2015,2328702,Glorioso Rioja Reserva 2015,3.8,574,7.8,España,Rioja,Rioja
+742,Dominio Dostares,2016,1853501,Estay Prieto Picudo 2016,3.5,191,7.8,España,Bierzo,other
+743,Costers del Sió,2019,1368709,Petit Siós Tinto 2019,3.8,244,7.8,España,Costers del Segre,other
+744,Castell del Remei,2019,1616,Gotim Bru 2019,3.7,174,7.84,España,Costers del Segre,other
+745,Dominio de Tares,2020,9038538,El Paisano de Tares 2020,3.7,147,7.84,España,Bierzo,other
+746,Roig Parals,2019,2342512,Mallolet Tinto 2019,3.8,27,7.85,España,Empordà,other
+747,Hermanos Lurton,2018,1178776,Tempranillo 2018,3.7,239,7.85,España,Toro,other
+748,Monteabellon,2019,1411472,Ribera del Duero 5 Meses en Barrica 2019,3.6,77,7.85,España,Ribera del Duero,Ribera del Duero
+749,Bodegas Franco-Españolas,2016,1100348,Rioja Bordón Crianza 2016,3.7,1113,7.85,España,Rioja,Rioja
+750,Abadal,2020,4314254,Franc 2020,3.5,43,7.86,España,Pla de Bages,other
+751,Pagos del Rey,2017,5050415,Sentero Roble Tinta de Toro 2017,3.5,154,7.89,España,Toro,other
+752,Alvear,2019,1598831,Palacio Quemado Crianza 2019,3.9,29,7.89,España,Ribera del Guadiana,other
+753,Briego,2019,2064350,Vendimia Seleccionada 2019,3.6,46,7.9,España,Ribera del Duero,Ribera del Duero
+754,Aroa,2016,1757771,Mutiko 2016,3.5,84,7.9,España,Navarra,other
+755,Alvear,2018,1598831,Palacio Quemado Crianza 2018,3.7,160,7.9,España,Ribera del Guadiana,other
+756,Divina Proporción,2019,2434457,Toro 24 Mozas 2019,3.9,610,7.9,España,Toro,other
+757,Viña Pomal,2017,1126218,Centenario Crianza 2017,3.8,168,7.9,España,Rioja,Rioja
+758,Pinuaga,2018,2048052,La Senda 2018,3.9,40,7.9,España,Castilla,other
+759,Madrid Romero,2018,6537425,3 Calas Tinto 2018,3.5,28,7.9,España,Jumilla,other
+760,Teso La Monja,2019,1239828,Románico 2019,3.7,130,7.9,España,Toro,other
+761,Laus,2016,1130859,Reserva 2016,3.5,35,7.9,España,Somontano,other
+762,Protos,2020,1132737,Roble 2020,3.8,544,7.9,España,Ribera del Duero,Ribera del Duero
+763,Viña d'Mateo,2018,1931412,Massimo Rosso 2018,3.6,87,7.9,España,Ribeira Sacra,other
+764,Bodegas del Rosario,2019,5511692,Bullas Cuatro Las Reñas 2019,4.0,27,7.9,España,Bullas,other
+765,Baronia,2018,5128532,7 Desitjos Negre 2018,3.6,27,7.9,España,Montsant,Catalunya Sul
+766,Más Que Vinos,2016,84515,Ercavio Tempranillo Roble 2016,3.8,397,7.9,España,Castilla,other
+767,Ermita del Conde,2016,4549871,El Vuelo 2016,3.7,37,7.9,España,Castilla y León,other
+768,Oller del Mas,2020,1217520,Petit Bernat 2020,3.7,161,7.9,España,Pla de Bages,other
+769,Monte Real,2018,1576642,Reserva 2018,3.9,41,7.9,España,Rioja,Rioja
+770,Mas Ramoneda,2016,5774436,Picot Roure Oak 2016,3.5,42,7.9,España,Costers del Segre,other
+771,Lynus,2019,3534054,Infante 2019,4.0,72,7.9,España,Ribera del Duero,Ribera del Duero
+772,Marqués de Riscal,2016,1852661,Arienzo Rioja Crianza 2016,3.7,2920,7.9,España,Rioja,Rioja
+773,Alta Alella,2019,4084668,GX 2019,3.7,228,7.9,España,Alella,other
+774,Marqués de Riscal,2018,1852661,Arienzo Rioja Crianza 2018,3.8,102,7.9,España,Rioja,Rioja
+775,Alta Alella,2020,4084668,GX 2020,3.7,102,7.9,España,Alella,other
+777,Casa Castillo,2019,77245,Monastrell 2019,3.7,202,7.9,España,Jumilla,other
+778,Miquel Oliver,2015,1610778,Mont Ferrutx 2015,3.7,52,7.9,España,Plà i Llevant,other
+780,Alan de Val,2019,1475211,Mencía 2019,3.6,38,7.9,España,Valdeorras,other
+781,Carlos Valero,N.V.,2003999,Heredad X N.V.,3.6,211,7.9,España,Cariñena,Catalunya Sul
+782,Bodega Luzdivina Amigo,2019,1729740,Viñademoya Centenaria Mencía Crianza 2019,3.8,124,7.9,España,Bierzo,other
+783,Winery Arts,2016,1202716,Squared Three (Tres al Cuadrado) 2016,3.6,66,7.9,España,Ribera del Queiles,other
+784,La Mejorada,2018,1258736,Villalar 2018,3.5,45,7.9,España,Castilla y León,other
+785,Obalo,2018,2358820,La Tarara 2018,4.0,236,7.9,España,Rioja,Rioja
+786,Jordi Oliver Conti,2017,4444796,Petardo 2017,3.5,42,7.9,España,Empordà,other
+787,Tomàs Cusiné,2019,1244278,Llebre 2019,3.7,120,7.9,España,Costers del Segre,other
+788,El Grillo y La Luna,2020,1605256,12 Lunas Garnacha 2020,3.8,30,7.9,España,Somontano,other
+789,Hermanos Peciña,2019,1146400,Señorío de P. Peciña Cosecha Tinto 2019,3.6,163,7.9,España,Rioja,Rioja
+790,Ramón Bilbao,2018,77021,Crianza Rioja 2018,3.9,2373,7.9,España,Rioja,Rioja
+791,Can Blau,2019,1100804,Can Blau 2019,3.8,36,7.9,España,Montsant,Catalunya Sul
+792,Vizar,2018,5008601,Barrica 2018,3.8,124,7.9,España,Castilla y León,other
+793,Tomàs Cusiné,2016,1244278,Llebre 2016,3.6,223,7.93,España,Costers del Segre,other
+794,Valdubon,2019,1274353,Ribera del Duero Roble 2019,3.6,394,7.94,España,Ribera del Duero,Ribera del Duero
+795,Casa Rojo,2019,7803840,Las Viñas Bastardas 2019,3.8,56,7.94,España,Vino de España,other
+796,Carlos Moro,2016,4544612,Oinoz Tempranillo Crianza 2016,3.9,504,7.94,España,Rioja,Rioja
+797,Vina Herminia,2018,1647057,Rioja Excelsus 2018,3.7,96,7.94,España,Rioja,Rioja
+798,Bodega Sommos,2017,1235996,Alquez 2017,3.8,99,7.95,España,Calatayud,other
+799,Viña Zorzal,2018,5789007,El Inquilino 2018,3.4,32,7.95,España,Rioja,Rioja
+800,Zuazo Gaston,2017,1162868,Crianza 2017,3.6,317,7.95,España,Rioja,Rioja
+801,Batán de Salas de Beroz,2015,2464969,Merlot 2015,3.7,81,7.95,España,Somontano,other
+802,Valdubon,2018,1274353,Ribera del Duero Roble 2018,3.6,773,7.95,España,Ribera del Duero,Ribera del Duero
+803,Tarsus,2019,1216385,Ribera del Duero Roble 2019,3.4,135,7.95,España,Ribera del Duero,Ribera del Duero
+804,Marco Abella,2018,6161614,Olbieta Negre 2018,3.4,219,7.95,España,Cataluña,Catalunya Sul
+805,Corona de Aragón,2014,3273047,Reserva 2014,3.5,90,7.95,España,Cariñena,Catalunya Sul
+806,Azpilicueta,2018,1822301,Crianza 2018,3.8,46,7.95,España,Rioja,Rioja
+807,Marqués de la Concordia,2018,1153105,Crianza Rioja 2018,3.7,42,7.95,España,Rioja,Rioja
+808,Bodega Otto Bestué,2017,1201169,Finca Rableros 2017,3.8,97,7.95,España,Somontano,other
+809,Bo,2017,1206516,Bobal Único 2017,3.7,1084,7.95,España,Utiel-Requena,other
+810,Finca Valpiedra,2017,74424,Rioja Cantos de Valpiedra 2017,3.7,127,7.95,España,Rioja,Rioja
+811,César Principe,2018,1186752,13 Cántaros Nicolás 2018,3.8,135,7.95,España,Cigales,other
+812,Puerta Vieja,2017,1399528,Reserva 2017,3.8,58,7.95,España,Rioja,Rioja
+813,Wine Side Story,2019,3729885,Fulanito Tinto 2019,3.5,37,7.95,España,Ribera del Duero,Ribera del Duero
+814,Comunica,2019,6500189,Vi Del Mas 2019,3.7,255,7.95,España,Montsant,Catalunya Sul
+815,Traslascuestas,2018,1225578,Roble 2018,3.7,357,7.95,España,Ribera del Duero,Ribera del Duero
+816,Casa Ritas,2018,5734360,Patrimonio Monastrell 2018,3.6,47,7.95,España,Alicante,other
+817,Maguila,2018,1719686,Angelitos Negros Toro 2018,3.7,300,7.95,España,Toro,other
+818,Enate,2016,9056,Tempranillo - Cabernet Sauvignon Crianza 2016,3.8,1045,7.95,España,Somontano,other
+819,Valdesil,2017,1235672,Valderroa Mencia 2017,3.6,117,7.95,España,Valdeorras,other
+820,Monasterio de Las Vinas,2012,1104850,Gran Reserva 2012,3.7,150,7.95,España,Cariñena,Catalunya Sul
+821,Izadi,2019,8899930,Larrosa Negra 2019,3.5,125,7.95,España,Rioja,Rioja
+822,Huguet de Can Feixes,2018,1224820,Negre Selecció 2018,3.6,138,7.95,España,Panadés,other
+823,Dios Ares,2012,1204852,Crianza 2012,3.5,592,7.95,España,Rioja,Rioja
+824,Fuentespina,2019,3409228,7 Meses 2019,3.9,134,7.95,España,Ribera del Duero,Ribera del Duero
+825,Bodega Verde,2019,8871217,Tinto 2019,3.8,76,7.95,España,Cariñena,Catalunya Sul
+826,Bodega Pirineos,2017,1110223,Principio Moristel 2017,3.7,115,7.95,España,Somontano,other
+827,Celler del Roure,2019,2477371,Vermell 2019,3.5,302,7.95,España,Valencia,other
+829,Singulares,2019,2684098,El Veïnat Garnatxa Montsant 2019,3.8,123,7.95,España,Montsant,Catalunya Sul
+830,Castell del Remei,2018,1616,Gotim Bru 2018,3.7,821,7.95,España,Costers del Segre,other
+831,Alfredo Maestro,2019,1423567,Almate 2019,3.6,66,7.95,España,Castilla y León,other
+832,Pinord,2015,1171843,Clos de Torribas Penedès Reserva Tempranillo 2015,3.9,582,7.95,España,Panadés,other
+833,Tamaral,2020,1282637,Tempranillo Roble 2020,3.8,27,7.95,España,Ribera del Duero,Ribera del Duero
+834,Viña Albina,2017,1194190,Reserva 2017,3.7,435,7.95,España,Rioja,Rioja
+835,Enate,2017,9056,Tempranillo - Cabernet Sauvignon Crianza 2017,3.8,540,7.95,España,Somontano,other
+836,Valderiz,2020,10026075,Sitio de Valdehermoso 2020,3.8,146,7.95,España,Ribera del Duero,Ribera del Duero
+837,Telmo Rodriguez,2019,1635436,Gazur 2019,3.6,255,7.96,España,Ribera del Duero,Ribera del Duero
+838,Terrai,2019,2321919,OVG Old Vine Garnacha 2019,3.7,60,7.96,España,Cariñena,Catalunya Sul
+839,Bodegas Exopto,2020,1706640,Bozeto de Exopto Tinto 2020,3.9,87,7.97,España,Rioja,Rioja
+840,Viña Otano,2015,1148680,Reserva 2015,4.0,74,7.99,España,Rioja,Rioja
+841,Ilurce,2019,5608861,Angel Garnacha Rioja 2019,4.1,119,7.99,España,Rioja,Rioja
+842,Pasión,2019,1183276,Bobal 2019,3.6,127,7.99,España,Utiel-Requena,other
+843,Berceo,2014,2376803,Reserva 2014,3.8,49,7.99,España,Rioja,Rioja
+844,Bodegas Valdelana,2018,1583264,Barón Ladrón de Guevara Crianza 2018,3.8,28,8.0,España,Rioja,Rioja
+845,Vinedos Escudero,2016,1198294,Solar de Becquer Crianza 2016,3.8,67,8.0,España,Rioja,Rioja
+846,Torre de Oña,2017,1403094,Finca San Martin Rioja Crianza 2017,3.8,1178,8.03,España,Rioja,Rioja
+847,Bodegas Tionio,2018,76651,Austum 2018,3.6,501,8.03,España,Ribera del Duero,Ribera del Duero
+848,Luberri,2018,1501633,Biga de Luberri Crianza 2018,3.7,178,8.04,España,Rioja,Rioja
+849,Sant Josep,2017,1469251,Llàgrimes de Tardor Criança 2017,3.7,249,8.05,España,Terra Alta,Catalunya Sul
+850,Celler de Capçanes,2018,5624884,Mas Collet Selecció 2018,3.8,328,8.05,España,Montsant,Catalunya Sul
+851,Mengoba,2020,1610845,Brezo Mencía 2020,3.8,100,8.1,España,Bierzo,other
+852,Vetus,2018,1211850,Flor de Vetus 2018,4.0,139,8.1,España,Toro,other
+853,Espelt,2019,96036,ViDiví 2019,3.8,33,8.1,España,Empordà,other
+854,Fariña,2018,7136762,Lágrima 2018,3.8,116,8.1,España,Toro,other
+855,Bodegas Valdelana,2019,2132972,Barón Ladrón de Guevara Cosecha 2019,3.7,83,8.1,España,Rioja,Rioja
+856,Raimat,2018,4991062,Boira Garnatxa Negra 2018,3.5,54,8.1,España,Cataluña,Catalunya Sul
+857,Valtravieso,2019,4950148,Finca Santa Maria 2019,3.7,567,8.1,España,Ribera del Duero,Ribera del Duero
+858,Ayuso,2014,1138131,Estola Gran Reserva 2014,3.8,82,8.11,España,Castilla,other
+859,Arzuaga,2020,7936,La Planta 2020,3.7,448,8.12,España,Ribera del Duero,Ribera del Duero
+860,Murviedro,2017,6590318,Sericis Cepas Viejas Monastrell 2017,4.2,524,8.15,España,Valencia,other
+861,Comunica,2020,6500189,Vi Del Mas 2020,3.5,60,8.15,España,Montsant,Catalunya Sul
+862,Alvear,2019,5494925,Palacio Quemado Vendimia Seleccionada 2019,3.6,62,8.16,España,Extremadura,other
+863,Huerta de Albala,2019,1128204,Barbazul Tinto 2019,3.5,43,8.17,España,Cádiz,other
+864,Rigau Ros,2015,7447632,Reserva 2015,4.0,92,8.17,España,Empordà,other
+865,Vivanco,2018,2327297,Crianza Rioja 2018,3.8,191,8.18,España,Rioja,Rioja
+866,Teso La Monja,2018,1239828,Románico 2018,3.7,297,8.19,España,Toro,other
+867,Bodegas Aragonesas,2015,5662074,Coto de Hayas Viñas del Cierzo 2015,3.8,98,8.2,España,Campo de Borja,other
+868,Cellers d'en Guilla,2017,1467082,Rec de Brau 2017,3.6,27,8.2,España,Empordà,other
+869,Singulares,2018,1228702,Entrelobos Tinto Fino Ribera del Duero 2018,3.5,171,8.2,España,Ribera del Duero,Ribera del Duero
+870,El Regajal,2017,1276543,Las Retamas del Regajal 2017,3.8,277,8.2,España,Madrid,other
+871,Alcorta,2011,1864385,Marques de Villamagna Crianza 2011,3.5,29,8.21,España,Rioja,Rioja
+872,Mas Llunes,2018,1408179,Cercivm 2018,3.9,239,8.22,España,Empordà,other
+873,Estancia Piedra,2020,5903145,Natural 2020,3.8,34,8.24,España,Toro,other
+874,3 Ases,2019,1587145,Roble 2019,3.9,45,8.25,España,Ribera del Duero,Ribera del Duero
+875,Gallina de Piel,2018,7352652,Mimetic 2018,3.8,243,8.25,España,Calatayud,other
+876,Ferratus,2018,4781778,Ferratus AØ 2018,3.7,86,8.25,España,Ribera del Duero,Ribera del Duero
+877,Hacienda el Ternero,2016,3802842,Torno Crianza 2016,3.6,39,8.25,España,Rioja Alta,other
+878,Dehesa de Luna,2018,5647607,Orígenes 2018,3.9,121,8.25,España,Castilla y León,other
+879,Bodegas Frontonio,2020,3540352,Botijo Rojo Garnacha Tinta 2020,3.7,113,8.25,España,Valdejalón,other
+880,Valdesil,2018,1235672,Valderroa Mencia 2018,3.9,27,8.25,España,Valdeorras,other
+881,Celler de Capçanes,2019,5624884,Mas Collet Selecció 2019,3.7,117,8.25,España,Montsant,Catalunya Sul
+882,Valtravieso,2020,4950148,Finca Santa Maria 2020,3.8,133,8.25,España,Ribera del Duero,Ribera del Duero
+883,Bodegas Valdemar,2017,15487,Conde de Valdemar Crianza 2017,3.8,92,8.25,España,Rioja,Rioja
+884,Bodegas Exopto,2019,1706640,Bozeto de Exopto Tinto 2019,3.7,371,8.25,España,Rioja,Rioja
+885,Gallina de Piel,2020,7352652,Mimetic 2020,3.7,60,8.25,España,Calatayud,other
+886,Cillar de Silos,2020,1633542,Tempranillo Ribera del Duero 2020,3.7,168,8.25,España,Ribera del Duero,Ribera del Duero
+887,Leyenda del Páramo,2018,1315997,El Aprendiz Tinto 2018,3.6,30,8.25,España,Tierra de León,other
+888,Gallina de Piel,2019,7352652,Mimetic 2019,3.8,342,8.25,España,Calatayud,other
+889,D. Mateos,2019,5086607,Insolente Graciano 2019,3.8,135,8.25,España,Rioja,Rioja
+890,Comenge,2020,3584054,Biberius 2020,3.8,184,8.25,España,Ribera del Duero,Ribera del Duero
+891,Ébano,2018,1656007,6 Tinto 2018,3.4,74,8.27,España,Ribera del Duero,Ribera del Duero
+892,Tarsus,2018,1216385,Ribera del Duero Roble 2018,3.5,403,8.28,España,Ribera del Duero,Ribera del Duero
+893,Telmo Rodriguez,2020,62474,LZ Rioja 2020,3.5,37,8.29,España,Rioja,Rioja
+894,Señorío de Sarria,2014,2118779,Vinedo Sotes Crianza 2014,3.6,44,8.3,España,Navarra,other
+895,Monte Real,2018,1264764,Crianza 2018,3.7,464,8.3,España,Rioja,Rioja
+896,Els Vinyerons,2019,4462873,Saltamarti 2019,3.6,326,8.3,España,Panadés,other
+897,Huerta de Albala,2017,1128204,Barbazul Tinto 2017,3.7,837,8.3,España,Cádiz,other
+898,Pago del Cielo,2019,1181892,Celeste Roble 2019,3.7,1306,8.32,España,Ribera del Duero,Ribera del Duero
+899,Dehesa La Granja,2018,1152838,Tinto 2018,3.8,89,8.35,España,Castilla y León,other
+900,Mas Foraster,2019,2367450,Josep Foraster Les Gallinetes 2019,3.4,44,8.35,España,Conca de Barberà,other
+901,Bodega Pirineos,2019,1110223,Principio Moristel 2019,3.8,148,8.36,España,Somontano,other
+902,Vizcarra,2019,1633909,Ribera del Duero Senda del Oro 2019,3.8,378,8.36,España,Ribera del Duero,Ribera del Duero
+903,Bodegas Javier San Pedro Ortega,2018,2410648,Viuda Negra Crianza 2018,3.7,76,8.38,España,Rioja,Rioja
+904,Peique,2018,1138245,Ramón Valle Mencia Crianza 2018,3.7,465,8.4,España,Bierzo,other
+905,Martinez Lacuesta,2018,1117356,Rioja Crianza 2018,3.8,70,8.4,España,Rioja,Rioja
+906,Mas Comtal,2018,1203695,Negre d'Anyada 2018,3.5,27,8.4,España,Cataluña,Catalunya Sul
+907,El Coto,2016,6345514,Crianza Garnacha 2016,3.8,252,8.4,España,Rioja,Rioja
+908,Estones,2020,2309496,Petites Tinto 2020,3.7,81,8.4,España,Montsant,Catalunya Sul
+909,Emilio Moro,2020,1154044,Finca Resalso 2020,3.8,988,8.4,España,Ribera del Duero,Ribera del Duero
+910,Attis,2020,9534126,Sangarida Mencía 2020,3.7,43,8.4,España,Bierzo,other
+911,La Dansada,2019,8667127,Garnatxa Negra 2019,3.8,31,8.4,España,Terra Alta,Catalunya Sul
+912,Celler Xavier Clua,2018,2373181,Mas d'en Pol Red 2018,3.3,38,8.4,España,Terra Alta,Catalunya Sul
+913,Protos,2019,1132737,Roble 2019,3.8,3347,8.43,España,Ribera del Duero,Ribera del Duero
+914,Ostatu,2017,2394298,Rioja Crianza 2017,3.8,293,8.44,España,Rioja Alavesa,other
+915,Cruz de Alba,2018,1266142,Lucero del Alba Ribera del Duero 2018,3.6,90,8.45,España,Ribera del Duero,Ribera del Duero
+916,Pasión,2019,6203091,Monastrell 2019,3.9,30,8.45,España,Utiel-Requena,other
+917,Barahonda,2018,15713,Barrica Tinto (Monastrell - Syrah) 2018,3.8,255,8.45,España,Yecla,other
+918,Vendrell Rived,2019,2710489,Serè 2019,3.7,110,8.45,España,Montsant,Catalunya Sul
+919,Pata Negra,2016,1941916,Rioja Reserva 2016,3.2,62,8.45,España,Rioja,Rioja
+920,Els Vinyerons,2020,4462873,Saltamarti 2020,3.6,65,8.45,España,Panadés,other
+921,Marqués de Riscal,2017,1282180,Riscal Tempranillo 2017,3.5,1911,8.45,España,Castilla y León,other
+922,Monteabellon,2014,1232403,A Cappela Crianza 2014,3.6,35,8.45,España,Ribera del Duero,Ribera del Duero
+923,Marqués de Valdueza,2018,1376955,Valdueza 2018,3.7,66,8.45,España,Extremadura,other
+924,Bodegas Cosme Palacio,2017,5545219,Glorioso Selección Especial 100 Años Aniversario 2017,3.9,822,8.45,España,Rioja,Rioja
+925,Ramón Bilbao,2017,77021,Crianza Rioja 2017,4.0,13575,8.45,España,Rioja,Rioja
+926,Losada,2019,1382518,El Pajaro Rojo Mencia 2019,3.9,357,8.48,España,Bierzo,other
+927,Enrique Mendoza,2018,1542218,Pinot Noir Alicante 2018,3.7,208,8.49,España,Alicante,other
+928,Canopy,2018,1952604,Castillo de Belarfonso Mentrida 2018,3.8,167,8.49,España,Méntrida,other
+929,Castillo de Aresan,2018,7626630,Terruño 2018,4.1,109,8.49,España,Castilla,other
+930,Finca La Solana,2017,6949850,Las Hermanas Crianza 2017,3.7,41,8.49,España,Jumilla,other
+931,Legaris,2018,1134266,Ribera del Duero Roble 2018,3.6,1674,8.49,España,Ribera del Duero,Ribera del Duero
+932,Paco Garcia,2019,1225314,Seis 2019,3.5,41,8.49,España,Rioja,Rioja
+933,De Muller,2017,1218255,Cabernet Sauvignon 2017,3.4,27,8.5,España,Tarragona,Catalunya Sul
+934,Munia,2019,1230414,Roble 2019,3.8,36,8.5,España,Toro,other
+935,Paco Garcia,2017,1225314,Seis 2017,3.4,137,8.5,España,Rioja,Rioja
+936,Jorge Navascues,2018,8057782,Cutio Vendimia Seleccionada Garnacha 2018,3.7,971,8.5,España,Cariñena,Catalunya Sul
+937,Sospechoso,2017,1371436,Tinto 2017,3.6,74,8.5,España,Castilla,other
+938,Bodegas Care,2019,6854821,Garnacha Nativa Viñas Viejas 2019,3.9,112,8.5,España,Cariñena,Catalunya Sul
+939,Vivanco,2017,2327297,Crianza Rioja 2017,3.8,402,8.5,España,Rioja,Rioja
+940,Vinya l'Hereu,2010,1236654,Petit Grealò Sero 2010,3.5,123,8.5,España,Costers del Segre,other
+941,Corona de Aragón,2016,3273047,Reserva 2016,3.5,43,8.5,España,Cariñena,Catalunya Sul
+942,Ébano,2019,1656007,6 Tinto 2019,3.8,60,8.5,España,Ribera del Duero,Ribera del Duero
+943,Sumarroca,2019,1425545,Temps de Fruits 2019,3.8,26,8.5,España,Panadés,other
+944,Castillo de Albai,2016,2279717,Reserva Rioja 2016,3.6,461,8.5,España,Rioja,Rioja
+945,Señorío de Sarria,2015,1630232,Reserva 2015,4.1,72,8.5,España,Navarra,other
+946,Munia,2018,1230414,Roble 2018,3.8,176,8.5,España,Toro,other
+947,Pago de Cirsus,2019,2491445,Vendimia Seleccionada 2019,3.8,114,8.5,España,Navarra,other
+948,Marqués de Cáceres,2017,2268061,Excellens Cuvée Especial Rioja 2017,3.9,245,8.5,España,Rioja,Rioja
+949,Félix Solís,2015,1823360,Viña Albali Reserva 2015,3.4,3458,8.5,España,Valdepeñas,other
+950,Bodega Cerrón,2018,4265252,Remordimiento Tinto 2018,3.9,299,8.5,España,Jumilla,other
+951,Celler Bellaserra,2018,5609174,Benplantat Selecció 2018,3.4,49,8.5,España,Cataluña,Catalunya Sul
+952,Izadi,2018,77812,Crianza 2018,3.9,157,8.5,España,Rioja,Rioja
+953,Dehesa del Carrizal,2017,1552223,MV 2017,3.8,195,8.5,España,Dehesa del Carrizal,other
+954,Hacienda López de Haro,2016,1868658,Reserva 2016,3.8,657,8.5,España,Rioja,Rioja
+955,Santa María de Nogueira,2016,2673839,Bacelo dos Condes Mencia 2016,3.1,34,8.5,España,Ribeira Sacra,other
+956,Barbadillo,2019,4544339,Quãdis Crianza Cadiz 2019,3.9,72,8.5,España,Cádiz,other
+957,Finca Bacara,2019,7101114,Time Waits For No One 6M 2019,3.7,33,8.5,España,Jumilla,other
+958,Beronia,2019,2177380,Rioja Tempranillo Ecológico 2019,3.5,104,8.5,España,Rioja,Rioja
+959,La Quinta,2017,6273621,Ruido Crianza 2017,3.7,25,8.5,España,Rioja,Rioja
+960,Ramón Roqueta,2020,6735593,Massaluca 2020,3.9,34,8.53,España,Terra Alta,Catalunya Sul
+961,Izadi,2017,77812,Crianza 2017,3.8,1904,8.53,España,Rioja,Rioja
+962,Misticos,2016,1814308,Tinto 2016,3.9,44,8.55,España,Calatayud,other
+963,Magaña,2013,1239296,Dignus Navarra 2013,3.6,194,8.55,España,Navarra,other
+964,Telmo Rodriguez,2017,62474,LZ Rioja 2017,3.7,852,8.59,España,Rioja,Rioja
+965,Dehesa La Granja,2016,1152838,Tinto 2016,3.9,291,8.59,España,Castilla y León,other
+966,Toresanas,2015,1206153,Orot Crianza 2015,3.7,235,8.6,España,Toro,other
+967,Vinyes dels Aspres,2020,1182643,Oriol dels Aspres Negre 2020,3.6,72,8.6,España,Empordà,other
+968,Viña Bujanda,2014,1587421,Rioja Reserva 2014,3.9,188,8.6,España,Rioja,Rioja
+969,Perlat,2019,99055,Syrah 2019,3.8,25,8.6,España,Montsant,Catalunya Sul
+970,Montebaco,2017,100385,Semele 2017,3.8,779,8.62,España,Ribera del Duero,Ribera del Duero
+971,Celler de Capçanes,2019,1169928,Lasendal Selecció 2019,4.1,142,8.65,España,Montsant,Catalunya Sul
+972,Josep Grau Viticultor,2020,2309878,L'Efecte Volador Monstant 2020,4.0,57,8.65,España,Montsant,Catalunya Sul
+973,Las Rocas,2019,76953,Garnacha 2019,3.5,30,8.65,España,Calatayud,other
+974,Hacienda del Carche,2020,2381588,Infiltrado Tinto 2020,3.7,62,8.65,España,Jumilla,other
+975,Bodegas Quinta de Aves,2019,6247755,Syrah 2019,3.6,49,8.65,España,La Mancha,other
+976,Bodega Iniesta,2010,1646218,Corazón Loco Selección 2010,3.7,170,8.69,España,Manchuela,other
+977,Vinícola del Priorat,2017,99545,Ònix Clàssic 2017,3.6,230,8.69,España,Priorato,Catalunya Sul
+978,Perello,2018,6457155,Noctàmbul 2018,3.8,32,8.69,España,Empordà,other
+979,Bodegas Faustino,2018,7533604,Art Collection Crianza 2018,3.5,69,8.7,España,Rioja,Rioja
+980,Albet i Noya,2018,79853,Lignum Penedès 2018,3.6,292,8.7,España,Panadés,other
+981,Flumen Dorivm,2016,1757151,Crianza 2016,3.4,47,8.7,España,Ribera del Duero,Ribera del Duero
+982,Avgvstvs,2019,7364107,Primer Negre 2019,3.8,41,8.7,España,Panadés,other
+983,Estancia Piedra,2018,2211667,Roble 2018,3.6,173,8.7,España,Toro,other
+984,Urbion,2015,2232577,Crianza 2015,3.5,46,8.7,España,Rioja,Rioja
+985,Monóvar,2015,5372999,Tempus Regit Monastrell 2015,3.4,66,8.71,España,Alicante,other
+986,Murviedro,2012,5729640,Colección Reserva Bobal 2012,3.8,43,8.74,España,Utiel-Requena,other
+987,Pasión,2018,6203091,Monastrell 2018,3.6,87,8.74,España,Utiel-Requena,other
+988,Bodegas Arrocal,2020,5287555,Gallinitaciega Tempranillo 2020,3.8,64,8.75,España,Ribera del Duero,Ribera del Duero
+989,Neo,2019,1991390,Disco 2019,3.5,37,8.75,España,Ribera del Duero,Ribera del Duero
+990,Massaluca,2020,8958138,Garnatxa Negra - Samsó 2020,3.8,129,8.75,España,Terra Alta,Catalunya Sul
+991,Sant Josep,2018,1469251,Llàgrimes de Tardor Criança 2018,3.9,306,8.75,España,Terra Alta,Catalunya Sul
+992,Callejo,2019,1387031,Flores de Callejo 2019,3.8,773,8.75,España,Ribera del Duero,Ribera del Duero
+993,Condado de Oriza,2018,1174345,Crianza Ribera del Duero 2018,3.9,277,8.75,España,Ribera del Duero,Ribera del Duero
+994,Bodega Sommos,2018,4442568,Crianza 2018,3.8,48,8.75,España,Somontano,other
+995,Enrique Mendoza,2018,1213653,Merlot - Monastrell 2018,3.8,41,8.75,España,Alicante,other
+996,Bodegas Aragonesas,2019,1168436,Coto de Hayas Garnacha Centenaria 2019,4.0,524,8.75,España,Campo de Borja,other
+997,Marqués de Carrión,2017,1176779,Rioja Crianza 2017,3.4,29,8.75,España,Rioja,Rioja
+998,Enrique Mendoza,2018,1730288,Cabernet Sauvignon - Monastrell Alicante Crianza 2018,3.8,140,8.75,España,Alicante,other
+999,Nebla,2019,3312739,Tempranillo Roble 2019,3.7,213,8.75,España,Ribera del Duero,Ribera del Duero
+1000,Loess,2019,4219315,Inspiration 2019,3.9,78,8.75,España,Ribera del Duero,Ribera del Duero
+1001,Josep Grau Viticultor,2020,6034268,Una Nit en Globus 2020,3.9,66,8.75,España,Montsant,Catalunya Sul
+1002,Huguet de Can Feixes,2017,1224820,Negre Selecció 2017,3.7,146,8.78,España,Panadés,other
+1003,L'Olivera,2018,5656407,Tossudes 2018,3.7,33,8.8,España,Cataluña,Catalunya Sul
+1004,Luberri,2018,1164191,Seis de Luberri Rioja 2018,3.6,157,8.8,España,Rioja,Rioja
+1005,Barahonda,2017,15713,Barrica Tinto (Monastrell - Syrah) 2017,3.9,1523,8.8,España,Yecla,other
+1006,EGO,2017,1885785,Fuerza 2017,3.9,295,8.8,España,Jumilla,other
+1007,Lopez Cristobal,2019,1742507,Tinto Roble 2019,3.5,95,8.8,España,Ribera del Duero,Ribera del Duero
+1008,Bodegas Tionio,2020,76651,Austum 2020,3.6,38,8.8,España,Ribera del Duero,Ribera del Duero
+1009,Montebaco,2018,100385,Semele 2018,3.9,621,8.8,España,Ribera del Duero,Ribera del Duero
+1010,Sierra Cantabria,2016,77872,Crianza 2016,3.7,2028,8.85,España,Rioja,Rioja
+1011,Campo Viejo,2015,1163217,Reserva 2015,3.8,7103,8.85,España,Rioja,Rioja
+1012,Bodegas Faustino,2016,1386795,V Reserva 2016,3.8,968,8.85,España,Rioja,Rioja
+1013,Can Blau,2018,1478833,Blau 2018,3.8,1417,8.85,España,Montsant,Catalunya Sul
+1014,Dominio de Atauta,2018,1693444,Viridiana Ribera del Duero Roble 2018,3.7,240,8.86,España,Ribera del Duero,Ribera del Duero
+1015,Viña Real,2017,1261821,Rioja Crianza 2017,3.6,1062,8.88,España,Rioja,Rioja
+1016,Telmo Rodriguez,2019,63114,Valdeorras Mencia Gaba do Xil 2019,3.7,408,8.88,España,Valdeorras,other
+1017,Málaga Virgen,2014,1992508,Pernales Syrah 2014,3.2,26,8.89,España,Sierras de Málaga,other
+1018,La Quinta,2016,6273621,Ruido Crianza 2016,3.7,57,8.9,España,Rioja,Rioja
+1019,Vegamar,2019,7838335,Huella de Garnacha 2019,3.5,74,8.9,España,Valencia,other
+1020,Pagos de Valcerracín,2019,7670410,10 Meses Roble Tempranillo 2019,3.6,65,8.9,España,Ribera del Duero,Ribera del Duero
+1021,Paramo Arroyo,2018,1204860,Eremus Ecológico Roble Tempranillo 2018,3.4,73,8.9,España,Ribera del Duero,Ribera del Duero
+1022,Celler Sabaté,2019,3117019,Mas d'En Bernat 2019,3.7,28,8.9,España,Priorato,Catalunya Sul
+1023,Monte Real,2017,1576642,Reserva 2017,3.8,797,8.9,España,Rioja,Rioja
+1024,Murviedro,2018,6673810,Sericis Cepas Viejas Bobal 2018,3.9,53,8.9,España,Utiel-Requena,other
+1025,Pago Aylés,2017,1319843,y de Aylés 2017,3.9,274,8.9,España,Aragón,other
+1026,El Escocés Volante,2015,4190007,The Cup & Rings Mencia 2015,3.3,60,8.9,España,Bierzo,other
+1027,Sierra Cantabria,2018,77872,Crianza 2018,3.6,71,8.9,España,Rioja,Rioja
+1028,Viña Cumbrero,2014,1204718,Rioja Reserva 2014,3.6,93,8.9,España,Rioja,Rioja
+1029,Medrano Irazu,2017,1219007,Crianza 2017,3.5,109,8.9,España,Rioja,Rioja
+1030,Bodegas Clunia,2018,9425603,Tesela 2018,3.7,65,8.9,España,Castilla y León,other
+1031,Cuatro Rayas,2019,5935968,Cuarenta Vendimias Tempranillo 2019,3.8,71,8.9,España,Ribera del Duero,Ribera del Duero
+1032,Marqués de Griñon,2018,1199097,El Rincón 2018,3.5,155,8.9,España,Dominio de Valdepusa,other
+1033,Rioja Vega,2017,6290696,Rioja Vega Edición Limitada 2017,3.9,92,8.9,España,Rioja,Rioja
+1034,Sierra Cantabria,2017,77872,Crianza 2017,3.8,844,8.9,España,Rioja,Rioja
+1035,Landaluce,2018,1565877,Fincas de Landaluce Crianza 2018,3.8,48,8.9,España,Rioja Alavesa,other
+1036,Gonzalo Celayeta,2017,3943284,El Piano Garnacha Tinta 2017,3.6,36,8.9,España,Navarra,other
+1037,Callejo,2020,1387031,Flores de Callejo 2020,3.7,269,8.9,España,Ribera del Duero,Ribera del Duero
+1038,Pata Negra,2018,1999608,Ribera del Duero Crianza 2018,3.3,27,8.9,España,Ribera del Duero,Ribera del Duero
+1039,Calandria,2018,1273968,Volandera 2018,3.8,227,8.9,España,Navarra,other
+1040,Vizcarra,2020,1633909,Ribera del Duero Senda del Oro 2020,3.8,100,8.9,España,Ribera del Duero,Ribera del Duero
+1041,Jorge Piernas,2019,8468505,El Banquete de Platón Monastrell 2019,3.7,62,8.9,España,Murcia,other
+1042,Martí Serdà,2018,4405980,El Cabronet 2018,3.7,33,8.9,España,Panadés,other
+1043,De Moya,2018,5220637,Gloria 2018,3.9,469,8.9,España,Valencia,other
+1044,Las Moradas de San Martín,2018,1586637,Senda 2018,3.6,62,8.9,España,Madrid,other
+1045,Cellers Grifoll Declara,2017,1244210,Predicat 2017,3.8,1066,8.9,España,Priorato,Catalunya Sul
+1046,Figuero,2020,1155267,Ribera Del Duero 4 Meses en Barrica (Roble) 2020,3.7,31,8.91,España,Ribera del Duero,Ribera del Duero
+1047,Herència Altés,2018,1205748,Garnatxa Negra 2018,3.8,433,8.91,España,Terra Alta,Catalunya Sul
+1048,Familia Torres,2019,2651,Atrium Merlot 2019,3.8,114,8.91,España,Panadés,other
+1049,Mustiguillo,2019,99554,Mestizaje Tinto 2019,3.8,116,8.94,España,El Terrerazo,other
+1050,Serra i Barceló,2018,2556887,Aucalà Tinto 2018,3.9,60,8.94,España,Terra Alta,Catalunya Sul
+1051,Bodegas Obergo,2014,6527689,Expression Garnacha 2014,3.3,33,8.95,España,Somontano,other
+1052,Solabal,2017,1194669,Rioja Crianza 2017,3.8,69,8.95,España,Rioja,Rioja
+1053,Tomàs Cusiné,2018,1244278,Llebre 2018,3.7,514,8.95,España,Costers del Segre,other
+1054,Fernández de Piérola,2017,1167430,Crianza 2017,3.8,352,8.95,España,Rioja,Rioja
+1055,Adega Ponte da Boga,2019,1395942,Mencía 2019,3.3,169,8.95,España,Ribeira Sacra,other
+1056,Bodegas Valdelana,2018,1631856,Familia Valdelana Crianza 2018,3.8,109,8.95,España,Rioja,Rioja
+1057,Calandria,2020,1273968,Volandera 2020,4.0,25,8.95,España,Navarra,other
+1058,Bodega Picos,2019,1837623,Gregoriano Roble 2019,3.9,26,8.95,España,Campo de Borja,other
+1059,Ballad,2015,2693722,Old Vine Garnacha 2015,3.6,154,8.95,España,Aragón,other
+1060,Tempore,2019,4759933,Generacion 73 Garnacha 2019,3.9,209,8.95,España,Bajo Aragón,other
+1061,Finca Bacara,2018,7101114,Time Waits For No One 6M 2018,3.9,487,8.95,España,Jumilla,other
+1062,R. Raventós,2018,3984450,Costers del Segre 2018,3.7,55,8.95,España,Costers del Segre,other
+1063,Bodegas Aragonesas,2020,1168436,Coto de Hayas Garnacha Centenaria 2020,3.7,63,8.95,España,Campo de Borja,other
+1064,Canopy,2017,1952604,Castillo de Belarfonso Mentrida 2017,3.8,534,8.95,España,Méntrida,other
+1065,Bodegas Valdelana,2019,5527113,AGNVS Tempranillo 2019,3.8,57,8.95,España,Rioja,Rioja
+1066,Edetària,2020,1218881,Via Terra Garnatxa Negra 2020,3.5,67,8.95,España,Terra Alta,Catalunya Sul
+1067,Muriel,2016,77262,Rioja Reserva 2016,3.7,78,8.95,España,Rioja,Rioja
+1068,Divina Proporción,2019,1589025,Madremía 2019,3.8,98,8.95,España,Toro,other
+1069,Altos de Rioja,2017,1175298,Altos R Crianza 2017,3.6,182,8.95,España,Rioja,Rioja
+1070,Altanza,2016,1557793,Valvarès de Altanza Rioja 2016,3.7,52,8.95,España,Rioja,Rioja
+1071,Casa de la Ermita,2018,2161628,Monastrell - Tempranillo - Cabernet Sauvignon Crianza 2018,3.6,37,8.95,España,Jumilla,other
+1072,Telmo Rodriguez,2018,63104,Dehesa Gago G 2018,3.6,710,8.95,España,Toro,other
+1073,Bodegas Frontonio,2018,3540352,Botijo Rojo Garnacha Tinta 2018,3.6,739,8.95,España,Valdejalón,other
+1074,Tridente,2015,1444788,Mencia 2015,3.6,222,8.95,España,Castilla y León,other
+1075,Tamaral,2018,1282637,Tempranillo Roble 2018,3.9,653,8.95,España,Ribera del Duero,Ribera del Duero
+1076,Tempore,2019,4759901,Generación 76 Tempranillo 2019,3.8,214,8.95,España,Bajo Aragón,other
+1077,Hacienda el Ternero,2014,3802842,Torno Crianza 2014,3.6,124,8.95,España,Rioja Alta,other
+1078,Finca Sobreno,2016,1136732,Crianza 2016,3.8,511,8.95,España,Toro,other
+1079,Balmoral,2018,3776856,Maravides Mediterráneo Tempranillo 2018,3.4,48,8.95,España,Castilla,other
+1080,Més Que Paraules,2017,1517240,Red Blend 2017,3.7,256,8.95,España,Cataluña,Catalunya Sul
+1081,Cillar de Silos,2019,1633542,Tempranillo Ribera del Duero 2019,3.7,177,8.95,España,Ribera del Duero,Ribera del Duero
+1082,Abadal,2019,4314254,Franc 2019,3.6,186,8.95,España,Pla de Bages,other
+1083,Lecco,2018,1512791,Roble Ribera del Duero 2018,3.5,42,8.95,España,Ribera del Duero,Ribera del Duero
+1084,Bodegas Langa,2018,3794658,Classic 2018,3.8,86,8.95,España,Calatayud,other
+1085,Luzon,2018,6366772,Finca Luzón Crianza 2018,3.7,67,8.95,España,Jumilla,other
+1086,Borsao Bodegas,2017,7796041,Cabriola 2017,3.9,70,8.95,España,Aragón,other
+1087,Hacienda López de Haro,2016,1224522,Crianza 2016,3.6,3145,8.95,España,Rioja,Rioja
+1088,Ederra,2016,4827539,Rioja Reserva 2016,3.8,62,8.95,España,Rioja,Rioja
+1089,Celler Sabaté,2020,3117019,Mas d'En Bernat 2020,3.5,33,8.95,España,Priorato,Catalunya Sul
+1090,Finca Bacara,2019,4431523,Time Waits For No One (Red label) 2019,3.8,376,8.95,España,Jumilla,other
+1091,El Grillo y La Luna,2019,1142921,12 Lunas Tinto 2019,3.9,67,8.95,España,Somontano,other
+1092,Terra i Vins,2019,1854855,Clos del Gos 2019,3.4,65,8.95,España,Montsant,Catalunya Sul
+1093,Tamaral,2019,1282637,Tempranillo Roble 2019,3.8,139,8.95,España,Ribera del Duero,Ribera del Duero
+1094,Viñedos y Bodegas Pablo,2017,94602,Menguante Garnacha 2017,3.6,494,8.95,España,Cariñena,Catalunya Sul
+1095,Canopy,2019,1952604,Castillo de Belarfonso Mentrida 2019,3.6,59,8.95,España,Méntrida,other
+1096,Marques de Tomares,2018,1137848,Rioja Crianza 2018,4.0,204,8.95,España,Rioja,Rioja
+1097,Bodegas Olarra,2017,1367561,Cerro Añon Crianza Rioja 2017,3.9,1866,8.95,España,Rioja,Rioja
+1098,Pradorey,2019,6936450,10 Meses Barrica 2019,3.6,90,8.95,España,Ribera del Duero,Ribera del Duero
+1099,Manuel Manzaneque Suárez,2017,1860918,¡Ea! Tinto 2017,3.8,59,8.95,España,La Mancha,other
+1100,Collbaix Celler El Molí,2019,2291141,El Sagal de Collbaix 2019,3.8,53,8.98,España,Pla de Bages,other
+1101,Bodegas Piqueras,2016,7760331,El Abuelo Selección Edición Limitada 2016,3.9,164,8.99,España,Almansa,other
+1102,Viña Albina,2013,1399070,Gran Reserva 2013,3.9,258,8.99,España,Rioja,Rioja
+1103,Vinyes Domenech,2019,1226456,Bancal del Bosc Tinto 2019,3.7,155,8.99,España,Montsant,Catalunya Sul
+1104,Vinos del Paseante,2019,2363186,El Pispa Garnatxa 2019,3.8,109,8.99,España,Montsant,Catalunya Sul
+1105,Bodem,2018,6900660,Las Margas Garnacha 2018,3.9,293,8.99,España,Aragón,other
+1106,Pago Aylés,2020,8076080,Cuesta del Herrero 2020,3.9,87,8.99,España,Aragón,other
+1107,Clos Mont-Blanc,2016,3882992,Xipella Tinto 2016,3.8,83,9.0,España,Conca de Barberà,other
+1108,Celler Piñol,2015,1206763,Portal Roble (Nuestra Señora) 2015,3.9,58,9.0,España,Tarragona,Catalunya Sul
+1109,Bodegas Gratias,2019,6106207,¿Y Tú de Quién Eres? Multivarietal 2019,3.3,286,9.0,España,Manchuela,other
+1110,Xenysel,2017,1970636,Xenys Tinto 2017,2.8,144,9.0,España,Jumilla,other
+1111,Alemany i Corrió,2018,2878451,El Microscopi 2018,3.8,30,9.0,España,Panadés,other
+1112,El Ilusionista,2018,4602142,Joven 2018,3.7,42,9.0,España,Ribera del Duero,Ribera del Duero
+1113,Comalats,2019,5440652,Alosa 2019,3.7,34,9.0,España,Costers del Segre,other
+1114,La Comarcal,2020,6617576,Delmoro 2020,3.7,117,9.0,España,Valencia,other
+1115,Telmo Rodriguez,2018,1210854,Corriente 2018,3.8,315,9.01,España,Rioja,Rioja
+1116,Campo Viejo,2011,1163217,Reserva 2011,3.7,6800,9.04,España,Rioja,Rioja
+1117,Finca Sobreno,2018,1136732,Crianza 2018,3.7,231,9.05,España,Toro,other
+1118,Viña Pomal,2010,1514598,Terruño Centenario Reserva 2010,3.7,694,9.06,España,Rioja,Rioja
+1119,Baron de Ley,2016,21584,Rioja Reserva 2016,3.8,4360,9.1,España,Rioja,Rioja
+1120,Finca de la Rica,2017,1258041,El Buscador 2017,3.6,62,9.1,España,Rioja,Rioja
+1121,Altanza,2015,1557793,Valvarès de Altanza Rioja 2015,3.9,147,9.1,España,Rioja,Rioja
+1122,Baron de Ley,2017,21584,Rioja Reserva 2017,3.8,745,9.1,España,Rioja,Rioja
+1123,Murviedro,2014,6506072,Audentia Reserva 2014,3.5,58,9.12,España,Valencia,other
+1124,Jané Ventura,2016,1992036,Negre Selecció 2016,3.7,47,9.14,España,Panadés,other
+1125,Bodegas Virgen de Galir,2017,2057518,Pagos del Galir Mencia 2017,3.7,148,9.15,España,Valdeorras,other
+1126,La Vinyeta,2019,3073860,Llavors 2019,4.0,55,9.15,España,Empordà,other
+1127,Bodegas Virgen de Galir,2018,2057518,Pagos del Galir Mencia 2018,3.7,176,9.15,España,Valdeorras,other
+1128,Telmo Rodriguez,2019,62474,LZ Rioja 2019,3.7,181,9.15,España,Rioja,Rioja
+1129,Raimat,2018,5545541,Pirinenca Tempranillo 2018,3.5,88,9.15,España,Cataluña,Catalunya Sul
+1130,Espelt,2018,96036,ViDiví 2018,3.7,94,9.15,España,Empordà,other
+1131,Parés Baltà,2018,1389015,Mas Elena 2018,3.6,80,9.16,España,Panadés,other
+1132,Arzuaga,2019,7936,La Planta 2019,3.8,2040,9.17,España,Ribera del Duero,Ribera del Duero
+1133,Miquel Jané,2018,5362141,Syrah 2018,3.4,67,9.2,España,Panadés,other
+1134,Estefanía,2017,1546637,Tilenus Envejecido en Roble Bierzo Mencia 2017,3.9,35,9.2,España,Bierzo,other
+1135,El Coto,2016,8622,Coto de Imaz Rioja Reserva 2016,3.8,7653,9.2,España,Rioja Alavesa,other
+1136,Ostatu,2018,2394298,Rioja Crianza 2018,3.7,191,9.2,España,Rioja Alavesa,other
+1137,Bodega Sommos,2018,1235996,Alquez 2018,3.6,60,9.2,España,Calatayud,other
+1138,Mas Blanch I Jove,2018,3326797,Petit Saó 2018,3.8,204,9.2,España,Costers del Segre,other
+1139,Jordi Miró,2018,2474371,Ennak+ 2018,3.8,26,9.25,España,Terra Alta,Catalunya Sul
+1140,Península Vinicultores,2018,7572902,Cebreros Sierra de Gredos 2018,3.5,367,9.25,España,Madrid,other
+1141,Península Vinicultores,2018,5261714,Cadalso Sierra de Gredos 2018,3.6,86,9.25,España,Madrid,other
+1142,Amor Vins,2018,7526872,Amor de Vida Negre 2018,3.6,30,9.25,España,Conca de Barberà,other
+1143,Chivite,2015,6004027,Las Fieles Tempranillo 2015,3.4,33,9.25,España,Navarra,other
+1144,Venta del Puerto,2019,1145049,No. 12 Selección Especial 2019,4.1,32,9.25,España,Valencia,other
+1145,Venta del Puerto,2018,1145049,No. 12 Selección Especial 2018,4.0,557,9.26,España,Valencia,other
+1146,Cérvoles,2018,1127025,Colors Tinto 2018,3.8,265,9.27,España,Costers del Segre,other
+1147,Covitoro,2016,1134541,Cañus Verus Viñas Viejas 2016,4.0,123,9.29,España,Toro,other
+1148,Finca Sobreno,2019,1231226,Organic Tempranillo 2019,3.4,40,9.3,España,Toro,other
+1149,Celler Sabaté,2018,6663538,Martina Tinto 2018,3.7,30,9.3,España,Priorato,Catalunya Sul
+1150,Bernavi,2018,7356354,Tres de Tres 2018,3.7,25,9.3,España,Tarragona,Catalunya Sul
+1151,Viña Pomal,2013,3674494,Vino Ecológico 2013,3.6,111,9.3,España,Rioja,Rioja
+1152,El Grillo y La Luna,2018,1142921,12 Lunas Tinto 2018,3.8,283,9.3,España,Somontano,other
+1153,Soto y Manrique,2018,8342240,La Viña de Ayer Garnacha 2018,3.7,78,9.3,España,Castilla y León,other
+1154,Vinos del Paseante,2016,2363186,El Pispa Garnatxa 2016,3.7,785,9.3,España,Montsant,Catalunya Sul
+1155,Azpilicueta,2017,2026479,Félix Azpilicueta Crianza 2017,3.6,50,9.3,España,Rioja,Rioja
+1156,Celler Piñol,2017,2004137,Sa Natura 2017,3.8,127,9.3,España,Terra Alta,Catalunya Sul
+1157,Convento Oreja,2019,1269123,Roble 2019,3.8,421,9.3,España,Ribera del Duero,Ribera del Duero
+1158,Can Serra dels Exibis,2020,2346768,Exibis 2020,4.0,82,9.31,España,Pla de Bages,other
+1159,Casa de la Ermita,2018,2675664,Lunático Monastrell 2018,3.8,73,9.35,España,Jumilla,other
+1160,Palomo Cazador,2018,2727716,Roble 2018,3.9,50,9.35,España,Ribera del Duero,Ribera del Duero
+1161,Orto Vins,2018,1208363,Orto Tinto 2018,3.8,37,9.35,España,Montsant,Catalunya Sul
+1162,Viñedos del Jorco,2017,6527774,Las Cabañuelas Cebreros 2017,3.6,140,9.36,España,Castilla y León,other
+1163,Bodega de Bardos,2018,1165618,Romántica Crianza 2018,3.8,449,9.37,España,Ribera del Duero,Ribera del Duero
+1164,Bruno Murciano,2019,5565109,L'Alegria Bobal Arcilla 2019,4.0,205,9.38,España,Utiel-Requena,other
+1165,Rejadorada,2017,1230030,Novellum 2017,4.0,37,9.38,España,Toro,other
+1166,Coca i Fitó,2017,1188572,Jaspi Negre 2017,3.8,476,9.4,España,Montsant,Catalunya Sul
+1167,Las Moradas de San Martín,2016,1586637,Senda 2016,3.8,60,9.4,España,Madrid,other
+1168,Can Rich,2018,2438995,Yviça Tinto 2018,3.4,28,9.4,España,Ibiza,other
+1169,Soto y Manrique,2018,5568811,La Viña de Ayer Cebreros 2018,3.7,40,9.4,España,Castilla y León,other
+1170,Proyecto Garnachas de España,2020,1448359,La Garnacha Olvidada de Aragón 2020,3.8,72,9.4,España,Aragón,other
+1171,Can Rich,2019,2438995,Yviça Tinto 2019,3.5,25,9.4,España,Ibiza,other
+1172,Laus,2013,1130859,Reserva 2013,3.6,187,9.4,España,Somontano,other
+1173,Quinta Milú,2020,2030950,Ribera del Duero 2020,3.7,48,9.4,España,Ribera del Duero,Ribera del Duero
+1174,Arroyo,2016,1886515,Crianza Tinto 2016,3.7,190,9.4,España,Ribera del Duero,Ribera del Duero
+1175,Bodegas Nexus,2018,1943815,One 2018,3.8,306,9.4,España,Ribera del Duero,Ribera del Duero
+1176,Gómez Cruzado,2018,1787205,Crianza 2018,3.8,90,9.43,España,Rioja,Rioja
+1177,Jané Ventura,2015,6349677,Vinyes Negres 2015,3.8,72,9.44,España,Panadés,other
+1178,Bodegas Frontonio,2015,3833563,Botijo Rojo Garnacha Viñas Viejas 2015,3.7,166,9.45,España,Valdejalón,other
+1179,Habla,2020,1250095,Silencio 2020,3.9,282,9.45,España,Extremadura,other
+1180,Bernabeleva,2019,1240180,Camino de Navaherreros 2019,3.8,144,9.45,España,Madrid,other
+1181,Dominio de Atauta,2017,1171697,Atalayas de Golbán Ribera del Duero Crianza 2017,3.8,157,9.45,España,Ribera del Duero,Ribera del Duero
+1182,Diez Caballero,2018,1514638,Tempranillo Crianza 2018,3.5,62,9.45,España,Rioja,Rioja
+1183,Mas Candi,2018,1580101,Les Forques Negre 2018,3.8,38,9.45,España,Panadés,other
+1184,El Vino Pródigo,2017,2417698,La Vina de La Merce Crianza 2017,3.7,44,9.45,España,Rioja,Rioja
+1185,AT Roca,2019,2302992,Sileo 2019,3.9,152,9.45,España,Montsant,Catalunya Sul
+1186,Valserrano,2017,1843806,Rioja Crianza 2017,3.9,145,9.45,España,Rioja,Rioja
+1187,Gutiérrez de la Vega,2018,3591935,Ulises Tinto 2018,3.5,29,9.45,España,Alicante,other
+1188,Dehesa del Carrizal,2018,1552223,MV 2018,3.6,49,9.45,España,Dehesa del Carrizal,other
+1189,El Coto,2015,8622,Coto de Imaz Rioja Reserva 2015,3.8,10298,9.48,España,Rioja Alavesa,other
+1190,Alceño,2016,1401704,Organic Monastrell Jumilla 2016,3.7,146,9.48,España,Jumilla,other
+1191,Mas Blanch I Jove,2019,3326797,Petit Saó 2019,3.7,27,9.49,España,Costers del Segre,other
+1192,Lerma,2017,1528858,Crianza Tinto 2017,3.7,57,9.5,España,Arlanza,other
+1193,Viña Ijalba,2018,98246,Crianza 2018,4.0,199,9.5,España,Rioja,Rioja
+1194,Alta Pavina,2018,2737218,Pinot Noir - Tempranillo 2018,3.6,28,9.5,España,Castilla y León,other
+1195,Finca Los Aljibes,2017,1147901,Red 2017,3.5,36,9.5,España,Castilla,other
+1196,Proyecto Garnachas de España,2018,1448359,La Garnacha Olvidada de Aragón 2018,3.8,202,9.5,España,Aragón,other
+1197,Bodegas Piqueras,2014,1563327,Castillo de Almansa Selección 2014,3.8,41,9.5,España,Almansa,other
+1198,Soto y Manrique,2017,5568811,La Viña de Ayer Cebreros 2017,3.3,56,9.5,España,Castilla y León,other
+1199,Viña Pomal,2018,3674494,Vino Ecológico 2018,3.5,205,9.5,España,Rioja,Rioja
+1200,MontRubí,2020,1194068,Black 2020,3.9,104,9.5,España,Panadés,other
+1201,Pazos del Rey,2018,4086039,Pazo de Monterrey Mencìa 2018,3.8,42,9.5,España,Monterrei,other
+1202,Pla de Morei,2019,7684151,Filigrana Tinto 2019,3.6,26,9.5,España,Cataluña,Catalunya Sul
+1203,Molí dels Capellans,2018,2926962,Atrepat Trepat 2018,3.5,75,9.5,España,Conca de Barberà,other
+1204,Dominio de Cair,2018,1939184,Cair Cuvée 2018,3.8,759,9.5,España,Ribera del Duero,Ribera del Duero
+1205,Huerta de Albala,2018,1128204,Barbazul Tinto 2018,3.7,582,9.5,España,Cádiz,other
+1206,Viña Olabarri,2016,2142465,Bikandi Crianza 2016,3.3,951,9.5,España,Rioja,Rioja
+1207,Arnaiz,2018,1136608,Ribera del Duero Crianza 2018,3.5,69,9.5,España,Ribera del Duero,Ribera del Duero
+1208,Viña Sastre,2019,736586,Ribera del Duero Roble 2019,3.8,453,9.5,España,Ribera del Duero,Ribera del Duero
+1209,Alvar de Dios,2020,3528343,Tio Uco 2020,3.8,67,9.5,España,Toro,other
+1210,Gran Feudo,2012,1441674,Viñas Viejas Reserva 2012,3.6,144,9.5,España,Navarra,other
+1211,Arnegui,2013,1203193,Reserva Rioja 2013,3.9,351,9.5,España,Rioja,Rioja
+1212,Hacienda López de Haro,2015,1868658,Reserva 2015,3.8,2187,9.5,España,Rioja,Rioja
+1213,Bodegas Nexus,2019,1943815,One 2019,3.6,46,9.5,España,Ribera del Duero,Ribera del Duero
+1214,Pasión,2017,1183276,Bobal 2017,3.8,417,9.5,España,Utiel-Requena,other
+1215,Basagoiti,2017,76652,Rioja 2017,3.5,95,9.5,España,Rioja,Rioja
+1216,Laderas de Montejurra,2018,1188530,Emilio Valerio 2018,3.8,48,9.5,España,Navarra,other
+1217,Telmo Rodriguez,2016,63114,Valdeorras Mencia Gaba do Xil 2016,3.4,260,9.5,España,Valdeorras,other
+1218,Málaga Virgen,2018,1992508,Pernales Syrah 2018,3.7,66,9.5,España,Sierras de Málaga,other
+1219,Enrique Mendoza,2019,1542218,Pinot Noir Alicante 2019,3.5,49,9.5,España,Alicante,other
+1220,Vinos a Tresbolillo,2018,4162384,Trompo 2018,3.8,160,9.5,España,Ribera del Duero,Ribera del Duero
+1221,Finca de los Arandinos,2016,1186678,Crianza 2016,4.0,67,9.5,España,Rioja,Rioja
+1222,Mas de l'Abundància,2019,3032176,He Ma 2019,3.6,66,9.5,España,Montsant,Catalunya Sul
+1223,Dominio de Atauta,2018,5257243,La Celestina Crianza 2018,4.0,93,9.5,España,Ribera del Duero,Ribera del Duero
+1224,Bodega Elias Mora,2019,1163612,Toro 2019,4.0,44,9.5,España,Toro,other
+1225,Abadal,2018,8316702,Matís 2018,3.7,28,9.5,España,Pla de Bages,other
+1226,Casa Rojo,2019,4159301,Musso Merlot 2019,3.2,44,9.53,España,Castilla,other
+1227,Gómez Cruzado,2018,1459380,Vendimia Seleccionada 2018,3.7,222,9.54,España,Rioja,Rioja
+1228,La Vinyeta,2018,3073860,Llavors 2018,3.9,117,9.55,España,Empordà,other
+1229,Empordàlia,2018,3006718,Balmeta Empordà 2018,3.8,38,9.6,España,Empordà,other
+1230,Batlliu de Sort,2019,6328686,Salvavides Conca de Tremp 2019,3.7,52,9.6,España,Costers del Segre,other
+1231,Viña Pedrosa,2017,1139124,Cepa Gavilán Crianza Ribera del Duero 2017,3.9,694,9.61,España,Ribera del Duero,Ribera del Duero
+1232,Viña Pomal,2017,5516299,Selección 500 Crianza 2017,4.0,88,9.62,España,Rioja,Rioja
+1233,Baltasar Gracián,2019,4405660,El Héroe Garnacha Viñas Viejas 2019,3.9,102,9.64,España,Aragón,other
+1234,L'Olivera,2018,1726419,Naltres 2018,3.8,46,9.65,España,Costers del Segre,other
+1235,Bàrbara Forés,2018,1283559,Negre 2018,3.7,83,9.65,España,Terra Alta,Catalunya Sul
+1236,Borsao Bodegas,2017,1147887,Berola 2017,4.1,342,9.65,España,Campo de Borja,other
+1237,Yllera,2015,1136769,Vendimia Seleccionada 2015,3.8,154,9.65,España,Castilla y León,other
+1238,Campillo,2016,1207136,Crianza Rioja 2016,3.7,745,9.67,España,Rioja,Rioja
+1239,Bodegas del Muni,2015,1213318,Corpus del Muni Lucia Selección Tempranillo 2015,3.6,94,9.67,España,Castilla,other
+1240,Gutiérrez de la Vega,2016,3591935,Ulises Tinto 2016,3.6,90,9.7,España,Alicante,other
+1241,Castillo de Monjardin,2018,98918,Deyo Merlot de Autor 2018,3.7,28,9.7,España,Navarra,other
+1242,Can Ràfols dels Caus,2016,2133148,Terraprima Negre 2016,3.5,82,9.7,España,Panadés,other
+1243,Albet i Noya,2019,79853,Lignum Penedès 2019,3.8,79,9.7,España,Panadés,other
+1244,Raúl Pérez,2019,1725394,La Clave 2019,3.9,82,9.7,España,Bierzo,other
+1245,Viña Olabarri,2018,2142465,Bikandi Crianza 2018,3.5,38,9.7,España,Rioja,Rioja
+1246,Viña Pomal,2018,5516299,Selección 500 Crianza 2018,3.9,45,9.72,España,Rioja,Rioja
+1247,Castillo de Monjardin,2018,2830262,El Cerezo Pinot Noir (Old Vines) 2018,3.7,78,9.72,España,Navarra,other
+1248,7 Magnífics,2018,5151267,Rebels de Batea Tinto 2018,3.7,254,9.72,España,Terra Alta,Catalunya Sul
+1249,Bodegas Faustino,2014,1386795,V Reserva 2014,3.8,2494,9.74,España,Rioja,Rioja
+1250,Vinos a Tresbolillo,2015,4162384,Trompo 2015,3.6,118,9.75,España,Ribera del Duero,Ribera del Duero
+1251,Bodegas Cosme Palacio,2016,2328702,Glorioso Rioja Reserva 2016,3.8,313,9.75,España,Rioja,Rioja
+1252,El Vínculo,2017,7586997,Crianza 2017,4.0,399,9.75,España,La Mancha,other
+1253,Cepa 21,2020,1147670,Hito 2020,4.0,355,9.75,España,Ribera del Duero,Ribera del Duero
+1254,Luis Cañas,2018,86878,Crianza 2018,3.7,100,9.75,España,Rioja,Rioja
+1255,Acontia,2019,1725894,6 Meses 2019,4.0,54,9.75,España,Ribera del Duero,Ribera del Duero
+1256,Luis Alegre,2018,1200035,Rioja Crianza 2018,3.9,120,9.75,España,Rioja,Rioja
+1257,Viña Bujanda,2015,1587421,Rioja Reserva 2015,3.9,54,9.75,España,Rioja,Rioja
+1258,Bodegas Cosme Palacio,2017,2328702,Glorioso Rioja Reserva 2017,4.1,42,9.75,España,Rioja,Rioja
+1259,Bodegas Franco-Españolas,2015,1100350,Rioja Bordón Reserva 2015,3.9,366,9.75,España,Rioja,Rioja
+1260,Telmo Rodriguez,2020,1635436,Gazur 2020,3.6,64,9.75,España,Ribera del Duero,Ribera del Duero
+1261,Huguet de Can Feixes,2019,1224820,Negre Selecció 2019,3.7,27,9.75,España,Panadés,other
+1262,7 Magnífics,2019,5151267,Rebels de Batea Tinto 2019,3.5,39,9.75,España,Terra Alta,Catalunya Sul
+1263,El Coto,2018,8188993,875m Finca Carbonera Tinta di Altura Tempranillo 2018,3.6,148,9.75,España,Rioja,Rioja
+1264,Murviedro,2017,6673810,Sericis Cepas Viejas Bobal 2017,4.0,500,9.76,España,Utiel-Requena,other
+1265,Mustiguillo,2018,99554,Mestizaje Tinto 2018,3.8,486,9.78,España,El Terrerazo,other
+1266,Marqués de Griñon,2016,1153733,Caliza 2016,3.8,130,9.79,España,Dominio de Valdepusa,other
+1267,Pinord,2016,13068,Chateldon Reserva Cabernet Sauvignon 2016,3.9,168,9.79,España,Panadés,other
+1268,Dominio de Longaz,2010,4491688,Crianza 2010,3.4,42,9.8,España,Cariñena,Catalunya Sul
+1269,Proelio,2017,3270062,Crianza 2017,3.9,64,9.8,España,Rioja,Rioja
+1270,Màquina y Tabla,2019,7118318,El Oso y La Alemana Tinto 2019,4.0,82,9.8,España,Toro,other
+1271,Maquiavelo,2015,7830728,Crianza 2015,4.1,33,9.8,España,Jumilla,other
+1272,Parés Baltà,2019,1389015,Mas Elena 2019,3.7,31,9.8,España,Panadés,other
+1273,Espelt,2019,2402040,Sol i Vent 2019,3.6,137,9.8,España,Empordà,other
+1274,Casa De Si,2015,3797139,El Pablito Tinto 2015,3.9,96,9.8,España,Calatayud,other
+1275,Alfredo Maestro,2017,5445061,El Rey del Glam 2017,3.8,72,9.8,España,Castilla y León,other
+1276,La Legua,2016,9105684,Parcela La Escuadra Garnacha 2016,3.4,29,9.8,España,Cigales,other
+1277,8.0.1,N.V.,1393973,Edición Limitada N.V.,3.8,623,9.8,España,Cariñena,Catalunya Sul
+1278,Bruno Murciano,2019,7715732,Las Tintas 2019,3.6,48,9.8,España,Valencia,other
+1279,Orto Vins,2019,1208363,Orto Tinto 2019,3.7,27,9.8,España,Montsant,Catalunya Sul
+1280,Martí Fabra,2018,1177010,Selecció Vinyes Velles Empordà 2018,4.1,239,9.8,España,Empordà,other
+1281,Vinos del Paseante,2016,2327726,La Escucha Mencia 2016,3.4,97,9.83,España,Bierzo,other
+1282,El Coto,2017,8622,Coto de Imaz Rioja Reserva 2017,3.8,2384,9.84,España,Rioja Alavesa,other
+1283,Castillo de Monjardin,2015,98918,Deyo Merlot de Autor 2015,3.7,120,9.85,España,Navarra,other
+1284,Celler del Roure,2017,98589,Les Alcusses 2017,3.8,137,9.85,España,Valencia,other
+1285,Quinta Sardonia,2018,4418279,Sardón 2018,3.8,269,9.85,España,Castilla y León,other
+1286,Chivite,2015,1420390,Le Gardeta Finca de Villatuerta Selección Especial 2015,3.6,202,9.85,España,Navarra,other
+1287,Bodega de Bardos,2019,1165618,Romántica Crianza 2019,4.0,133,9.85,España,Ribera del Duero,Ribera del Duero
+1288,Pittacum,2018,1631613,Mencía 2018,3.8,479,9.85,España,Bierzo,other
+1289,Divina Proporción,2018,1589025,Madremía 2018,3.8,708,9.88,España,Toro,other
+1290,Martí Serdà,2017,4405980,El Cabronet 2017,3.5,76,9.89,España,Panadés,other
+1291,Winery Arts,2009,1178164,Numbernine (Numero Nueve) 2009,3.7,261,9.89,España,Ribera del Queiles,other
+1292,Diez Caballero,2012,1316128,Reserva Tempranillo 2012,4.1,112,9.9,España,Rioja,Rioja
+1293,Bodegas Frontaura,2018,1185801,Dominio de Valdelacasa Cosecha 2018,3.8,38,9.9,España,Toro,other
+1294,Paco & Lola,2019,6215366,Mencia 2019,3.6,53,9.9,España,Rías Baixas,other
+1295,Fuentespina,2018,3547558,Crianza 2018,3.7,86,9.9,España,Ribera del Duero,Ribera del Duero
+1296,Bodega Sommos,2016,4467464,Reserva 2016,3.9,271,9.9,España,Somontano,other
+1297,Sui Generis,2018,1482508,Tinto 2018,3.8,70,9.9,España,Montsant,Catalunya Sul
+1298,Marqués de la Concordia,2015,1158960,Rioja Reserva 2015,3.8,1210,9.9,España,Rioja,Rioja
+1299,La Locomotora,2015,1423003,Rioja Crianza 2015,3.8,181,9.9,España,Rioja,Rioja
+1300,Alvear,2018,1915135,Palacio Quemado La Zarcita 2018,3.8,177,9.9,España,Extremadura,other
+1301,Arnegui,2016,1203193,Reserva Rioja 2016,3.9,230,9.9,España,Rioja,Rioja
+1302,Ondarre,2017,2538963,Señorío de Ondarre Rioja Reserva 2017,3.8,64,9.9,España,Rioja,Rioja
+1303,Bodegas Ponce,2019,5582888,La Xara Garnacha 2019,3.5,97,9.9,España,Manchuela,other
+1304,Vinos Valtuille,2019,8630975,La Tellería 2019,3.7,49,9.9,España,Bierzo,other
+1305,Quinta de la Quietud,2018,1181010,Corral de Campanas 2018,4.0,168,9.9,España,Toro,other
+1306,Bodega Pirineos,2015,1110222,Señorío De Lazán Reserva 2015,3.8,87,9.9,España,Somontano,other
+1307,Arrayán,2013,1218674,Selección 2013,3.8,98,9.9,España,Méntrida,other
+1308,Bodega Tandem,2014,1166966,Ars Nova 2014,4.0,205,9.9,España,Navarra,other
+1309,Bodegas Olarra,2017,76305,Cerro Añon Reserva Rioja 2017,4.1,136,9.9,España,Rioja,Rioja
+1310,Cid Bermúdez,2019,2274930,Altrejo Roble 2019,3.2,26,9.9,España,Ribera del Duero,Ribera del Duero
+1311,Casa de la Ermita,2017,2675664,Lunático Monastrell 2017,3.9,200,9.9,España,Jumilla,other
+1312,Luzon,2019,6124025,Colección Garnacha Tintorera 8 Meses 2019,3.8,86,9.9,España,Jumilla,other
+1313,R. Raventós,2017,3984450,Costers del Segre 2017,3.7,115,9.9,España,Costers del Segre,other
+1314,De Moya,2017,5220637,Gloria 2017,3.9,427,9.9,España,Valencia,other
+1315,Yaso,2014,1181260,Toro 2014,3.7,392,9.9,España,Toro,other
+1316,Loriñón,2015,96000,Crianza 2015,3.7,71,9.9,España,Rioja,Rioja
+1317,Busca Raons,2014,6867789,El Gran Tinto 2014,3.8,33,9.9,España,Costers del Segre,other
+1318,Borsao Bodegas,2018,4399827,Zarihs Syrah 2018,4.0,36,9.9,España,Campo de Borja,other
+1319,Cara Nord,2019,1899802,Negre 2019,3.7,57,9.9,España,Conca de Barberà,other
+1320,Losada,2019,2600424,Bierzo Red 2019,4.1,88,9.9,España,Bierzo,other
+1321,Viña Pedrosa,2018,1139124,Cepa Gavilán Crianza Ribera del Duero 2018,3.9,514,9.9,España,Ribera del Duero,Ribera del Duero
+1322,Viña Pedrosa,2019,1139124,Cepa Gavilán Crianza Ribera del Duero 2019,3.7,31,9.9,España,Ribera del Duero,Ribera del Duero
+1323,Juan Gil,2019,5282020,Jumilla Silver Label 2019,4.0,2834,9.9,España,Jumilla,other
+1324,La Cepa Alta,2020,6543583,Cinco Elementos 2020,4.0,67,9.9,España,Ribera del Duero,Ribera del Duero
+1325,Ontañón,2017,5778028,Antología Crianza 2017,3.9,134,9.9,España,Rioja,Rioja
+1326,Alta Pavina,2020,5921325,Pinot Noir 2020,3.5,59,9.9,España,Castilla y León,other
+1327,Virgen de la Asuncion,2019,7141506,Cuando El Río Suena 2019,3.4,79,9.9,España,Ribera del Duero,Ribera del Duero
+1328,Valmiñor,2017,7777821,Abade de Couto El Rebelde Tinto 2017,3.7,55,9.9,España,Rías Baixas,other
+1329,Bodegas Ponce,2020,5582888,La Xara Garnacha 2020,3.6,35,9.9,España,Manchuela,other
+1330,Lar de Paula,2014,1314404,Tempranillo Reserva 2014,3.8,76,9.9,España,Rioja,Rioja
+1331,Pascona,2019,3387131,Maria Ganxa 2019,3.6,86,9.9,España,Montsant,Catalunya Sul
+1332,Bodegas Quinta de Aves,2019,6858383,Coupage 2019,4.0,95,9.9,España,La Mancha,other
+1333,Las Calzadas,2019,8281281,Tinácula 2019,3.8,29,9.9,España,Ribera del Júcar,other
+1334,Cepa 21,2019,1147670,Hito 2019,3.8,1092,9.9,España,Ribera del Duero,Ribera del Duero
+1335,Guimaro,2020,2383519,Ribeira Sacra Mencia 2020,3.6,281,9.91,España,Ribeira Sacra,other
+1336,Costers del Priorat,2019,5032753,Petit Pissarres 2019,3.9,314,9.93,España,Priorato,Catalunya Sul
+1337,Viña Mayor,2012,1253857,Vendimia Seleccionada 2012,3.4,74,9.94,España,Toro,other
+1338,El Precipicio,2013,4503146,Mencia - Garnacha 2013,3.7,34,9.94,España,Valdeorras,other
+1339,Susana (Sempre),2019,1408840,Roble 2019,3.8,34,9.94,España,Mallorca,other
+1340,Luzon,2017,6007664,Colección Crianza 2017,3.8,110,9.95,España,Jumilla,other
+1341,Portia,2018,1225187,Crianza 2018,3.8,46,9.95,España,Ribera del Duero,Ribera del Duero
+1342,Monte Real,2014,1424455,Gran Reserva 2014,3.9,446,9.95,España,Rioja,Rioja
+1343,Merayo,2018,1597054,Las Tres Filas Mencia Bierzo 2018,3.8,70,9.95,España,Bierzo,other
+1344,Clea,2018,1906632,Crianza 2018,3.8,171,9.95,España,Ribera del Duero,Ribera del Duero
+1345,Portia,2017,1225187,Crianza 2017,3.8,110,9.95,España,Ribera del Duero,Ribera del Duero
+1346,Luis Alegre,2016,1200035,Rioja Crianza 2016,3.8,356,9.95,España,Rioja,Rioja
+1347,Cal Pla,2018,1164643,Priorat 2018,3.9,275,9.95,España,Priorato,Catalunya Sul
+1348,Yaso,2018,1181260,Toro 2018,3.6,90,9.95,España,Toro,other
+1349,Clos Mont-Blanc,2017,4062468,Únic Syrah 2017,3.8,74,9.95,España,Conca de Barberà,other
+1351,La Quinta,2019,5731628,Mamba 2019,4.0,115,9.95,España,Ribera del Duero,Ribera del Duero
+1353,Terrer de Pallars,2018,5453887,Carràmia 2018,3.6,36,9.95,España,Costers del Segre,other
+1354,Canals Canals,2016,5376514,Siana 2016,3.6,123,9.95,España,Montsant,Catalunya Sul
+1355,Bodegas Monte La Reina,2016,1473123,Castillo de Monte la Reina Crianza 2016,4.0,176,9.95,España,Toro,other
+1356,Roig Parals,2018,1458104,La Botera 2018,3.7,67,9.95,España,Empordà,other
+1357,Bodegueros Quinta Esencia,2019,4746956,Silbon 2019,3.8,60,9.95,España,Toro,other
+1358,Bodegas Langa,2019,3794658,Classic 2019,3.7,39,9.95,España,Calatayud,other
+1359,Licinia,2018,6005655,Muss Tinto 2018,3.6,37,9.95,España,Madrid,other
+1360,Viñedos y Bodegas Pablo,2015,1317640,Menguante Vidadillo 2015,3.9,55,9.95,España,Cariñena,Catalunya Sul
+1361,Guimaro,2019,2383519,Ribeira Sacra Mencia 2019,3.7,482,9.95,España,Ribeira Sacra,other
+1362,Cara Nord,2019,1937243,Mineral del Montsant 2019,3.9,143,9.95,España,Montsant,Catalunya Sul
+1363,Casar de Burbia,2017,1126577,Casar Mencía 2017,3.8,209,9.95,España,Bierzo,other
+1364,Bodegas Lagunilla,2015,1129459,Reserva 2015,3.7,1197,9.95,España,Rioja,Rioja
+1365,El Ilusionista,2018,3180715,Crianza 2018,3.9,87,9.95,España,Ribera del Duero,Ribera del Duero
+1366,Clos Berenguer,2019,1957794,Min Red 2019,3.8,32,9.95,España,Priorato,Catalunya Sul
+1367,Torrederos,2017,2571373,III Crianza 2017,3.7,49,9.95,España,Ribera del Duero,Ribera del Duero
+1368,Bodegas Valparaíso,2015,1187536,Crianza 2015,3.7,194,9.95,España,Ribera del Duero,Ribera del Duero
+1369,Borsao Bodegas,2016,7796041,Cabriola 2016,3.9,764,9.95,España,Aragón,other
+1370,Alodia,2016,1730421,Parraleta 2016,3.8,26,9.95,España,Somontano,other
+1371,Cérvoles,2019,1127025,Colors Tinto 2019,3.8,42,9.95,España,Costers del Segre,other
+1372,Terra d'Uro,2017,1234768,Finca La Rana 2017,4.0,290,9.95,España,Toro,other
+1373,Fabregas,2017,6343177,Familia Garnacha Tinta 2017,3.6,81,9.95,España,Somontano,other
+1374,Bodegas Frontonio,2020,4523406,Microcósmico Garnacha 2020,3.8,26,9.95,España,Valdejalón,other
+1375,Jané Ventura,2017,1992036,Negre Selecció 2017,3.9,45,9.95,España,Panadés,other
+1376,Vinícola del Priorat,2018,1492821,L'Obaga 2018,3.4,150,9.95,España,Priorato,Catalunya Sul
+1377,DiT Celler,2019,2020297,Selenita 2019,3.8,36,9.95,España,Montsant,Catalunya Sul
+1378,Proyecto Garnachas de España,2017,1448359,La Garnacha Olvidada de Aragón 2017,3.8,460,9.95,España,Aragón,other
+1379,Borsao Bodegas,2017,1289492,Crianza (Selección Crianza) 2017,4.1,199,9.95,España,Campo de Borja,other
+1380,Familia Torres,2018,2651,Atrium Merlot 2018,3.7,757,9.95,España,Panadés,other
+1381,Pago Calzadilla,2016,1211100,Opta 2016,3.9,208,9.95,España,Pago Calzadilla,other
+1382,Bodegas Ponce,2018,5582888,La Xara Garnacha 2018,3.5,181,9.95,España,Manchuela,other
+1383,Enrique Mendoza,2017,1542218,Pinot Noir Alicante 2017,3.7,306,9.98,España,Alicante,other
+1384,Casa Rojo,2020,9531463,CL98 Tinto 2020,3.7,232,9.98,España,Ribera del Duero,Ribera del Duero
+1385,Finca Villacreces,2019,1141810,Pruno Ribera del Duero 2019,3.7,1632,9.98,España,Ribera del Duero,Ribera del Duero
+1386,Bodegas Riko,2019,8915578,Renaix de Girò 2019,3.9,40,9.98,España,Alicante,other
+1387,Alceño,2016,1900871,TW 12 (Twelve) Monastrell 2016,3.8,433,9.98,España,Jumilla,other
+1388,Alceño,2016,1490673,Premium 50 Barricas Syrah 2016,3.8,1037,9.98,España,Jumilla,other
+1389,Pago de Tharsys,2018,7273075,Carlota Suria Organic Bobal 2018,3.5,74,9.99,España,Valencia,other
+1390,El Vínculo,2018,7586997,Crianza 2018,4.1,31,9.99,España,La Mancha,other
+1391,Viñedos Hermanos Hernáiz,2017,8054552,Finca La Emperatriz El jardín de La Emperatriz Tinto 2017,3.7,422,9.99,España,Rioja Alta,other
+1392,Legón,2018,1218601,Ribera del Duero Crianza 2018,4.1,269,9.99,España,Ribera del Duero,Ribera del Duero
+1393,Montecillo,2014,1100225,Reserva 2014,3.7,127,9.99,España,Rioja,Rioja
+1394,Atlan & Artisan,2018,7426719,Epistem Monastrell 2018,3.7,88,9.99,España,Vino de España,other
+1395,Altanza,2015,22141,Rioja Reserva 2015,3.9,346,9.99,España,Rioja,Rioja
+1396,Bela,2018,6691245,Roble 2018,3.5,88,10.0,España,Ribera del Duero,Ribera del Duero
+1397,Raul Calvo Beltran,2015,1823331,Potencial Crianza 2015,3.9,80,10.0,España,Ribera del Duero,Ribera del Duero
+1398,Campillo,2017,1207136,Crianza Rioja 2017,3.7,453,10.0,España,Rioja,Rioja
+1399,Raimat,2017,7024736,El Silenci del Molí 2017,3.9,90,10.0,España,Costers del Segre,other
+1400,Artadi,2018,3185423,Tempranillo Vineyard Selection 2018,3.7,38,10.02,España,Vino de España,other
+1401,Bodegas Valdemar,2017,15499,Inspiración Sélección 2017,3.7,45,10.04,España,Rioja,Rioja
+1402,Valserrano,2015,1843806,Rioja Crianza 2015,3.9,1147,10.05,España,Rioja,Rioja
+1403,Bodegas San Román,2018,1101472,Prima Tinto 2018,3.8,653,10.05,España,Toro,other
+1404,Quinta Sardonia,2016,4418279,Sardón 2016,3.7,713,10.06,España,Castilla y León,other
+1405,Casa Rojo,2020,6349693,Enemigo Mío Garnacha 2020,3.7,146,10.09,España,Vino de España,other
+1406,Comunica,2017,4195469,Fristyle 2017,3.5,34,10.1,España,Montsant,Catalunya Sul
+1407,Señorío de Nava,2013,1138906,Crianza Ribera del Duero 2013,3.7,248,10.1,España,Ribera del Duero,Ribera del Duero
+1408,Rendé Masdéu,2016,2304819,Arnau Syrah 2016,3.6,30,10.1,España,Conca de Barberà,other
+1409,Lafou,2019,2040817,El Sender 2019,3.9,43,10.14,España,Terra Alta,Catalunya Sul
+1410,Botani,2019,1555227,Garnacha 2019,3.1,36,10.15,España,Sierras de Málaga,other
+1411,Viña Sastre,2020,736586,Ribera del Duero Roble 2020,3.6,130,10.15,España,Ribera del Duero,Ribera del Duero
+1412,Bodegas Lezcano-Lacalle,2018,1524568,Maudes 2018,4.0,59,10.15,España,Cigales,other
+1413,Bàrbara Forés,2019,1283559,Negre 2019,3.8,111,10.2,España,Terra Alta,Catalunya Sul
+1414,Celler Masroig,2019,2180513,Les Sorts Sycar 2019,3.8,316,10.2,España,Montsant,Catalunya Sul
+1415,Hornillos Ballesteros,2015,1171146,Mibal 2015,3.9,27,10.2,España,Ribera del Duero,Ribera del Duero
+1416,Mas Oller,2018,1177915,Pur 2018,3.8,175,10.21,España,Cataluña,Catalunya Sul
+1417,Lafou,2018,2040817,El Sender 2018,4.1,398,10.22,España,Terra Alta,Catalunya Sul
+1418,El Escocés Volante,2020,1240835,Manga del Brujo 2020,4.1,26,10.25,España,Calatayud,other
+1419,Bodegas Gratias,2019,4953257,Got Bobal 2019,3.6,34,10.25,España,Manchuela,other
+1420,Coral Duero,2018,8377646,Los Lastros 2018,4.0,31,10.25,España,Toro,other
+1421,Castaño,2016,85761,Castaño Colección Cepas Viejas 2016,3.5,226,10.25,España,Yecla,other
+1422,Bodegas Franco-Españolas,2016,2459325,RB Rioja Bordón Selección Histórica 2016,3.4,56,10.25,España,Rioja,Rioja
+1423,Bodegas Franco-Españolas,2014,1100350,Rioja Bordón Reserva 2014,3.8,673,10.25,España,Rioja,Rioja
+1424,Finca Nueva,2015,1210509,Crianza 2015,3.7,458,10.25,España,Rioja,Rioja
+1425,Hacienda López de Haro,2018,1537689,El Pacto 2018,4.0,245,10.25,España,Rioja,Rioja
+1426,Clos Pons,2015,1202814,Alges Red 2015,3.9,59,10.25,España,Costers del Segre,other
+1427,Perlat,2018,6796224,Tinto 2018,3.8,58,10.25,España,Montsant,Catalunya Sul
+1428,Enrique Mendoza,2017,7573091,Finca Xaconero Monastrell 2017,4.0,604,10.25,España,Alicante,other
+1429,Valdelosfrailes,2017,7619617,Crianza 2017,3.7,71,10.25,España,Cigales,other
+1430,Dominio de Atauta,2017,2300616,Torre de Golban Crianza 2017,3.9,349,10.25,España,Castilla y León,other
+1431,Mas d'en Blei,2018,6192493,Petit Blei Garnatxa 2018,3.3,27,10.25,España,Priorato,Catalunya Sul
+1432,Valmiñor,2019,8503261,Minius Mencia 2019,3.7,28,10.3,España,Rías Baixas,other
+1433,Celler Cedo Anguera,2017,98929,Clònic 2017,4.0,81,10.3,España,Montsant,Catalunya Sul
+1434,Coca i Fitó,2016,1496156,Tocat de l'Ala Negre 2016,3.8,664,10.3,España,Empordà,other
+1435,Falset Marçà,2014,1419166,Castell de Falset 2014,3.8,31,10.3,España,Montsant,Catalunya Sul
+1436,Castaño,2014,3297938,Santa 2014,3.6,328,10.32,España,Yecla,other
+1437,Luis Cañas,2017,86878,Crianza 2017,3.9,2109,10.33,España,Rioja,Rioja
+1438,Liberalia,2014,94294,Cuatro 2014,3.8,74,10.35,España,Toro,other
+1439,Alfredo Maestro,2017,6301823,Valdecastrillo Tinto 2017,3.9,46,10.35,España,Castilla y León,other
+1440,Mesquida Mora,2019,2535393,Sincronia Negre 2019,3.7,35,10.35,España,Mallorca,other
+1441,Volver,2019,1603076,Tarima Hill Old Vines Monastrell 2019,4.1,40,10.35,España,Alicante,other
+1442,Mustiguillo,2018,4483737,Mestizaje Bobal 2018,3.9,346,10.35,España,Valencia,other
+1443,Olivier Rivière,2020,1218832,Rioja Rayos Uva 2020,3.9,170,10.39,España,Rioja,Rioja
+1444,Les Cousins Marc & Adrià,2019,1203045,L'Inconscient 2019,3.8,838,10.4,España,Priorato,Catalunya Sul
+1445,Vega Real,2016,5924941,El Empecinado 2016,3.9,630,10.4,España,Ribera del Duero,Ribera del Duero
+1446,Casar de Burbia,2016,1126577,Casar Mencía 2016,3.9,378,10.4,España,Bierzo,other
+1447,Mas Oller,2019,1177915,Pur 2019,3.8,82,10.41,España,Cataluña,Catalunya Sul
+1448,Bodegas San Román,2017,1101472,Prima Tinto 2017,3.9,1551,10.43,España,Toro,other
+1449,Obalo,2017,8356701,La Encina Crianza 2017,3.8,199,10.45,España,Rioja,Rioja
+1450,Castro Candaz,2019,5235131,Mencia 2019,3.7,164,10.45,España,Ribeira Sacra,other
+1451,Quinta Sardonia,2017,4418279,Sardón 2017,3.8,780,10.45,España,Castilla y León,other
+1452,Raúl Pérez,2019,1808511,Ultreia Saint Jacques Mencía 2019,3.9,336,10.45,España,Bierzo,other
+1453,Ramón Bilbao,2019,77021,Crianza Rioja 2019,4.0,120,10.45,España,Rioja,Rioja
+1454,Telmo Rodriguez,2017,1210854,Corriente 2017,3.8,349,10.45,España,Rioja,Rioja
+1455,Bodega Otazu,2015,1821556,Otazu Premium Cuvée 2015,3.8,425,10.45,España,Navarra,other
+1456,Celler Xavier Clua,2016,1177102,Mas d'en Pol Barrica 2016,3.7,28,10.45,España,Terra Alta,Catalunya Sul
+1457,Masia Serra,2017,1486461,IO 2017,3.8,55,10.47,España,Empordà,other
+1458,Estefanía,2016,4310932,Tilenus La Florida Bierzo 2016,3.9,171,10.47,España,Bierzo,other
+1459,Bruno Murciano,2019,7562300,Cambio de Tercio Bobal 2019,3.8,265,10.49,España,Utiel-Requena,other
+1460,Clos Cor Ví,2019,8641841,Maloco Bobal 2019,3.9,34,10.5,España,Valencia,other
+1461,De Moya,2016,2905850,María 2016,4.0,727,10.5,España,Valencia,other
+1462,Bruno Murciano,2020,7562300,Cambio de Tercio Bobal 2020,3.7,66,10.5,España,Utiel-Requena,other
+1463,De Moya,2019,2905850,María 2019,3.9,28,10.5,España,Valencia,other
+1464,Bodegas Tierra,2018,1767559,Crianza 2018,3.8,63,10.5,España,Rioja,Rioja
+1465,Viñas del Cénit,2016,1901138,Venta Mazarrón Tempranillo 2016,3.7,361,10.5,España,Tierra del Vino de Zamora,other
+1466,Coma d'En Bonet,2018,5731154,Prohom Experientia Negre 2018,3.9,141,10.5,España,Terra Alta,Catalunya Sul
+1467,Olivares,2019,1660562,Altos de la Hoya Monastrell 2019,3.9,178,10.5,España,Jumilla,other
+1468,Pascona,2020,3387131,Maria Ganxa 2020,3.5,53,10.5,España,Montsant,Catalunya Sul
+1469,El Miracle,2018,5563599,Art 2018,3.8,54,10.5,España,Alicante,other
+1470,Gran Feudo,2014,1603756,Reserva 2014,3.6,870,10.5,España,Navarra,other
+1471,Bodega Ca'n Verdura,2020,5793065,Binissalem-Mallorca Tomeu Llabres 2020,3.9,161,10.5,España,Binissalem-Mallorca,other
+1472,Hacienda Zorita Natural Reserve,2018,1163897,Abascal Vineyard Crianza 2018,3.6,41,10.5,España,Ribera del Duero,Ribera del Duero
+1473,Consejo de la Alta,2015,1507078,Alta Río Crianza 2015,3.5,81,10.5,España,Rioja,Rioja
+1474,De Moya,2017,2905850,María 2017,4.0,412,10.5,España,Valencia,other
+1475,La Poda,2019,5843258,Tempranillo 2019,3.8,76,10.5,España,Ribera del Duero,Ribera del Duero
+1476,El Vínculo,2013,1206528,Tinto 2013,3.8,1236,10.5,España,La Mancha,other
+1477,Ca N'Estruc,2017,59624,Idoia Negre 2017,3.9,77,10.5,España,Cataluña,Catalunya Sul
+1478,Altavins,2020,2054820,al Almodì Negre 2020,4.1,27,10.5,España,Terra Alta,Catalunya Sul
+1479,Viña Olabarri,2015,1188472,Reserva 2015,3.7,158,10.5,España,Rioja,Rioja
+1480,Lecco,2016,1927229,Crianza Ribera del Duero 2016,3.7,101,10.5,España,Ribera del Duero,Ribera del Duero
+1481,Más Que Vinos,2018,7954476,Los Conejos Malditos Tempranillo Carbónico 2018,3.8,674,10.5,España,Vino de España,other
+1482,Melonera,2019,1952862,La Encina del Inglés Ronda 2019,3.3,35,10.5,España,Andalucía,other
+1483,Sumarroca,2016,1164915,Terral 2016,3.5,256,10.5,España,Panadés,other
+1484,Parés Baltà,2019,1124671,Indigena Garnatxa Tinto 2019,3.6,49,10.5,España,Panadés,other
+1485,Burgo Viejo,2016,1180830,Rioja Reserva 2016,4.0,113,10.5,España,Rioja,Rioja
+1486,Fernández de Piérola,2016,1167430,Crianza 2016,3.9,802,10.5,España,Rioja,Rioja
+1487,Bodegas Frontonio,2018,4523406,Microcósmico Garnacha 2018,3.7,346,10.5,España,Valdejalón,other
+1488,Castillo Perelada,2017,99328,5 Finques (Fincas) Reserva 2017,4.2,648,10.5,España,Empordà,other
+1489,Alma Das Donas Adega,2019,6514221,Almanova 2019,4.0,104,10.5,España,Ribeira Sacra,other
+1490,Menade,2016,5493075,Clandestino de Menade Tinto Natural 2016,3.6,79,10.5,España,Castilla y León,other
+1491,Marc Isart,2018,4610555,'La Maldicion' Gleba de Arcilla 2018,3.6,56,10.5,España,Madrid,other
+1492,Pago de Cirsus,2017,2455412,Cuvée Especial Red Blend 2017,3.9,102,10.5,España,Navarra,other
+1493,Matarredonda,2017,1243049,Valdefama 2017,3.5,29,10.5,España,Toro,other
+1494,Hiriart,2014,1421488,Crianza 2014,3.5,50,10.5,España,Cigales,other
+1495,Arrayán,2018,1218674,Selección 2018,3.8,29,10.5,España,Méntrida,other
+1496,Pago Aylés,2015,2278842,é de Aylés 2015,4.0,215,10.5,España,Aragón,other
+1497,Finca Río Negro,2018,3096528,992 2018,3.6,178,10.5,España,Castilla,other
+1498,Hacienda López de Haro,2019,1537689,El Pacto 2019,3.9,91,10.5,España,Rioja,Rioja
+1499,Viladellops,2018,1632555,Tinto 2018,3.8,34,10.56,España,Panadés,other
+1500,Proyecto Garnachas de España,2013,1448359,La Garnacha Olvidada de Aragón 2013,3.7,434,10.58,España,Aragón,other
+1501,Macià Batle,2019,1648378,Añada 2019,3.9,177,10.59,España,Binissalem-Mallorca,other
+1502,Baron de Ley,2017,1573980,Varietales Graciano Rioja 2017,3.9,287,10.6,España,Rioja,Rioja
+1503,Peñafiel,2019,6386588,Miros de Ribera Roble Tinto 2019,3.8,33,10.6,España,Ribera del Duero,Ribera del Duero
+1504,Oriol Rossell,2018,1844179,Rocaplana Syrah 2018,3.5,113,10.6,España,Panadés,other
+1505,Beronia,2018,2177380,Rioja Tempranillo Ecológico 2018,3.5,961,10.6,España,Rioja,Rioja
+1506,Sota els Àngels,2018,2385114,Flow Tinto 2018,3.7,36,10.6,España,Empordà,other
+1507,Tianna Negre,2019,1555154,Ses Nines Negre 2019,3.7,86,10.6,España,Binissalem-Mallorca,other
+1508,Beronia,2016,4467113,Rioja Edición Limitada 2016,4.0,119,10.6,España,Rioja,Rioja
+1509,Celler Gerisena,2020,4600786,Negre de Gerisena 2020,3.7,26,10.61,España,Empordà,other
+1510,Avancia,2017,1798788,Cuvée de O Mencia 2017,3.8,178,10.62,España,Valdeorras,other
+1511,Eudald Massana Noya,2017,1239958,La Creueta Tinto 2017,3.8,25,10.62,España,Panadés,other
+1512,Marques de Burgos,2018,1404492,Crianza Vendimia Seleccionada 2018,4.0,29,10.65,España,Ribera del Duero,Ribera del Duero
+1513,Fento,2019,5408922,Tinto 2019,3.6,28,10.65,España,Rías Baixas,other
+1514,Eccocivi,2020,9446661,Montrodó Negre 2020,3.4,61,10.65,España,Cataluña,Catalunya Sul
+1515,Cune (CVNE),2017,49644,Reserva 2017,3.8,606,10.65,España,Rioja,Rioja
+1516,Coca i Fitó,2018,1496156,Tocat de l'Ala Negre 2018,3.9,151,10.65,España,Empordà,other
+1517,Figuero,2019,1155267,Ribera Del Duero 4 Meses en Barrica (Roble) 2019,3.8,393,10.65,España,Ribera del Duero,Ribera del Duero
+1518,Bracamonte,2015,1149912,Crianza 2015,4.0,46,10.7,España,Ribera del Duero,Ribera del Duero
+1519,Tridente,2018,2055561,Tempranillo 2018,4.0,32,10.7,España,Castilla y León,other
+1520,Valdubon,2017,1189970,Ribera del Duero Crianza 2017,3.7,235,10.7,España,Ribera del Duero,Ribera del Duero
+1521,Muga,2018,7618601,El Andén de la Estación 2018,3.9,397,10.7,España,Rioja,Rioja
+1522,Casa Castillo,2019,5961896,Vino de Finca 2019,3.7,64,10.72,España,Jumilla,other
+1523,Rafael Cambra,2017,1799957,Dos 2017,3.5,40,10.74,España,Valencia,other
+1524,Patojo,2019,4586101,Ecológico Patrimonio Monastrell 2019,4.1,27,10.74,España,Alicante,other
+1525,Liberalia,2020,94286,Cero 2020,4.3,40,10.75,España,Toro,other
+1526,Proyecto Garnachas de España,2018,1486336,La Garnatxa Fosca del Priorat 2018,3.9,1279,10.75,España,Priorato,Catalunya Sul
+1527,Cellers Underground,2017,5420642,Pura Vida Negre 2017,3.9,38,10.75,España,Costers del Segre,other
+1528,Estefanía,2016,1546637,Tilenus Envejecido en Roble Bierzo Mencia 2016,3.8,34,10.75,España,Bierzo,other
+1529,Abadia da Cova,2019,2317592,Mencia 2019,3.8,221,10.75,España,Ribeira Sacra,other
+1530,Lan,2018,1428605,D-12 Rioja 2018,4.1,173,10.75,España,Rioja,Rioja
+1531,Espelt,2019,5284945,Lledoner del Nord 2019,3.3,66,10.8,España,Empordà,other
+1532,Martin Berdugo,2018,1150140,Crianza 2018,4.0,186,10.8,España,Ribera del Duero,Ribera del Duero
+1533,Espelt,2018,5284945,Lledoner del Nord 2018,3.3,147,10.8,España,Empordà,other
+1534,Bodegas Ateca,2019,1183710,Atteca Garnacha (Old Vines) 2019,3.9,65,10.8,España,Calatayud,other
+1535,Segura Viudas,2015,1231102,Mas d'Aranyó Reserva 2015,3.7,114,10.85,España,Cataluña,Catalunya Sul
+1536,Alcorta,2015,6776776,Apasionado Reserva 2015,3.6,62,10.85,España,Rioja,Rioja
+1537,Finca Antigua,2014,13944,Reserva 2014,3.6,53,10.85,España,La Mancha,other
+1538,Bodegas Luis Perez,2018,5674255,El Triángulo 2018,3.7,198,10.85,España,Cádiz,other
+1539,Bodegas Valdemar,2012,15488,Conde de Valdemar Reserva 2012,4.0,1254,10.85,España,Rioja,Rioja
+1540,Lavia,2017,1668586,Monastrell - Syrah 2017,3.9,111,10.85,España,Bullas,other
+1541,Borsao Bodegas,2016,1147887,Berola 2016,4.0,926,10.85,España,Campo de Borja,other
+1542,Celler Cal Bessó,2017,5120348,Lo Cirerer 2017,3.9,92,10.85,España,Montsant,Catalunya Sul
+1543,Cal Grau,2017,3387575,La Petite Agnès 2017,3.7,153,10.85,España,Priorato,Catalunya Sul
+1544,Campillo,2018,1207136,Crianza Rioja 2018,3.9,475,10.85,España,Rioja,Rioja
+1545,Sierra Cantabria,2017,1588509,Garnacha 2017,4.1,70,10.85,España,Rioja,Rioja
+1546,Ramón Bilbao,2018,1612897,Edición Limitada 2018,3.9,120,10.89,España,Rioja,Rioja
+1547,Viña Albina,2012,1399070,Gran Reserva 2012,3.9,156,10.89,España,Rioja,Rioja
+1548,Buil & Giné,2017,85518,17-XI 2017,3.8,104,10.9,España,Montsant,Catalunya Sul
+1549,Viñas del Vero,2017,23483,Colección Pago Los Canteras Syrah Somontano 2017,3.7,52,10.9,España,Somontano,other
+1550,Viñas del Vero,2016,23482,Cabernet Sauvignon Somontano 2016,3.5,163,10.9,España,Somontano,other
+1551,Acustic Celler,2014,80370,Montsant Acústic 2014,3.8,797,10.9,España,Montsant,Catalunya Sul
+1552,Bodegas Bhilar,2019,1949131,Bhilar Plots Rioja Red 2019,3.7,126,10.9,España,Rioja,Rioja
+1553,Rosario Vera,2018,6907091,Tinto 2018,3.9,274,10.9,España,Rioja,Rioja
+1554,Finca Bacara,2017,7087068,Time Waits For No One (Black Label) 2017,3.5,64,10.9,España,Jumilla,other
+1555,Celler Piñol,2014,1206763,Portal Roble (Nuestra Señora) 2014,3.6,108,10.9,España,Tarragona,Catalunya Sul
+1556,Marco Real,2014,1192087,Reserva de Familia 2014,4.0,87,10.9,España,Navarra,other
+1557,Los Aguilares,2020,1722822,Tinto 2020,3.7,115,10.9,España,Andalucía,other
+1558,VI Cool Be Cool,2018,8427528,El Timó 2018,3.5,27,10.9,España,Empordà,other
+1559,Lan,2017,6438949,Xtréme Ecológico Crianza 2017,3.9,115,10.9,España,Rioja,Rioja
+1560,Collbaix Celler El Molí,2019,8501964,Oest 2019,3.7,48,10.9,España,Pla de Bages,other
+1561,Enrique Mendoza,2017,1213653,Merlot - Monastrell 2017,3.7,204,10.9,España,Alicante,other
+1562,Pago de Los Capellanes,2020,16227,Joven Roble Tinto 2020,4.0,1267,10.9,España,Ribera del Duero,Ribera del Duero
+1563,Campos de Dulcinea,2016,5453192,Selección de Familia 2016,3.9,50,10.9,España,La Mancha,other
+1564,Marco Real,2015,1192087,Reserva de Familia 2015,3.8,55,10.9,España,Navarra,other
+1565,Vinessens - Casa Balaguer,2018,1565648,Sein 2018,3.8,123,10.9,España,Alicante,other
+1566,Rejadorada,2016,1230030,Novellum 2016,4.0,95,10.9,España,Toro,other
+1567,Mindiarte,2016,1771710,Reserva 2016,3.5,45,10.9,España,Rioja Alta,other
+1568,Bodegas Urbina,2012,1278370,Crianza Tinto 2012,3.8,154,10.9,España,Rioja,Rioja
+1569,Proyecto Garnachas de España,2019,1486336,La Garnatxa Fosca del Priorat 2019,3.8,125,10.9,España,Priorato,Catalunya Sul
+1570,Gran Feudo,2014,1441674,Viñas Viejas Reserva 2014,3.5,460,10.9,España,Navarra,other
+1571,Olivier Rivière,2018,1218832,Rioja Rayos Uva 2018,3.7,1067,10.9,España,Rioja,Rioja
+1572,Hermanos Peciña,2015,1146401,Señorío de P. Peciña Crianza 2015,3.8,170,10.9,España,Rioja,Rioja
+1573,Raúl Pérez,2019,1175429,Castro Ventosa El Castro de Valtuille 2019,3.7,58,10.9,España,Bierzo,other
+1574,Venta La Vega - Bodegas Almanseñas,2016,5374601,Ternario 2 2016,3.5,40,10.9,España,Almansa,other
+1575,Isidro Milagro,2014,1148471,Ramon Lopez Murillo Reserva 2014,3.4,135,10.9,España,Rioja,Rioja
+1576,Castellroig,2018,5924980,Sabaté i Coca Sø Negre 2018,3.7,32,10.9,España,Panadés,other
+1577,Ribera del Juá,2017,6415373,Crianza 2017,3.4,101,10.9,España,Jumilla,other
+1578,Bodegas Nekeas,2015,5233588,Los Olivos Reserva 2015,3.8,56,10.9,España,Navarra,other
+1579,Viñas del Vero,2017,23482,Cabernet Sauvignon Somontano 2017,3.3,45,10.9,España,Somontano,other
+1580,Melonera,2020,1952862,La Encina del Inglés Ronda 2020,3.7,93,10.9,España,Andalucía,other
+1581,Bodegas Olarra,2016,76308,Añares Rioja Reserva 2016,3.8,460,10.9,España,Rioja,Rioja
+1582,Melonera,2018,1952862,La Encina del Inglés Ronda 2018,3.7,100,10.9,España,Andalucía,other
+1583,Bodegas Olarra,2017,76308,Añares Rioja Reserva 2017,3.9,104,10.9,España,Rioja,Rioja
+1584,EGO,2017,1586421,Goru Monastrell 2017,3.8,78,10.9,España,Jumilla,other
+1585,Bela,2019,6691245,Roble 2019,3.6,70,10.9,España,Ribera del Duero,Ribera del Duero
+1586,Volver,2019,7439078,Quinta del 67 Crianza 2019,4.0,190,10.9,España,Almansa,other
+1587,Vinessens - Casa Balaguer,2018,8461140,Terra Danella 2018,3.8,25,10.9,España,Alicante,other
+1588,Dominio del Urogallo,2018,2612919,La Fanfarria 2018,3.8,27,10.9,España,Asturias,other
+1589,Rectoral de Amandi,2020,8716276,Matilda Nieves Mencia 2020,4.0,127,10.9,España,Ribeira Sacra,other
+1590,Raimat,2017,1811157,Moli Cabernet Sauvignon 2017,3.8,172,10.91,España,Costers del Segre,other
+1591,Casa Castillo,2018,5961896,Vino de Finca 2018,3.7,399,10.92,España,Jumilla,other
+1592,Viña Salceda,2016,1111660,Rioja Reserva 2016,3.8,744,10.94,España,Rioja,Rioja
+1593,Solar Viejo,2016,1737807,Amor de Madre Crianza Rioja 2016,3.5,155,10.95,España,Rioja,Rioja
+1594,Yllera,2018,1136769,Vendimia Seleccionada 2018,3.8,29,10.95,España,Castilla y León,other
+1595,Monasterio de Las Vinas,2016,1776352,Garnacha Old Vine 2016,3.3,44,10.95,España,Cariñena,Catalunya Sul
+1596,Hacienda el Ternero,2014,5360156,Selección 2014,3.9,84,10.95,España,Rioja,Rioja
+1597,Marques de Vitoria,2014,3490,Rioja Reserva 2014,3.9,420,10.95,España,Rioja,Rioja
+1598,Paco Garcia,2016,1271803,Crianza 2016,3.6,322,10.95,España,Rioja,Rioja
+1599,Hacienda López de Haro,2017,1537689,El Pacto 2017,3.9,509,10.95,España,Rioja,Rioja
+1600,Casa Gran del Siurana,2020,1145808,Priorat GR-174 2020,3.9,470,10.95,España,Priorato,Catalunya Sul
+1601,Castaño,2017,1137120,Solanera Viñas Viejas 2017,3.8,294,10.95,España,Yecla,other
+1602,Viña Ane,2017,1260479,Autor 2017,3.6,36,10.95,España,Rioja,Rioja
+1603,Cuatro Pasos,2018,4366755,Black Mencia 2018,3.9,67,10.95,España,Bierzo,other
+1604,Venta d'Aubert,2015,1191816,Ventus 2015,3.7,79,10.95,España,Bajo Aragón,other
+1605,Calandria,2017,1234393,Cientruenos 2017,3.8,136,10.95,España,Navarra,other
+1606,Volver,2019,1195424,Single Vineyard Tempranillo 2019,4.0,93,10.95,España,La Mancha,other
+1607,Mas Blanch I Jove,2019,5616272,Troballa Garnatxa Negra 2019,3.6,39,10.95,España,Costers del Segre,other
+1608,Monasterio de Las Vinas,2016,6506050,Special Selection Old Vine Cariñena 2016,3.5,1619,10.95,España,Cariñena,Catalunya Sul
+1609,D. Mateos,2019,5033894,Insensato Garnacha 2019,4.0,317,10.95,España,Rioja,Rioja
+1610,Oriol Rossell,2019,1844179,Rocaplana Syrah 2019,3.6,55,10.95,España,Panadés,other
+1611,Jean Leon,2019,1532992,Merlot - Petit Verdot Penedès 3055 2019,3.6,423,10.95,España,Panadés,other
+1612,De Muller,2018,1210435,Legítim Crianza 2018,4.2,392,10.95,España,Priorato,Catalunya Sul
+1613,Hacienda López de Haro,2018,6490747,Edición Limitada 2018,3.8,115,10.95,España,Rioja,Rioja
+1614,Cinema,2016,1449049,Crianza 2016,3.9,38,10.95,España,Ribera del Duero,Ribera del Duero
+1615,Wine's Ocean,2017,3874019,Tomasitos 2017,3.6,42,10.95,España,Tarragona,Catalunya Sul
+1616,Pardevalles,2018,1182725,Gamonal 2018,3.9,27,10.95,España,Tierra de León,other
+1617,Federico Paternina,2015,5475609,Reserva Rioja Selección Especial 2015,3.9,47,10.95,España,Rioja,Rioja
+1618,Viniric,2018,6602709,Propòsit 2018,3.8,26,10.95,España,Empordà,other
+1619,Lan,2018,6438949,Xtréme Ecológico Crianza 2018,4.2,43,10.95,España,Rioja,Rioja
+1620,Finca Los Aljibes,2015,1159307,Cabernet Franc 2015,3.8,77,10.95,España,Castilla,other
+1621,Paco Garcia,2018,1271803,Crianza 2018,3.8,91,10.95,España,Rioja,Rioja
+1622,Viñas del Vero,2017,1674989,Colección Pago El Ariño Merlot Somontano 2017,3.6,45,10.95,España,Somontano,other
+1623,D. Mateos,2018,5086607,Insolente Graciano 2018,3.7,108,10.95,España,Rioja,Rioja
+1624,D. Mateos,2020,5086607,Insolente Graciano 2020,3.9,60,10.95,España,Rioja,Rioja
+1625,Losada,2018,2600424,Bierzo Red 2018,4.0,1275,10.95,España,Bierzo,other
+1626,La Mejorada,2014,1312304,Las Norias 2014,3.8,212,10.95,España,Castilla y León,other
+1627,Volver,2017,1603076,Tarima Hill Old Vines Monastrell 2017,3.9,1611,10.97,España,Alicante,other
+1628,Volver,2018,1195424,Single Vineyard Tempranillo 2018,4.0,1071,10.97,España,La Mancha,other
+1629,Matsu,2020,1136746,El Recio 2020,4.0,49,10.99,España,Toro,other
+1630,Palacios Remondo,2018,1280344,La Montesa 2018,3.9,1463,10.99,España,Rioja,Rioja
+1631,Artuke,2019,1915104,Pies Negros Rioja 2019,3.7,256,10.99,España,Rioja,Rioja
+1632,Viña Salceda,2017,1111660,Rioja Reserva 2017,3.6,46,11.0,España,Rioja,Rioja
+1633,Forlong,2019,4386893,Petit Forlong 2019,3.8,87,11.0,España,Cádiz,other
+1634,Comalats,2018,6449132,Esparver 2018,3.7,35,11.0,España,Costers del Segre,other
+1635,Tridente,2017,2055561,Tempranillo 2017,4.0,363,11.0,España,Castilla y León,other
+1636,El Ilusionista,2016,3180715,Crianza 2016,3.8,33,11.0,España,Ribera del Duero,Ribera del Duero
+1637,Condado de Oriza,2016,1234198,Reserva Ribera del Duero 2016,3.7,206,11.0,España,Ribera del Duero,Ribera del Duero
+1638,Montecillo,2015,6087783,Edición Limitada 2015,3.9,34,11.0,España,Rioja,Rioja
+1639,El Vínculo,2016,7586997,Crianza 2016,3.9,756,11.0,España,La Mancha,other
+1640,Envínate,2020,2674577,Albahra 2020,4.0,250,11.0,España,Castilla,other
+1641,El Ilusionista,2017,3180715,Crianza 2017,3.5,44,11.0,España,Ribera del Duero,Ribera del Duero
+1642,Bracamonte,2014,1149912,Crianza 2014,3.9,78,11.05,España,Ribera del Duero,Ribera del Duero
+1643,Hugas de Batlle,2017,2239688,Coma de Vaixell 2017,3.8,29,11.07,España,Empordà,other
+1644,Bodega La Carbonera,2017,6823100,Las Pisadas 2017,3.7,53,11.07,España,Rioja,Rioja
+1645,Guelbenzu,2015,51644,Evo 2015,4.0,64,11.1,España,Ribera del Queiles,other
+1646,Ramón Bilbao,2018,1596684,Rioja Viñedos de Altura 2018,4.0,92,11.1,España,Rioja,Rioja
+1647,Casa Corredor,2018,6314475,Alagú Forcallat 2018,3.7,42,11.12,España,Alicante,other
+1648,Eternum Viti,2013,1148338,Tinto 2013,3.5,197,11.12,España,Toro,other
+1649,Juvé & Camps,2017,1183629,Casa Vella d'Espiells Cabernet Sauvignon 2017,3.8,32,11.14,España,Panadés,other
+1650,Bodegas Nekeas,2019,2032695,El Chaparral de Vega Sindoa Old Vines Garnacha 2019,4.0,30,11.15,España,Navarra,other
+1651,RAR Vins Singulars,2018,8208701,Essència 2018,3.9,77,11.18,España,Priorato,Catalunya Sul
+1652,Clos de Lôm,2019,7276689,Garnacha 2019,3.9,55,11.2,España,Valencia,other
+1653,Boapeza,2019,4789446,Mencia 2019,3.6,46,11.2,España,Ribeira Sacra,other
+1654,Curii Uvas & Vinos,2020,5932425,Una Noche y Un Dia 2020,3.7,29,11.2,España,Alicante,other
+1655,Carmelo Rodero,2020,1284755,9 Meses Tinto 2020,3.9,650,11.2,España,Ribera del Duero,Ribera del Duero
+1656,Tomàs Cusiné,2018,1106641,Vilosell 2018,3.8,267,11.2,España,Costers del Segre,other
+1657,Atalaya,2019,3652602,La Atalaya del Camino 2019,4.2,843,11.21,España,Almansa,other
+1658,Izadi,2016,1832930,Rioja Selección 2016,4.0,713,11.24,España,Rioja,Rioja
+1659,Hacienda Solano,2019,6026357,Selección 2019,3.8,125,11.25,España,Ribera del Duero,Ribera del Duero
+1660,Wineissocial,2020,5653113,Rebeldes 2020,3.6,88,11.25,España,Montsant,Catalunya Sul
+1661,Wineissocial,2019,5653113,Rebeldes 2019,3.7,195,11.25,España,Montsant,Catalunya Sul
+1662,La Purisima,2016,1678294,Old Vines Expression 2016,3.9,259,11.25,España,Yecla,other
+1663,Nabal,2018,6737244,Valle de Nabal Tempranillo 2018,3.9,56,11.25,España,Ribera del Duero,Ribera del Duero
+1664,Analec,2016,1231658,La Romiguera 2016,3.9,34,11.25,España,Costers del Segre,other
+1665,Finca Sandoval,2019,1126959,Salia 2019,3.7,27,11.25,España,Manchuela,other
+1666,Lavia,2015,1784470,Plus+ 2015,3.8,269,11.25,España,Bullas,other
+1667,Vins del Tros,2016,4076390,Ay de Mi 2016,3.8,35,11.25,España,Terra Alta,Catalunya Sul
+1668,Veronica Ortega,2020,10170470,Quite Vinas Viejas 2020,3.8,33,11.26,España,Bierzo,other
+1669,Bodega Marañones,2018,1434974,Treintamil (30.000) Maravedies 2018,3.6,244,11.27,España,Madrid,other
+1670,Oliveda,2017,4695684,Terra de Vents 2017,3.8,52,11.31,España,Empordà,other
+1671,Volver,2015,1603076,Tarima Hill Old Vines Monastrell 2015,4.0,6093,11.33,España,Alicante,other
+1672,Finca Torremilanos,2018,1204787,Los Cantos de Torremilanos 2018,4.0,469,11.35,España,Ribera del Duero,Ribera del Duero
+1673,Finca La Estacada,2016,5376743,Tempranillo Crianza 2016,3.7,117,11.35,España,La Mancha,other
+1674,Vall de Baldomar,2019,1258325,Cristiari d’Alós 2019,3.8,26,11.35,España,Costers del Segre,other
+1675,Marqués de Cáceres,2016,10249,Rioja Reserva 2016,3.9,556,11.35,España,Rioja,Rioja
+1676,Celler de Capçanes,2020,3782529,La Nit de Les Garnatxes Llicorella 2020,4.0,29,11.35,España,Montsant,Catalunya Sul
+1677,Envínate,2019,2674577,Albahra 2019,3.8,934,11.35,España,Castilla,other
+1678,Valderiz,2019,5987439,De Chiripa 2019,3.6,56,11.37,España,Ribera del Duero,Ribera del Duero
+1679,Hacienda Solano,2020,6026357,Selección 2020,3.8,30,11.39,España,Ribera del Duero,Ribera del Duero
+1680,Viña Albina,2014,1433432,Reserva Vendimia Seleccionada 2014,3.7,501,11.4,España,Rioja,Rioja
+1681,Valserrano,2016,1843806,Rioja Crianza 2016,3.8,1452,11.4,España,Rioja,Rioja
+1682,Baigorri,2018,1565592,Crianza  Tempranillo 2018,3.8,438,11.4,España,Rioja,Rioja
+1683,Dehesa de Los Canónigos,2020,2051587,Quinta Generación 2020,3.7,43,11.4,España,Ribera del Duero,Ribera del Duero
+1684,Castell del Remei,2018,1615,ODA Negre 2018,4.0,193,11.43,España,Costers del Segre,other
+1685,Baron de Ley,2017,1243390,Varietales Maturana Rioja 2017,4.1,327,11.45,España,Rioja,Rioja
+1686,Evodia,2017,6706211,Pizarras Antiguas 2017,3.4,313,11.45,España,Aragón,other
+1687,Viñas del Vero,2018,23483,Colección Pago Los Canteras Syrah Somontano 2018,4.2,35,11.45,España,Somontano,other
+1688,Azpilicueta,2017,3652647,Origen Crianza 2017,3.8,1177,11.45,España,Rioja,Rioja
+1689,Ramón Bilbao,2015,77022,Rioja Reserva (Tempranillo) 2015,4.1,4777,11.46,España,Rioja,Rioja
+1690,Pío del Ramo,2016,3316230,Crianza 2016,3.8,28,11.48,España,Jumilla,other
+1691,Celler de Capçanes,2017,3782524,La Nit de Les Garnatxes Calissa 2017,3.8,49,11.49,España,Montsant,Catalunya Sul
+1692,Estones,2018,1902933,Set Tota la Vida 2018,4.1,43,11.49,España,Montsant,Catalunya Sul
+1693,Bodegas Valdemar,2015,15499,Inspiración Sélección 2015,3.9,342,11.49,España,Rioja,Rioja
+1694,Baron de Ley,2018,1573980,Varietales Graciano Rioja 2018,3.9,127,11.49,España,Rioja,Rioja
+1695,Baron de Ley,2018,1243390,Varietales Maturana Rioja 2018,4.0,53,11.49,España,Rioja,Rioja
+1696,Cuevas de Arom,2016,6583521,Pedra Forca Garnacha - Syrah 2016,3.7,466,11.49,España,Campo de Borja,other
+1697,Solar Viejo,2015,1235815,Reserva Rioja 2015,3.7,123,11.49,España,Rioja,Rioja
+1698,Bodegas y Viñedos del Jalón,2011,1232722,Las Pizarras 2011,3.6,200,11.49,España,Calatayud,other
+1699,Pardevalles,2016,1182725,Gamonal 2016,3.8,436,11.49,España,Tierra de León,other
+1700,Busca Raons,2019,6834921,Tinto 2019,3.3,100,11.5,España,Costers del Segre,other
+1701,Franck Massard,2018,1583174,El Brindis 2018,3.7,98,11.5,España,Montsant,Catalunya Sul
+1702,Bodegas Frontonio,2016,4523406,Microcósmico Garnacha 2016,3.7,417,11.5,España,Valdejalón,other
+1703,Pepe Mendoza Casa Agrícola,2019,5903001,Tinto 2019,3.9,70,11.5,España,Alicante,other
+1704,Bodegas Ateca,2014,1183710,Atteca Garnacha (Old Vines) 2014,3.9,1703,11.5,España,Calatayud,other
+1705,Clea,2014,1906632,Crianza 2014,3.6,45,11.5,España,Ribera del Duero,Ribera del Duero
+1706,Monte Real,2017,6871209,Reserva de Familia 2017,4.0,259,11.5,España,Rioja,Rioja
+1707,Cuevas de Arom,2018,6583521,Pedra Forca Garnacha - Syrah 2018,3.8,52,11.5,España,Campo de Borja,other
+1708,Jean Leon,2018,1532992,Merlot - Petit Verdot Penedès 3055 2018,3.8,699,11.5,España,Panadés,other
+1709,M. Chapoutier,2018,5807711,Dominio del Soto Joven 2018,3.7,36,11.5,España,Ribera del Duero,Ribera del Duero
+1710,Vara Y Pulgar,2018,3036211,Tintilla 2018,3.9,129,11.5,España,Cádiz,other
+1711,Pata Negra,2014,7382987,Reserva Tempranillo 2014,3.7,82,11.5,España,Ribera del Duero,Ribera del Duero
+1712,Baron de Ley,2018,2229674,Varietales Garnacha Rioja 2018,3.7,123,11.5,España,Rioja,Rioja
+1713,Loxarel,2019,17413,OPS Tinto 2019,3.8,58,11.5,España,Cataluña,Catalunya Sul
+1714,Rioja Vega,2017,74771,Reserva 2017,3.7,58,11.5,España,Rioja,Rioja
+1715,Epifanio Rivera,2019,1182155,Erial Tinto Fino 2019,4.0,176,11.5,España,Ribera del Duero,Ribera del Duero
+1716,Estones,2017,1902933,Set Tota la Vida 2017,4.1,42,11.5,España,Montsant,Catalunya Sul
+1717,Heras Cordon,2018,1478457,Rioja Vendimia Seleccionada 2018,3.9,60,11.5,España,Rioja,Rioja
+1718,Viña Albina,2017,1433432,Reserva Vendimia Seleccionada 2017,3.6,171,11.5,España,Rioja,Rioja
+1719,Condado de Haza,2019,1126813,Crianza Ribera del Duero 2019,3.9,99,11.5,España,Ribera del Duero,Ribera del Duero
+1720,Museum,2016,2100126,Reserva 2016,4.1,770,11.5,España,Cigales,other
+1721,Castillo Perelada,2017,1245225,Empordà Grande Reserve Speciale Balduino y Fabiola 2017,3.8,60,11.5,España,Empordà,other
+1722,Can Sumoi,2019,8550226,Sumoll - Garnatxa 2019,4.0,161,11.5,España,Cataluña,Catalunya Sul
+1723,Bodega La Carbonera,2016,6823100,Las Pisadas 2016,3.9,1209,11.5,España,Rioja,Rioja
+1724,Viore,2015,5630493,Ribera del Duero Crianza 2015,3.8,37,11.5,España,Ribera del Duero,Ribera del Duero
+1725,Can Blau,2017,1478833,Blau 2017,3.8,1344,11.5,España,Montsant,Catalunya Sul
+1726,Pago Los Balancines,2017,7266325,Crianza Coleccion 2017,3.7,74,11.5,España,Ribera del Guadiana,other
+1727,Divina Proporción,2018,1970960,Abracadabra 2018,3.9,195,11.5,España,Toro,other
+1728,Condado de Haza,2017,1126813,Crianza Ribera del Duero 2017,3.9,1811,11.5,España,Ribera del Duero,Ribera del Duero
+1729,De Moya,2018,2905850,María 2018,4.2,59,11.5,España,Valencia,other
+1730,Mas Foraster,2018,6844449,Vuitanta-Dos 2018,3.8,30,11.5,España,Conca de Barberà,other
+1731,Beronia,2015,1164695,Rioja Reserva 2015,4.0,5536,11.5,España,Rioja,Rioja
+1732,Viore,2016,5630493,Ribera del Duero Crianza 2016,3.6,84,11.5,España,Ribera del Duero,Ribera del Duero
+1733,Scala Dei,2016,1168142,Negre Priorat 2016,3.6,519,11.58,España,Priorato,Catalunya Sul
+1734,Particular,2015,2538450,Cariñena 2015,3.5,113,11.6,España,Cariñena,Catalunya Sul
+1735,Viña Zorzal,2019,4075513,Corral de los Altos 2019,3.9,26,11.6,España,Navarra,other
+1736,Laus,2015,1130857,Crianza 2015,3.5,131,11.6,España,Somontano,other
+1737,Bodegas Carramimbre,2018,1154407,Carramimbre Crianza 2018,4.0,470,11.6,España,Ribera del Duero,Ribera del Duero
+1738,Tridente,2017,2185839,Triton Tinta de Toro 2017,3.8,337,11.6,España,Toro,other
+1739,Solà Classic,2015,1420328,1777 Bleu 2015,4.2,26,11.6,España,Priorato,Catalunya Sul
+1740,Bodegas Luis Perez,2019,1216614,Garum 2019,4.1,349,11.65,España,Cádiz,other
+1741,Suertes del Marqués,2018,1175021,7 Fuentes 2018,3.4,828,11.65,España,Valle de la Orotava,other
+1742,Marqués de Cáceres,2015,1871335,Excellens Reserva Rioja 2015,4.1,102,11.68,España,Rioja,Rioja
+1743,Castillo de Monjardin,2014,1776643,Coupage Selección Crianza 2014,3.5,113,11.68,España,Navarra,other
+1744,Cathar,2012,1148334,Roble 2012,3.8,25,11.68,España,Ribera del Duero,Ribera del Duero
+1745,Tobia,2018,1210710,Selección de Autor 2018,4.0,223,11.7,España,Rioja,Rioja
+1746,Basagoiti,2017,8327330,Organic 2017,3.4,25,11.7,España,Rioja,Rioja
+1747,Vetus,2017,77817,Toro 2017,3.9,151,11.71,España,Toro,other
+1748,Bodegas Godelia,2016,1226949,Godelia Mencía 2016,3.7,67,11.72,España,Bierzo,other
+1749,Tagonius,2018,1134525,Crianza 2018,3.8,26,11.75,España,Madrid,other
+1750,Tridente,2015,2055561,Tempranillo 2015,3.7,1076,11.75,España,Castilla y León,other
+1751,Edetària,2018,1656995,Via Edetana Tinto 2018,3.8,107,11.75,España,Terra Alta,Catalunya Sul
+1752,Bodegas Godelia,2015,1226949,Godelia Mencía 2015,3.7,206,11.75,España,Bierzo,other
+1753,Señorío de Libano,2014,99093,Solar de Libano Reserva 2014,3.7,77,11.8,España,Rioja,Rioja
+1754,Bodega Sommos,2017,4467464,Reserva 2017,3.8,74,11.8,España,Somontano,other
+1755,Resalte,2019,1156858,Resalte Vendimia Seleccionada 2019,4.0,43,11.8,España,Ribera del Duero,Ribera del Duero
+1756,Portal del Montsant,2019,100015,Brunus  Blend 2019,3.8,37,11.8,España,Montsant,Catalunya Sul
+1757,Pascona,2017,4326191,Classic Garnatxa - Carinyena 2017,3.8,58,11.8,España,Montsant,Catalunya Sul
+1758,Pagos del Moncayo,2018,4604187,Prados Colección Syrah 2018,4.0,51,11.8,España,Campo de Borja,other
+1759,Lagravera,2016,1453769,Ónra Tinto 2016,3.8,65,11.8,España,Costers del Segre,other
+1760,Resalte,2017,1156858,Resalte Vendimia Seleccionada 2017,4.0,572,11.8,España,Ribera del Duero,Ribera del Duero
+1761,EGO,2017,7686972,Goru Gold 2017,3.8,3301,11.8,España,Jumilla,other
+1762,Jiménez-Landi,2019,6587498,El Corralon 2019,3.5,170,11.8,España,Méntrida,other
+1763,Resalte,2018,1156858,Resalte Vendimia Seleccionada 2018,4.0,421,11.8,España,Ribera del Duero,Ribera del Duero
+1764,Portal del Montsant,2018,100015,Brunus  Blend 2018,3.8,255,11.8,España,Montsant,Catalunya Sul
+1765,Borsao Bodegas,2019,35374,Tres Picos Garnacha 2019,4.0,451,11.8,España,Campo de Borja,other
+1766,Carlos Serres,2014,1423717,Rioja Reserva 2014,3.9,198,11.83,España,Rioja,Rioja
+1767,Familia Torres,2016,1129387,Gran Sangre de Toro Reserva 2016,3.8,541,11.83,España,Cataluña,Catalunya Sul
+1768,Carlos Serres,2015,1423717,Rioja Reserva 2015,3.9,160,11.83,España,Rioja,Rioja
+1769,Artuke,2018,1915104,Pies Negros Rioja 2018,3.8,736,11.85,España,Rioja,Rioja
+1770,Celler del Roure,2020,5027716,Safrà 2020,3.6,43,11.85,España,Valencia,other
+1771,Arzuaga,2018,1915993,Pago Florentino 2018,4.0,324,11.85,España,Pago Florentino,other
+1772,Ordóñez,2014,1406081,Zerrán Tinto 2014,3.7,687,11.85,España,Montsant,Catalunya Sul
+1773,Celler Arrufí,2018,7240379,Sol Vi 2018,3.7,31,11.85,España,Terra Alta,Catalunya Sul
+1774,Monte Real,2012,1424455,Gran Reserva 2012,4.0,1180,11.88,España,Rioja,Rioja
+1775,Paco Garcia,2017,1271803,Crianza 2017,3.7,348,11.89,España,Rioja,Rioja
+1776,Marques de Burgos,2016,1404492,Crianza Vendimia Seleccionada 2016,3.8,68,11.89,España,Ribera del Duero,Ribera del Duero
+1777,Enrique Mendoza,2018,1146693,Petit Verdot Alicante 2018,3.8,172,11.89,España,Alicante,other
+1778,Vinyes Domenech,2020,6799176,Vi D'Àmfora Natural 2020,3.9,36,11.9,España,Montsant,Catalunya Sul
+1779,Tábula,2018,1146109,Damana Crianza Tempranillo 2018,4.2,78,11.9,España,Ribera del Duero,Ribera del Duero
+1780,Dominio do Bibei,2018,1384142,Ribeira Sacra Refugallo 2018,4.2,71,11.9,España,Ribeira Sacra,other
+1781,Luzon,2018,6007664,Colección Crianza 2018,3.8,51,11.9,España,Jumilla,other
+1782,Los Frailes,2017,1147627,Trilogia 2017,4.0,73,11.9,España,Valencia,other
+1783,Montecillo,2013,1100225,Reserva 2013,3.8,218,11.9,España,Rioja,Rioja
+1784,Palacio de Primavera,2015,4742548,Vendimia Seleccionada Reserva 2015,3.8,1424,11.9,España,Rioja,Rioja
+1785,Hacienda López de Haro,2011,2870792,Gran Reserva 2011,4.0,802,11.9,España,Rioja,Rioja
+1786,Scala Dei,2019,1168142,Negre Priorat 2019,3.7,234,11.9,España,Priorato,Catalunya Sul
+1787,Lavia,2015,5947030,Origen 2015,4.1,48,11.9,España,Bullas,other
+1788,Acustic Celler,2019,80370,Montsant Acústic 2019,3.9,64,11.9,España,Montsant,Catalunya Sul
+1789,Pago Aylés,2017,4245757,s de Aylés 2017,4.0,215,11.9,España,Cariñena,Catalunya Sul
+1790,Hornillos Ballesteros,2014,1171147,Mibal Selección 2014,3.9,32,11.9,España,Ribera del Duero,Ribera del Duero
+1791,Marqués de la Concordia,2015,10246805,Rioja Santiago Reserva Cuarto Año 2015,4.4,39,11.9,España,Rioja,Rioja
+1792,Fos,2018,7605486,Saltaviñas 2018,3.7,35,11.9,España,Rioja Alavesa,other
+1793,Veronica Ortega,2019,3793237,Quite Mencia 2019,3.8,170,11.9,España,Bierzo,other
+1794,Marques de Tomares,2014,1155884,Rioja Reserva 2014,4.2,287,11.9,España,Rioja,Rioja
+1795,Laderas de Montejurra,2015,1975052,Emilio Valerio Amburza 2015,4.0,61,11.9,España,Navarra,other
+1796,Luzon,2019,1230455,Altos de Luzón 2019,3.8,34,11.9,España,Jumilla,other
+1797,7 Magnífics,2020,3155589,El Senat del Montsant 2020,3.8,29,11.9,España,Montsant,Catalunya Sul
+1798,Albamar,2019,1660419,Fusco Mencía 2019,3.7,62,11.9,España,Ribeira Sacra,other
+1799,Viña Mayor,2018,1129480,Ribera del Duero Tinto Roble 2018,3.6,1359,11.94,España,Ribera del Duero,Ribera del Duero
+1800,Dominio de Bornos,2016,4164349,Crianza 2016,3.6,32,11.95,España,Ribera del Duero,Ribera del Duero
+1801,Lan,2017,8098666,7 Metros 2017,4.0,120,11.95,España,Rioja,Rioja
+1802,Bodega Jesus Romero,2018,1794545,Rubus Quercus 2018,3.8,34,11.95,España,Aragón,other
+1803,Samsara,2018,5444806,Moriche 2018,3.8,42,11.95,España,Sierras de Málaga,other
+1804,Heras Cordon,2017,1478457,Rioja Vendimia Seleccionada 2017,3.8,410,11.95,España,Rioja,Rioja
+1805,Loxarel,2017,17413,OPS Tinto 2017,3.6,278,11.95,España,Cataluña,Catalunya Sul
+1806,Bodegas Torre del Veguer,2016,1614412,Eclectic 2016,3.8,71,11.95,España,Panadés,other
+1807,Sa Forana,2019,5632230,600 Metros Tinto 2019,3.6,28,11.95,España,Isla de Menorca,other
+1808,Familia Torres,2019,7667938,Vinyarets 2019,3.7,176,11.95,España,Panadés,other
+1809,Can Rich,2016,2168735,Selección 2016,3.7,54,11.95,España,Ibiza,other
+1810,Bodega Picos,2017,2690339,Gran Gregoriano 2017,3.7,52,11.95,España,Campo de Borja,other
+1811,Estancia Piedra,2019,6447577,Prohibida Únicamente Garnacha 2019,3.8,44,11.95,España,Toro,other
+1812,Quinta Mazuela,2016,5581737,Quinta Mazuela Garnacha 2016,4.2,25,11.95,España,Cariñena,Catalunya Sul
+1813,Sota els Àngels,2019,8558742,Ubuntu 2019,3.8,29,11.95,España,Empordà,other
+1814,Evodia,2016,6706211,Pizarras Antiguas 2016,3.7,60,11.95,España,Aragón,other
+1815,Loxarel,2018,17413,OPS Tinto 2018,3.8,54,11.95,España,Cataluña,Catalunya Sul
+1816,Terrer de Pallars,2018,2389188,Conca de Tremp 2018,4.0,72,11.95,España,Costers del Segre,other
+1817,Terrer de Pallars,2019,2389188,Conca de Tremp 2019,3.7,48,11.95,España,Costers del Segre,other
+1818,Gargalo,2018,1519408,Mencía - Arauxa 2018,3.8,65,11.95,España,Monterrei,other
+1819,Más Que Vinos,2018,1100832,La Meseta 2018,3.5,45,11.95,España,Castilla,other
+1820,Tridente,2016,2055561,Tempranillo 2016,3.8,737,11.95,España,Castilla y León,other
+1821,Tomàs Cusiné,2019,1106641,Vilosell 2019,3.9,35,11.95,España,Costers del Segre,other
+1822,Bodegas Faustino,2015,6755252,Art Collection 2015,3.5,59,11.95,España,Rioja,Rioja
+1823,Bodegas Valdelana,2016,1173873,Familia Valdelana Reserva 2016,4.0,53,11.95,España,Rioja,Rioja
+1824,Carchelo,2016,2431421,Altico (A) 2016,3.5,171,11.95,España,Jumilla,other
+1825,Bodegas Luis Perez,2019,5674255,El Triángulo 2019,3.9,33,11.95,España,Cádiz,other
+1826,Luis Moya Tortosa,2016,5530530,Kimera Garnatxa 2016,3.7,111,11.95,España,Navarra,other
+1827,Viña Ijalba,2017,6485742,Cuvée 2017,3.9,90,11.95,España,Rioja,Rioja
+1828,Teodoro Ruiz Monge,2017,2369068,Zurbano 2017,3.8,32,11.95,España,Rioja,Rioja
+1829,Prieto Pariente,2018,5757034,Vinedos de La Provincia 2018,3.9,43,11.95,España,Castilla y León,other
+1830,Bodegas Valdelana,2017,5392821,AGNVS Crianza Tempranillo 2017,4.0,110,11.95,España,Rioja,Rioja
+1831,Los Rios Prieto,2017,1177440,Prios Maximus Crianza 2017,3.9,72,11.95,España,Ribera del Duero,Ribera del Duero
+1832,Quinta de la Quietud,2016,1181010,Corral de Campanas 2016,3.7,424,11.98,España,Toro,other
+1833,Zuazo Gaston,2013,1293547,Reserva 2013,3.8,55,11.98,España,Rioja,Rioja
+1834,Loxarel,2019,2079774,A Pèl Tinto 2019,3.6,61,11.99,España,Panadés,other
+1835,Bodegas Rívola,2018,80398,Tinto 2018,3.9,164,11.99,España,Sardón de Duero,other
+1836,Ramón Bilbao,2017,1612897,Edición Limitada 2017,4.0,496,11.99,España,Rioja,Rioja
+1837,Vinos en Voz Baja,2019,2417995,Costumbres Tinto 2019,4.2,36,11.99,España,Rioja,Rioja
+1838,Sangenís I Vaqué,2019,2629986,Dara 2019,4.0,27,11.99,España,Priorato,Catalunya Sul
+1839,Hydria,2015,5378976,12 Compases 2015,3.7,60,12.0,España,Murcia,other
+1840,Castillo Perelada,2016,7369877,Collection Negre 2016,3.9,54,12.0,España,Empordà,other
+1841,Oristan,2017,78569,Bronze Crianza 2017,3.3,150,12.0,España,La Mancha,other
+1842,D Luis R,2017,1669401,Crianza 2017,3.6,64,12.0,España,Rioja,Rioja
+1843,Rodríguez Sanzo,2017,6218942,Las Tierras Pedro Ballesteros de Javier Rodríguez Garnacha 2017,3.4,116,12.0,España,Castilla y León,other
+1844,Tuerce Botas,2017,1483446,Crianza Graciano 2017,3.8,72,12.0,España,Rioja,Rioja
+1845,Pyjama,2018,1493684,Mencía 2018,3.4,47,12.0,España,Bierzo,other
+1846,Terra i Vins,2013,4024019,les Roques de Benet 2013,3.3,39,12.0,España,Bajo Aragón,other
+1847,Fabregas,2019,6343177,Familia Garnacha Tinta 2019,3.8,72,12.0,España,Somontano,other
+1848,Baronia,2017,1577637,Englora 2017,3.9,31,12.0,España,Montsant,Catalunya Sul
+1849,Fabregas,2018,6343177,Familia Garnacha Tinta 2018,3.8,31,12.0,España,Somontano,other
+1850,Fabregas,2018,6411375,Familia Moristel 2018,3.7,53,12.0,España,Somontano,other
+1851,Más Que Vinos,2010,2416472,Bodegas Ercavio la Meseta 2010,3.5,55,12.0,España,Castilla,other
+1852,Azpilicueta,2015,1955228,Reserva 2015,4.0,88,12.05,España,Rioja,Rioja
+1853,Las Rocas,2018,1379331,Viñas Viejas Garnacha 2018,3.8,50,12.05,España,Calatayud,other
+1854,Prieto Pariente,2017,5757034,Vinedos de La Provincia 2017,4.1,108,12.09,España,Castilla y León,other
+1855,Dominio de Tares,2017,1235200,Cepas Viejas Mencía Bierzo 2017,3.9,750,12.09,España,Bierzo,other
+1856,Vinícola del Priorat,2019,99546,Ònix Fusió 2019,4.1,47,12.11,España,Priorato,Catalunya Sul
+1857,Vins de Pedra,2018,2484662,Trempat 2018,3.7,36,12.15,España,Conca de Barberà,other
+1858,La Vinyeta,2017,2306088,Puntiapart 2017,4.0,178,12.15,España,Empordà,other
+1859,Bodega Marañones,2017,1434974,Treintamil (30.000) Maravedies 2017,3.6,409,12.15,España,Madrid,other
+1860,Gregorio Martínez,2015,5529011,Finca Tempranillo 2015,3.9,54,12.15,España,Rioja,Rioja
+1861,Gregorio Martínez,2014,5529011,Finca Tempranillo 2014,3.8,219,12.15,España,Rioja,Rioja
+1862,Bodegas Amaren,2017,3949815,Tempranillo - Garnacha Crianza 2017,4.0,243,12.15,España,Rioja,Rioja
+1863,Pittacum,2016,1631613,Mencía 2016,3.8,628,12.19,España,Bierzo,other
+1864,Lan,2015,88832,Reserva Rioja 2015,4.0,2621,12.2,España,Rioja,Rioja
+1865,Lan,2016,88832,Reserva Rioja 2016,3.8,81,12.2,España,Rioja,Rioja
+1866,Carlania,2017,4593660,Els Corrals Vinyes Belles 2017,3.8,41,12.2,España,Cataluña,Catalunya Sul
+1867,Castell del Remei,2019,1615,ODA Negre 2019,4.1,30,12.2,España,Costers del Segre,other
+1868,Bodega Marañones,2019,1434974,Treintamil (30.000) Maravedies 2019,3.7,171,12.2,España,Madrid,other
+1869,Bodegas Olarra,2016,76305,Cerro Añon Reserva Rioja 2016,4.1,568,12.2,España,Rioja,Rioja
+1870,El Vínculo,2011,1110327,La Mancha Reserva 2011,3.5,28,12.25,España,La Mancha,other
+1871,Las Moradas de San Martín,2013,1290072,Initio 2013,3.8,181,12.25,España,Madrid,other
+1872,Familia Torres,2019,2211345,Secret del Priorat 2019,4.0,42,12.25,España,Priorato,Catalunya Sul
+1873,Loxarel,2018,1943220,Eos Tinto 2018,3.8,27,12.25,España,Panadés,other
+1874,Sierra Salinas,2012,1205778,Puerto 2012,3.8,180,12.25,España,Alicante,other
+1875,Adega Saiñas,2019,7359923,Saíñas Viños Vivos 2019,3.6,28,12.25,España,Ribeira Sacra,other
+1876,Canopy,2017,1195453,Tres Patas Garnacha 2017,3.5,31,12.25,España,Méntrida,other
+1877,Bodegas Gormaz,2017,1175578,12 Linajes Crianza 2017,3.8,73,12.25,España,Ribera del Duero,Ribera del Duero
+1878,Partida Creus,2019,2558831,VN (Vinel-Lo) 2019,4.0,295,12.25,España,Panadés,other
+1879,Más Que Vinos,2015,1227905,Ercavio Selección Limitada 2015,3.8,59,12.25,España,Castilla,other
+1880,La Vinyeta,2018,2306088,Puntiapart 2018,3.9,26,12.25,España,Empordà,other
+1881,Vivanco,2015,1135812,Selección de Familia Reserva 2015,3.9,93,12.25,España,Rioja,Rioja
+1882,Arzuaga,2016,1915993,Pago Florentino 2016,3.9,821,12.28,España,Pago Florentino,other
+1883,Miquel Jané,2016,7100290,Masía Cal Costas Cabernet Sauvignon - Syrah 2016,4.1,76,12.3,España,Panadés,other
+1884,Viña Pomal,2015,1514598,Terruño Centenario Reserva 2015,4.0,1379,12.3,España,Rioja,Rioja
+1885,Arzuaga,2017,1915993,Pago Florentino 2017,4.1,418,12.3,España,Pago Florentino,other
+1886,Condado de Haza,2018,1126813,Crianza Ribera del Duero 2018,4.0,1156,12.3,España,Ribera del Duero,Ribera del Duero
+1887,Azpilicueta,2016,1955228,Reserva 2016,3.8,38,12.32,España,Rioja,Rioja
+1888,Bodegas Mano a Mano,2018,1199182,Venta La Ossa Syrah 2018,4.1,188,12.35,España,Castilla,other
+1889,Alfredo Maestro,2019,5445061,El Rey del Glam 2019,3.7,326,12.35,España,Castilla y León,other
+1890,Familia Torres,2016,7414824,Sangre de Toro Reserva 2016,3.6,59,12.35,España,Panadés,other
+1891,Eguren Ugarte,2014,1128844,Reserva 2014,3.7,139,12.35,España,Rioja,Rioja
+1892,Remelluri,2018,2128268,Lindes de Remelluri Viñedos de Labastida 2018,3.7,78,12.36,España,Rioja,Rioja
+1893,Remelluri,2016,6121551,Lindes de Remelluri Viñedos de San Vicente 2016,3.9,542,12.36,España,Rioja,Rioja
+1894,Campo Viejo,2015,4387046,Crianza Vendimia Seleccionada 2015,3.6,827,12.4,España,Rioja,Rioja
+1895,Viña Salceda,2014,1111660,Rioja Reserva 2014,3.8,1164,12.41,España,Rioja,Rioja
+1896,La Rioja Alta,2018,1216811,Viña Alberdi Crianza 2018,4.1,233,12.43,España,Rioja,Rioja
+1897,Valdemonjas,2019,1996477,El Primer Beso 2019,3.8,125,12.45,España,Ribera del Duero,Ribera del Duero
+1898,Pradorey,2018,1468317,Finca Valdelayegua Crianza 2018,3.9,440,12.45,España,Ribera del Duero,Ribera del Duero
+1899,Breca,2018,1370945,Breca Garnacha Old Vines 2018,3.8,33,12.45,España,Calatayud,other
+1900,Chivite,2015,5578819,Las Fieles Garnacha 2015,3.5,143,12.45,España,Navarra,other
+1901,Insulares Tenerife,2020,4896205,Viña Norte Tinto Maceración Carbónica 2020,3.6,30,12.45,España,Tacoronte-Acentejo,other
+1902,Breca,2017,1370945,Breca Garnacha Old Vines 2017,3.8,348,12.45,España,Calatayud,other
+1903,Vinsnus,2017,4346880,SiurAlta Rouge 2017,3.7,109,12.45,España,Montsant,Catalunya Sul
+1904,Volver,2015,1195424,Single Vineyard Tempranillo 2015,4.0,1507,12.46,España,La Mancha,other
+1905,Celler Massis de l'Albera,2020,9001498,Encanteri 2020,4.0,39,12.49,España,Empordà,other
+1906,Barbarot,2018,6700242,Bárbara Palacios Puppi 2018,3.8,25,12.5,España,Rioja,Rioja
+1907,La Vinyeta,2016,2306088,Puntiapart 2016,3.7,339,12.5,España,Empordà,other
+1908,Bodega Finca Fuentegalana,2016,5133911,La Viña de Ramón Garnacha 2016,3.5,31,12.5,España,Castilla y León,other
+1909,Finca Los Aljibes,2016,1147901,Red 2016,3.5,146,12.5,España,Castilla,other
+1910,Bodegas Vilano,2018,1516813,Crianza 2018,4.2,154,12.5,España,Ribera del Duero,Ribera del Duero
+1911,Navarrsotillo,2016,1492813,Rioja Garnacha Crianza Magister Bibendi 2016,3.8,80,12.5,España,Rioja,Rioja
+1912,Hacienda Grimon,2018,1486556,Crianza 2018,3.8,77,12.5,España,Rioja,Rioja
+1913,Alegre Valgañón,2019,3774471,Tinto 2019,3.9,74,12.5,España,Rioja,Rioja
+1914,Castaño,2015,85761,Castaño Colección Cepas Viejas 2015,3.3,353,12.5,España,Yecla,other
+1915,Vins del Tros,2017,3886103,La Fina Àmfora Garnatxa Fina 2017,3.7,44,12.5,España,Terra Alta,Catalunya Sul
+1916,Raúl Pérez,2018,1216033,Ultreia Mencía 2018,3.9,67,12.5,España,Bierzo,other
+1917,Joan Simó,2018,1942055,Viatge al Priorat 2018,3.8,75,12.5,España,Priorato,Catalunya Sul
+1918,Tridente,2016,2185839,Triton Tinta de Toro 2016,3.8,977,12.5,España,Toro,other
+1919,Beronia,2016,1164695,Rioja Reserva 2016,4.0,3729,12.5,España,Rioja,Rioja
+1920,Beronia,2017,1668783,Rioja Graciano 2017,3.6,28,12.5,España,Rioja,Rioja
+1921,Bodegas Ateca,2018,1183710,Atteca Garnacha (Old Vines) 2018,4.0,430,12.5,España,Calatayud,other
+1922,Scala Dei,2020,4382356,Garnatxa Priorat 2020,3.5,64,12.5,España,Priorato,Catalunya Sul
+1923,Viña d'Mateo,2019,1931412,Massimo Rosso 2019,3.6,50,12.5,España,Ribeira Sacra,other
+1924,Ca N'Estella,2017,2808938,Gran Clot Dels Oms Merlot 2017,3.9,67,12.5,España,Panadés,other
+1925,Rioja Vega,2018,6290696,Rioja Vega Edición Limitada 2018,3.8,32,12.5,España,Rioja,Rioja
+1926,Vinyes dels Aspres,2017,3756597,Xot dels Aspres 2017,3.8,103,12.5,España,Empordà,other
+1927,Màquina y Tabla,2018,3131733,Laderas de Leonila 2018,4.0,91,12.5,España,Castilla y León,other
+1928,AT Roca,2018,2302992,Sileo 2018,3.7,288,12.5,España,Montsant,Catalunya Sul
+1929,Can Sumoi,2018,8550226,Sumoll - Garnatxa 2018,3.8,335,12.5,España,Cataluña,Catalunya Sul
+1930,Matsu,2019,1136746,El Recio 2019,4.0,1842,12.5,España,Toro,other
+1931,Bodegas Imperiales - Abadía de San Quirce,2018,1223070,Crianza 2018,4.0,411,12.5,España,Ribera del Duero,Ribera del Duero
+1932,Pago Los Balancines,2017,8924042,Huno Reserva 2017,4.0,215,12.5,España,Ribera del Guadiana,other
+1933,Bodegas Valdelana,2018,5392821,AGNVS Crianza Tempranillo 2018,3.8,90,12.5,España,Rioja,Rioja
+1934,Federico Paternina,2011,1175426,Gran Reserva 2011,3.7,692,12.5,España,Rioja,Rioja
+1935,Las Moradas de San Martín,2015,1290072,Initio 2015,4.0,38,12.5,España,Madrid,other
+1936,Viñedos Ruiz Jiménez,2017,1183003,Osoti Crianza 2017,3.7,83,12.5,España,Rioja,Rioja
+1937,Generación 1,2015,76600,Grandes Añadas 2015,3.9,138,12.5,España,Utiel-Requena,other
+1938,Uva de Vida,2015,4881860,Latitud 40 Graciano 2015,3.7,99,12.5,España,La Mancha,other
+1939,Bodega Otto Bestué,2018,1226598,Finca Santa Sabina 2018,4.1,135,12.5,España,Somontano,other
+1940,Carles Andreu,2018,1299598,Trepat 2018,3.7,116,12.5,España,Tarragona,Catalunya Sul
+1941,Laventura,2019,5895119,Lanave 2019,3.6,41,12.5,España,Rioja,Rioja
+1942,Arché Pagès,2017,1784002,Cartesius Negre 2017,3.8,54,12.5,España,Empordà,other
+1943,Barbarot,2017,6700242,Bárbara Palacios Puppi 2017,3.5,30,12.5,España,Rioja,Rioja
+1944,Pago de Vallegarcía,2019,1539907,Petit Hipperia 2019,3.9,104,12.5,España,Castilla,other
+1945,Pagos del Moncayo,2019,5409799,Prados Colección Garnacha 2019,4.1,155,12.5,España,Campo de Borja,other
+1946,Sangenís I Vaqué,2018,2629986,Dara 2018,3.8,53,12.5,España,Priorato,Catalunya Sul
+1947,Borsao Bodegas,2017,4399827,Zarihs Syrah 2017,4.1,1073,12.5,España,Campo de Borja,other
+1948,Dominio del Bendito,2019,1165527,El Primer Paso 2019,4.1,486,12.5,España,Toro,other
+1949,Bodegas Aradon,2016,6986827,Calzadas de Aradon 2016,4.0,208,12.52,España,Rioja,Rioja
+1950,Olivardots,2017,2038428,Vermell 2017,3.8,129,12.55,España,Empordà,other
+1951,Finca La Estacada,2016,1490671,Uclés Syrah - Merlot 2016,3.7,224,12.55,España,Uclés,other
+1952,Lagar d'Amprius,2016,1585431,Garnacha 2016,3.9,52,12.55,España,Bajo Aragón,other
+1953,Finca La Estacada,2017,1490671,Uclés Syrah - Merlot 2017,4.2,29,12.55,España,Uclés,other
+1954,Finca Bacara,2017,5418364,Tabá 2017,4.0,554,12.6,España,Jumilla,other
+1955,Bodega Elias Mora,2017,21211,Toro Crianza 2017,4.0,197,12.6,España,Toro,other
+1956,Clos de l'Ona,2015,1955036,Amagat Montsant 2015,3.6,28,12.6,España,Montsant,Catalunya Sul
+1957,Viña Ijalba,2019,98247,Graciano 2019,4.2,26,12.6,España,Rioja,Rioja
+1958,Altanza,2014,22141,Rioja Reserva 2014,4.0,737,12.6,España,Rioja,Rioja
+1959,Bodegas Care,2016,2427372,Finca Bancales Viñas Viejas Garnacha 2016,4.2,158,12.6,España,Cariñena,Catalunya Sul
+1960,Marfil Alella,2019,1446845,Ivori Vi Negre 2019,3.8,38,12.6,España,Alella,other
+1961,L'Enclòs de Peralba,2018,8979449,Vi Fi de Masia Tinto 2018,3.8,30,12.6,España,Panadés,other
+1962,Borsao Bodegas,2018,35374,Tres Picos Garnacha 2018,4.0,3372,12.6,España,Campo de Borja,other
+1963,Tuets,2019,6202699,Panxu Tempranillo 2019,3.8,32,12.62,España,Tarragona,Catalunya Sul
+1964,Vinyes Domenech,2018,2807828,Boig per Tu 2018,3.9,111,12.64,España,Montsant,Catalunya Sul
+1965,Rico Nuevo,2019,7807253,RN Garnacha 2019,3.1,152,12.65,España,Castilla y León,other
+1966,Celler Ronadelles - Cap de Ruc,2016,1475477,Criança 2016,3.4,295,12.65,España,Montsant,Catalunya Sul
+1967,Bodegas Piqueras,2017,8205866,Los Losares Garnacha Tintorera 2017,4.1,283,12.66,España,Almansa,other
+1968,Bodegas Piqueras,2018,9568319,Los Losares Monastrell 2018,3.8,41,12.66,España,Almansa,other
+1969,Vega Real,2017,5924941,El Empecinado 2017,4.0,66,12.69,España,Ribera del Duero,Ribera del Duero
+1970,MontRubí,2018,4420291,Gaintus Radical Sumoll 2018,3.2,38,12.7,España,Panadés,other
+1971,Alta Alella,2018,1221392,Parvus Syrah 2018,3.8,141,12.7,España,Alella,other
+1972,Copa Llena,2015,5467540,Poblets del Montsant Tinto 2015,3.6,40,12.7,España,Montsant,Catalunya Sul
+1973,Vins de Pedra,2017,1420407,La Musa Negre 2017,4.2,63,12.74,España,Conca de Barberà,other
+1974,Murua,2017,1814122,VS Rioja Tempranillo 2017,4.2,149,12.74,España,Rioja,Rioja
+1975,Bodegas Gratias,2018,5129025,Maximas Bobal 2018,3.8,28,12.75,España,Manchuela,other
+1976,Bodegas Tionio,2019,76651,Austum 2019,3.6,108,12.75,España,Ribera del Duero,Ribera del Duero
+1977,Dehesa de Luna,2017,6765660,Garnacha Tintorera 2017,3.7,48,12.75,España,Castilla,other
+1978,Palacio de Villachica,2016,2560727,Crianza 2016,4.1,72,12.75,España,Toro,other
+1979,Castelo de Pedregosa,2016,2243136,Nûr Tinto 2016,3.8,86,12.75,España,Priorato,Catalunya Sul
+1980,Huguet de Can Feixes,2012,1506019,Negre Tradició 2012,4.0,89,12.75,España,Panadés,other
+1981,Peñafiel,2015,3970335,Mironia Crianza 2015,3.7,92,12.75,España,Ribera del Duero,Ribera del Duero
+1982,Bruma del Estrecho,2018,4384951,Parcela Navajuelos 2018,3.8,60,12.75,España,Jumilla,other
+1983,Rodríguez Sanzo,2015,5309413,Las Tierras de Javier Rodríguez Vino de Pueblo 2015,3.7,216,12.75,España,Toro,other
+1984,AltoLandon,2012,1217259,AltoLandon Red 2012,4.1,135,12.75,España,Manchuela,other
+1985,Ramón Bilbao,2017,1596684,Rioja Viñedos de Altura 2017,4.0,650,12.75,España,Rioja,Rioja
+1986,Divina Proporción,2017,1970960,Abracadabra 2017,3.9,97,12.75,España,Toro,other
+1987,La Casa de Monroy	,2012,1461249,Viñas Viejas Garnacha Selección Crianza 2012,3.6,58,12.79,España,Madrid,other
+1988,Conreria d'Scala Dei,2019,7035122,Nona 2019,3.7,28,12.8,España,Priorato,Catalunya Sul
+1989,Bodegas Lleiroso,2015,1700379,LL Crianza 2015,3.6,39,12.8,España,Ribera del Duero,Ribera del Duero
+1990,Conde de Siruela,2017,76502,Crianza 2017,3.9,30,12.8,España,Ribera del Duero,Ribera del Duero
+1991,Señorío de Nava,2017,1139423,Roble Ribera del Duero 2017,3.5,54,12.83,España,Ribera del Duero,Ribera del Duero
+1992,Berceo,2014,1193923,Gonzalo de Berceo Reserva 2014,3.8,74,12.83,España,Rioja,Rioja
+1993,Azpilicueta,2016,3652647,Origen Crianza 2016,3.7,2720,12.85,España,Rioja,Rioja
+1994,Viña Somoza,2017,6270010,VIA XVIII S 2017,3.7,80,12.85,España,Valdeorras,other
+1995,Sentencia,2017,3663496,Lluvia 2017,3.3,72,12.85,España,Utiel-Requena,other
+1996,Remelluri,2018,6121551,Lindes de Remelluri Viñedos de San Vicente 2018,4.1,102,12.85,España,Rioja,Rioja
+1997,Estefanía,2012,4310932,Tilenus La Florida Bierzo 2012,3.8,268,12.89,España,Bierzo,other
+1998,Pago Aylés,2015,1775669,Serendipia Edición Limitada 2015,3.9,184,12.89,España,Cariñena,Catalunya Sul
+1999,Hacienda Albae,2015,1251813,Tempranillo 2015,3.5,37,12.9,España,Castilla,other
+2000,Luzon,2016,1230455,Altos de Luzón 2016,4.1,333,12.9,España,Jumilla,other
+2001,Beronia,2014,1164695,Rioja Reserva 2014,4.0,5445,12.9,España,Rioja,Rioja
+2002,Pinna Fidelis,2018,1221284,Ribera del Duero Crianza 2018,3.7,140,12.9,España,Ribera del Duero,Ribera del Duero
+2003,Bodegas Mano a Mano,2017,1148433,Venta La Ossa Tempranillo 2017,4.2,268,12.9,España,Castilla,other
+2004,Valderiz,2018,1515739,Valdehermoso Crianza 2018,3.8,59,12.9,España,Ribera del Duero,Ribera del Duero
+2005,Celler Cooperatiu d'Espolla,2017,1529452,Clos de les Dòmines Reserva 2017,4.0,115,12.9,España,Empordà,other
+2006,Lavia,2016,1784470,Plus+ 2016,3.9,88,12.9,España,Bullas,other
+2007,Coto de Gomariz (María Álvarez Serrano),2015,1196761,Abadia de Gomariz 2015,3.8,35,12.9,España,Ribeiro,other
+2008,Alvar de Dios,2018,3081131,Camino de los Arrieros 2018,3.5,245,12.9,España,Arribes,other
+2009,Tagonius,2016,1134525,Crianza 2016,3.8,170,12.9,España,Madrid,other
+2010,Albamar,2018,6465770,Capitán Xurelo 2018,3.5,48,12.9,España,Rías Baixas,other
+2011,Altos de Tamarón,2016,1131272,Reserva Ribera del Duero 2016,3.8,462,12.9,España,Ribera del Duero,Ribera del Duero
+2012,La Perla del Priorat,2018,1125141,Noster Inicial 2018,3.8,46,12.9,España,Priorato,Catalunya Sul
+2013,Celler de Capçanes,2015,26394,Vall Del Calàs Montsant 2015,4.1,113,12.9,España,Montsant,Catalunya Sul
+2014,Ca N'Estruc,2015,1228665,L’Equilibrista Negre 2015,3.8,389,12.9,España,Cataluña,Catalunya Sul
+2015,Bodegas Olarra,2015,76303,Cerro Añon Rioja Gran Reserva 2015,4.4,86,12.9,España,Rioja,Rioja
+2016,R. López de Heredia Viña Tondonia,2013,1529357,Viña Cubillo 2013,3.9,232,12.9,España,Rioja Alta,other
+2017,Baltasar Gracián,2014,76948,Reserva 2014,4.0,80,12.9,España,Calatayud,other
+2018,Carlos Ruben,2017,7270546,Sin Duda Garnacha 2017,3.8,29,12.9,España,Calatayud,other
+2019,Federico Paternina,2013,1175426,Gran Reserva 2013,3.8,1059,12.9,España,Rioja,Rioja
+2020,Loxera,2017,1895952,Sentada Sobre la Bestia 2017,3.7,116,12.9,España,Valencia,other
+2021,Vinos del Viento - Michael Cooper,2015,5049890,Seleccion Especial Cariñena 2015,4.0,51,12.9,España,Cariñena,Catalunya Sul
+2022,Luzon,2018,1230455,Altos de Luzón 2018,3.9,261,12.9,España,Jumilla,other
+2023,Tridente,2018,2185839,Triton Tinta de Toro 2018,3.8,174,12.9,España,Toro,other
+2024,Bodega de Bardos,2016,6773233,Reserva 2016,4.1,1878,12.9,España,Ribera del Duero,Ribera del Duero
