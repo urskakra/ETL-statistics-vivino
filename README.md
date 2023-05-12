@@ -244,7 +244,7 @@ Cannot reject H0. There is no reason to assume Rioja had different temperature c
 
 TO BE ON THE SAFE SIDE:
 
-When in doubt about reds, choose Ribera del Duero from 2017.
+When in doubt about budget reds, choose Ribera del Duero from 2017.
 
 And consider paying a few € more. :)<br><br>
 
@@ -252,10 +252,15 @@ And consider paying a few € more. :)<br><br>
 ### **Sources**
 
 https://www.kaggle.com/datasets/joshuakalobbowles/vivino-wine-data?resource=download
+
 https://open-meteo.com/en/docs/historical-weather-api
+
 https://www.winemag.com/2021/04/22/best-spain-red-wine-vintage/
+
 https://www.winespectator.com/vintage-charts/region/spain
+
 https://www.wsetglobal.com/knowledge-centre/blog/2021/march/22/weather-wine-and-vintages/
+
 https://comparemyjet.com/wine-index/
 
 
