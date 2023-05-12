@@ -63,7 +63,7 @@ Accoring to WineMag and Wine Spectator, vintage quality across Spain from the mo
 
 * That leaves 2013, 2014, **2017** and **2018** as years where the weather across much of Spain didn’t fully cooperate. The result was widespread inconsistency.
 
-* **2020** is said to have had a hot and dry summer, which resulted in a lower yield of grapes but with excellent quality.
+* **2020** is said to have had a hot and dry summer, which resulted in a lower yield of grapes but with excellent quality.<br><br>
 
 
 Best rated vintages and brief historic weather conditions that influenced the wine production in those regions:
@@ -98,7 +98,7 @@ _Priorat (South Catalunya)_
 
 2018 - 92 - Moderate temperatures led to fresh reds with good structure
 
-2019 - 92-95 - A warm, dry year with healthy fruit; rich, balanced wines
+2019 - 92-95 - A warm, dry year with healthy fruit; rich, balanced wines<br><br>
 
 
 **About weather conditions.**
@@ -152,39 +152,45 @@ Looking at average ratings, it seems that across all years Catalunya wines are c
 
 Acording to Wine Spectator, the best Spanish vintages from last decade are the 2016 and 2019. 
 It also describes Rioja vintages of 2017 of inconsistent quality, due to tough weather.
-Let's test.
+Let's test.<br><br>
 
 _H0: Year 2016 produced good vintages, and have the rating the same or above average of all ratings (3.7)_
 
 _H1: Users didn't rate 2016 vintages as exceptional - ratings are below average (H1 < 3.7)._
 
 z-test
+
 alpha = 0.05
+
 p_value = 0.52508675
 
-At 0.95 significance level we don't have enough information to reject H0. 
+At 0.95 significance level we don't have enough information to reject H0. <br><br>
 
 _H0: Year 2019 produced good vintages, and have the rating the same or above average of all ratings (3.7)_
 
 _H1: Users didn't rate 2019 vintages as exceptional - ratings are below average (H1 < 3.7)._
 
 z-score
+
 alpha = 0.05
+
 p_value = 0.24348774
 
 At 0.95 significance level we don't have enough information to reject H0. 
 
-Based on Vivino user ratings, we cannot say that 2016 nor 2019 vintage were on average better, compared to other vintages.
+Based on Vivino user ratings, we cannot say that 2016 nor 2019 vintage were on average better, compared to other vintages.<br><br>
 
 _H0: Year 2017 produced lower quality vintages in Rioja, and have the rating the same or below average of all ratings (3.7)_
 
 _H1: Users didn't rate 2017 Rioja vintages as lower quality - ratings are above average (H1 > 3.7)._
     
 z-score
+
 alpha = 0.05
+
 p_value = 0.01234265
 
-Reject H0 at 0.95 significance level. Rioja ratings of 2017 vintages are above the average 3.7
+Reject H0 at 0.95 significance level. Rioja ratings of 2017 vintages are above the average 3.7<br><br>
 
 * **Do wines from most reviewed regions suggest they are of better quality?**
 
@@ -195,18 +201,22 @@ _H0: Rioja and Ribera del Duero have the same quality / same rated wines._
 _H1: There is a difference in ratings - one is better than the other._
     
 t-score
+
 alpha = 0.05
+
 p_value = 0.50434291
 
 At 0.95 significance level there is no reason to assume Rioja has better rated wines than Duero. Cannot reject H0.
 
-Side note: Rioja wines are rated differently from Catalunya ones. ;)
+Side note: Rioja wines are rated differently from Catalunya ones.
 
 t-score
+
 alpha = 0.05
+
 p_value = 0.008697
 
-Reject H0 at 0.95 significance level. Rioja wines are rated differently from Catalunya ones.
+Reject H0 at 0.95 significance level. Rioja wines are rated differently from Catalunya ones.<br><br>
 
 * **Weather conditions vs. Vintage quality.**
 
@@ -217,9 +227,11 @@ _H0: Weather conditions were the same across Rioja and Ribera del Duero regions.
 _H1: Weather conditions were not the same._
     
 ANOVA test
+
 alpha = 0.05
 
 p_value_precipitation = 0.143532
+
 p_value_temperature = 0.813278
 
 Cannot reject H0. There is no reason to assume Rioja had different precipitation conditions than Duero.
