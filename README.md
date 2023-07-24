@@ -1,4 +1,4 @@
-# project-2-vivino-UK
+# Project 2: ETL and statistical analysis with Vivino
 
 
 ### **Objective**
@@ -26,7 +26,9 @@ My interest was to know if:
 I used a **_Vivino_** wine dataset, available on Kaggle.
 For meteorogical analysis, I exported .csv datasets from Open-Meteo.
 
-Both datasets were cleaned, and prepared for analysis.
+Both datasets were cleaned, and prepared for statistical analysis.
+
+SQL used for queries and accessing tables from python.
 
 The wine dataset included the most rated wines (+100 per vintage) for years 2016-2020, so I chose to work with those years only.
 
@@ -235,6 +237,7 @@ p_value_precipitation = 0.143532
 p_value_temperature = 0.813278
 
 Cannot reject H0. There is no reason to assume Rioja had different precipitation conditions than Duero.
+
 Cannot reject H0. There is no reason to assume Rioja had different temperature conditions than Duero.<br><br>
 
 
