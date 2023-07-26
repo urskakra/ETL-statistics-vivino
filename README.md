@@ -1,34 +1,31 @@
 # Project 2: ETL and statistical analysis with Vivino
 
 
-### **Objective**
+### **Context**
 
 About wine consumption in Spain:
 
-60% of Spanish population are wine drinkers.
-
-70% of all wine consumed in Spain is Red.
-
-Average price per liter consumed is < €6.
+- 60% of Spanish population are wine drinkers.
+- 70% of all wine consumed in Spain is Red.
+- Average price per liter consumed is < €6.
 
 _Vintage_ = year when wine was produced.<br><br>
 
 This led me to analyze Spanish red wines in budget price range, up to €13 per bottle.<br><br>
+
+### **Objective**
 
 My interest was to know if:
 - for an average consumer, there is a significant difference between ratings of vintages
 - cusumer ratings confirm expert opinion on quality of vintages
 - weather conditions confirm perceived quality (ratings)<br><br>
 
+### **Dataset**
 
-### **Methods**
+I used two main datasets:
 
-I used a **_Vivino_** wine dataset, available on Kaggle.
-For meteorogical analysis, I exported .csv datasets from Open-Meteo.
-
-Both datasets were cleaned, and prepared for statistical analysis.
-
-SQL used for queries and accessing tables from python.
+1. **_Vivino_** wine dataset, available on Kaggle.
+2. For meteorogical analysis, I exported .csv datasets from Open-Meteo.
 
 The wine dataset included the most rated wines (+100 per vintage) for years 2016-2020, so I chose to work with those years only.
 
@@ -42,6 +39,16 @@ Meteo datasets include weather information for town coordinates inside these 3 r
 - Aranda de Duero (Ribera del Duero)
 - Corbera D'Ebre (South Catalunya)<br><br>
 
+### **Methods**
+
+#### 1. ETL | Python, SQL
+- cleaning and transforming dataset with Pandas, Numpy and Regex libraries
+- loading and joining tables in MySQL workbench
+
+#### 2. EDA | Python
+
+- statistical analysis with Sklearn and SciPy libraries
+- visualizations with Seaborn and Matplotlib libraries
 
 ### **Limitations**
 
@@ -277,9 +284,3 @@ https://www.winespectator.com/vintage-charts/region/spain
 https://www.wsetglobal.com/knowledge-centre/blog/2021/march/22/weather-wine-and-vintages/
 
 https://comparemyjet.com/wine-index/
-
-
-
-
-
-
